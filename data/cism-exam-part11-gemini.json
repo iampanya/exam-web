@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1001,
+    "question": "An incident response team has been assembled from a group of experienced individuals. Which type of exercise would be MOST beneficial for the team at the first drill?",
+    "questionTh": "ทีมรับมือเหตุการณ์ (Incident Response Team) ได้รับการจัดตั้งขึ้นจากกลุ่มบุคคลที่มีประสบการณ์ การฝึกซ้อมประเภทใดที่จะเป็นประโยชน์สูงสุดสำหรับทีมในการฝึกซ้อมครั้งแรก?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tabletop exercise",
+        "textTh": "การซ้อมแบบโต๊ะกลม (Tabletop exercise)",
+        "analysis": "ถูกต้อง - การซ้อมแบบโต๊ะกลมเป็นการอภิปรายสถานการณ์จำลอง เหมาะสำหรับการฝึกซ้อมครั้งแรกของทีมที่มีประสบการณ์ เพื่อทบทวนบทบาท หน้าที่ และขั้นตอนการปฏิบัติงาน โดยไม่ต้องใช้ทรัพยากรมากหรือมีความซับซ้อนสูง"
+      },
+      {
+        "id": "B",
+        "text": "Red team exercise",
+        "textTh": "การซ้อมแบบ Red team (Red team exercise)",
+        "analysis": "ผิด - การซ้อมแบบ Red team เป็นการจำลองการโจมตีโดยผู้เชี่ยวชาญ ซึ่งมีความซับซ้อนและมักจะทำหลังจากทีมมีความพร้อมและผ่านการฝึกซ้อมพื้นฐานมาแล้ว"
+      },
+      {
+        "id": "C",
+        "text": "Disaster recovery exercise",
+        "textTh": "การซ้อมกู้คืนระบบจากภัยพิบัติ (Disaster recovery exercise)",
+        "analysis": "ผิด - การซ้อมกู้คืนระบบจากภัยพิบัติมุ่งเน้นไปที่การกู้คืนระบบและข้อมูลหลังจากเกิดภัยพิบัติ ซึ่งเป็นขอบเขตที่กว้างกว่าและซับซ้อนกว่าการฝึกซ้อมการรับมือเหตุการณ์ครั้งแรก"
+      },
+      {
+        "id": "D",
+        "text": "Black box penetration test",
+        "textTh": "การทดสอบเจาะระบบแบบ Black box (Black box penetration test)",
+        "analysis": "ผิด - การทดสอบเจาะระบบเป็นการประเมินความปลอดภัยทางเทคนิค ไม่ใช่การฝึกซ้อมเพื่อพัฒนาการทำงานร่วมกันของทีมรับมือเหตุการณ์"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'MOST beneficial' และ 'first drill' สำหรับทีมที่มีประสบการณ์ การซ้อมแบบ Tabletop เป็นวิธีที่ดีที่สุดในการเริ่มต้น เพื่อให้ทีมได้ทบทวนและทำความเข้าใจบทบาท หน้าที่ และขั้นตอนการทำงานร่วมกันในสถานการณ์จำลอง โดยเน้นการอภิปรายและการตัดสินใจ",
+    "referenceLink": "https://www.examprepper.co/exam/161/201",
+    "studyTechnique": "จำไว้ว่า 'First drill' หรือ 'Initial exercise' มักจะหมายถึง Tabletop exercise เพราะเป็นการเริ่มต้นที่เน้นการทำความเข้าใจและวางแผน"
+  },
+  {
+    "id": 1002,
+    "question": "In violation of a policy prohibiting the use of cameras at the office, employees have been issued smartphones and tablet computers with enabled web cameras. Which of the following should be the information security manager's FIRST course of action?",
+    "questionTh": "ในการละเมิดนโยบายที่ห้ามใช้กล้องในสำนักงาน พนักงานได้รับสมาร์ทโฟนและแท็บเล็ตที่มีกล้องเว็บแคมเปิดใช้งานอยู่ ข้อใดต่อไปนี้ควรเป็นการดำเนินการแรกของผู้จัดการความปลอดภัยของข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revise the policy.",
+        "textTh": "แก้ไขนโยบาย",
+        "analysis": "ผิด - การแก้ไขนโยบายอาจเป็นผลลัพธ์ แต่ไม่ใช่ขั้นตอนแรก ผู้จัดการต้องเข้าใจความเสี่ยงก่อนที่จะตัดสินใจแก้ไขนโยบาย"
+      },
+      {
+        "id": "B",
+        "text": "Conduct a risk assessment.",
+        "textTh": "ดำเนินการประเมินความเสี่ยง",
+        "analysis": "ถูกต้อง - เมื่อมีสถานการณ์ใหม่ที่ขัดแย้งกับนโยบาย (การออกอุปกรณ์ที่มีกล้อง) ขั้นตอนแรกคือการประเมินความเสี่ยงเพื่อทำความเข้าใจผลกระทบและความน่าจะเป็นของความเสี่ยงที่เกิดขึ้นจริง เพื่อใช้เป็นข้อมูลในการตัดสินใจว่าจะต้องดำเนินการอย่างไรต่อไป"
+      },
+      {
+        "id": "C",
+        "text": "Communicate the acceptable use policy.",
+        "textTh": "สื่อสารนโยบายการใช้งานที่ยอมรับได้",
+        "analysis": "ผิด - การสื่อสารนโยบายซ้ำอาจไม่แก้ปัญหา หากปัญหาเกิดจากความขัดแย้งระหว่างนโยบายกับเครื่องมือที่ใช้งานจริง"
+      },
+      {
+        "id": "D",
+        "text": "Perform a root cause analysis.",
+        "textTh": "ดำเนินการวิเคราะห์หาสาเหตุรากเหง้า",
+        "analysis": "ผิด - การวิเคราะห์หาสาเหตุรากเหง้าจะช่วยให้เข้าใจว่าทำไมจึงเกิดการละเมิด แต่การประเมินความเสี่ยงจะให้ภาพรวมของผลกระทบและความน่าจะเป็นของความเสี่ยงที่เกิดขึ้น ซึ่งเป็นสิ่งสำคัญที่สุดในการตัดสินใจ 'FIRST' ว่าจะทำอะไร"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key words คือ 'violation of a policy', 'employees have been issued' และ 'FIRST course of action' เมื่อเกิดความขัดแย้งระหว่างนโยบายกับการปฏิบัติงานจริงเนื่องจากสถานการณ์ใหม่ (อุปกรณ์ใหม่) ผู้จัดการความปลอดภัยของข้อมูลต้องประเมินความเสี่ยงที่เกิดขึ้นก่อน เพื่อทำความเข้าใจผลกระทบและตัดสินใจอย่างมีข้อมูล",
+    "referenceLink": "https://www.examprepper.co/exam/161/201",
+    "studyTechnique": "จำไว้ว่าเมื่อมี 'conflict' ระหว่าง policy กับ reality หรือ 'new situation' ที่อาจก่อให้เกิดความเสี่ยง ขั้นตอน 'FIRST' มักจะเป็นการ 'Risk Assessment' เพื่อทำความเข้าใจสถานการณ์"
+  },
+  {
+    "id": 1003,
+    "question": "When performing a business impact analysis (BIA), who should calculate the recovery time and cost estimates?",
+    "questionTh": "เมื่อดำเนินการวิเคราะห์ผลกระทบทางธุรกิจ (BIA) ใครควรเป็นผู้คำนวณเวลาการกู้คืนและประมาณการค่าใช้จ่าย?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business process owner",
+        "textTh": "เจ้าของกระบวนการทางธุรกิจ",
+        "analysis": "ถูกต้อง - เจ้าของกระบวนการทางธุรกิจมีความเข้าใจอย่างลึกซึ้งเกี่ยวกับความสำคัญของกระบวนการของตน ผลกระทบของการหยุดชะงัก และทรัพยากรที่จำเป็นสำหรับการกู้คืน ทำให้พวกเขาสามารถประมาณการเวลาและค่าใช้จ่ายในการกู้คืนได้อย่างแม่นยำที่สุด"
+      },
+      {
+        "id": "B",
+        "text": "Business continuity coordinator",
+        "textTh": "ผู้ประสานงานความต่อเนื่องทางธุรกิจ",
+        "analysis": "ผิด - ผู้ประสานงานความต่อเนื่องทางธุรกิจมีบทบาทในการอำนวยความสะดวกและรวบรวมข้อมูล แต่ไม่ได้เป็นผู้คำนวณรายละเอียดของแต่ละกระบวนการ"
+      },
+      {
+        "id": "C",
+        "text": "Information security manager",
+        "textTh": "ผู้จัดการความปลอดภัยของข้อมูล",
+        "analysis": "ผิด - ผู้จัดการความปลอดภัยของข้อมูลมุ่งเน้นไปที่ความปลอดภัยของข้อมูล ไม่ใช่การคำนวณเวลาและค่าใช้จ่ายในการกู้คืนกระบวนการทางธุรกิจโดยตรง"
+      },
+      {
+        "id": "D",
+        "text": "Senior management",
+        "textTh": "ผู้บริหารระดับสูง",
+        "analysis": "ผิด - ผู้บริหารระดับสูงให้การสนับสนุนและอนุมัติ แต่ไม่ได้ลงรายละเอียดในการคำนวณ"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'business impact analysis (BIA)' และ 'calculate the recovery time and cost estimates' BIA มุ่งเน้นไปที่ผลกระทบต่อกระบวนการทางธุรกิจ ดังนั้นผู้ที่รู้ดีที่สุดเกี่ยวกับกระบวนการเหล่านั้นคือ 'Business process owner' ซึ่งเป็นผู้ที่สามารถให้ข้อมูลประมาณการที่แม่นยำที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/201",
+    "studyTechnique": "จำไว้ว่า BIA เกี่ยวกับ 'Business processes' ดังนั้น 'Business process owner' คือผู้เชี่ยวชาญและผู้รับผิดชอบข้อมูลโดยตรง"
+  },
+  {
+    "id": 1004,
+    "question": "A PRIMARY purpose of creating security policies is to:",
+    "questionTh": "วัตถุประสงค์หลัก (PRIMARY purpose) ของการสร้างนโยบายความปลอดภัยคือ:",
+    "options": [
+      {
+        "id": "A",
+        "text": "implement management's security governance strategy.",
+        "textTh": "นำกลยุทธ์การกำกับดูแลความปลอดภัยของผู้บริหารไปปฏิบัติ",
+        "analysis": "ผิด - นโยบายเป็นส่วนหนึ่งของการนำกลยุทธ์ไปปฏิบัติ แต่บทบาทหลักของนโยบายคือการสื่อสาร"
+      },
+      {
+        "id": "B",
+        "text": "establish the way security tasks should be executed.",
+        "textTh": "กำหนดวิธีการปฏิบัติงานด้านความปลอดภัย",
+        "analysis": "ผิด - นี่คือคำอธิบายของ 'ขั้นตอนการปฏิบัติงาน' (Procedures) ไม่ใช่นโยบาย (Policies) ซึ่งเป็นเอกสารระดับสูง"
+      },
+      {
+        "id": "C",
+        "text": "communicate management's security expectations.",
+        "textTh": "สื่อสารความคาดหวังด้านความปลอดภัยของผู้บริหาร",
+        "analysis": "ถูกต้อง - นโยบายความปลอดภัยเป็นเอกสารที่เป็นทางการที่ระบุถึงความตั้งใจและความคาดหวังของผู้บริหารเกี่ยวกับความปลอดภัยของข้อมูลและระบบ เพื่อให้พนักงานทุกคนเข้าใจและปฏิบัติตาม"
+      },
+      {
+        "id": "D",
+        "text": "define allowable security boundaries.",
+        "textTh": "กำหนดขอบเขตความปลอดภัยที่อนุญาต",
+        "analysis": "ผิด - แม้นโยบายจะช่วยกำหนดขอบเขต แต่จุดประสงค์หลักคือการสื่อสารความคาดหวังโดยรวม"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'PRIMARY purpose' และ 'security policies' นโยบายเป็นเครื่องมือหลักในการ 'communicate' ความคาดหวังและทิศทางด้านความปลอดภัยจากผู้บริหารไปยังพนักงานทุกคน",
+    "referenceLink": "https://www.examprepper.co/exam/161/201",
+    "studyTechnique": "จำไว้ว่า Policies = Communication of Management's Expectations. Procedures = How to do it."
+  },
+  {
+    "id": 1005,
+    "question": "The MAIN benefit of implementing a data loss prevention (DLP) solution is to:",
+    "questionTh": "ประโยชน์หลัก (MAIN benefit) ของการนำโซลูชัน Data Loss Prevention (DLP) มาใช้คือ:",
+    "options": [
+      {
+        "id": "A",
+        "text": "enhance the organization's antivirus controls.",
+        "textTh": "เพิ่มประสิทธิภาพการควบคุมแอนติไวรัสขององค์กร",
+        "analysis": "ผิด - DLP และ Antivirus เป็นการควบคุมที่แตกต่างกัน มีวัตถุประสงค์ต่างกัน"
+      },
+      {
+        "id": "B",
+        "text": "reduce the need for a security awareness program.",
+        "textTh": "ลดความจำเป็นของโปรแกรมสร้างความตระหนักด้านความปลอดภัย",
+        "analysis": "ผิด - โปรแกรมสร้างความตระหนักยังคงมีความสำคัญอย่างยิ่งในการส่งเสริมพฤติกรรมที่ปลอดภัยของผู้ใช้ DLP เป็นการควบคุมทางเทคนิคที่เสริมการตระหนักรู้ ไม่ใช่มาแทนที่"
+      },
+      {
+        "id": "C",
+        "text": "complement the organization's detective controls.",
+        "textTh": "เสริมการควบคุมแบบตรวจจับขององค์กร",
+        "analysis": "ถูกต้อง - DLP ทำหน้าที่ตรวจจับ (detect) และป้องกัน (prevent) การรั่วไหลของข้อมูลที่ละเอียดอ่อน โดยการตรวจสอบข้อมูลที่กำลังใช้งาน เคลื่อนย้าย หรือจัดเก็บอยู่ ซึ่งเป็นการเสริมความสามารถในการตรวจจับการละเมิดนโยบายและการรั่วไหลของข้อมูล"
+      },
+      {
+        "id": "D",
+        "text": "eliminate the risk of data loss.",
+        "textTh": "กำจัดความเสี่ยงของการสูญหายของข้อมูล",
+        "analysis": "ผิด - ไม่มีมาตรการควบคุมใดที่สามารถ 'กำจัด' ความเสี่ยงได้อย่างสมบูรณ์ DLP ช่วยลดความเสี่ยง แต่ไม่สามารถกำจัดได้"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'MAIN benefit' และ 'data loss prevention (DLP)' DLP มีความสามารถทั้งในการป้องกันและตรวจจับ แต่บทบาทสำคัญคือการ 'detect' ข้อมูลที่ละเอียดอ่อนและพยายามออกจากองค์กร ซึ่งเป็นการเสริมการควบคุมแบบตรวจจับโดยรวมขององค์กร",
+    "referenceLink": "https://www.examprepper.co/exam/161/201",
+    "studyTechnique": "จำไว้ว่า DLP ทำงานโดยการ 'detect' sensitive data และ 'enforce' policies. ดังนั้นมันจึงเป็นทั้ง detective และ preventive control แต่การตรวจจับเป็นพื้นฐานสำคัญ"
+  },
+  {
+    "id": 1006,
+    "question": "Which of the following BEST describes a buffer overflow?",
+    "questionTh": "ข้อใดต่อไปนี้อธิบาย Buffer Overflow ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A type of covert channel that captures data",
+        "textTh": "ช่องทางลับที่ดักจับข้อมูล",
+        "analysis": "ผิด - นี่คือคำอธิบายของ covert channel ซึ่งแตกต่างจาก buffer overflow"
+      },
+      {
+        "id": "B",
+        "text": "A function is carried out with more data than the function can handle",
+        "textTh": "ฟังก์ชันทำงานโดยมีข้อมูลเกินกว่าที่ฟังก์ชันจะรองรับได้",
+        "analysis": "ถูกต้อง - Buffer overflow เกิดขึ้นเมื่อโปรแกรมพยายามเขียนข้อมูลลงในบัฟเฟอร์ที่มีขนาดจำกัด แต่ข้อมูลมีขนาดเกินกว่าที่บัฟเฟอร์จะรองรับได้ ทำให้ข้อมูลเขียนทับหน่วยความจำส่วนอื่นที่อยู่ติดกัน"
+      },
+      {
+        "id": "C",
+        "text": "Malicious code designed to interfere with normal operations",
+        "textTh": "โค้ดประสงค์ร้ายที่ออกแบบมาเพื่อรบกวนการทำงานปกติ",
+        "analysis": "ผิด - นี่เป็นคำอธิบายที่กว้างเกินไปสำหรับมัลแวร์หลายประเภท ไม่ได้เฉพาะเจาะจงถึง buffer overflow"
+      },
+      {
+        "id": "D",
+        "text": "A program contains a hidden and unintended function that presents a security risk",
+        "textTh": "โปรแกรมมีฟังก์ชันที่ซ่อนอยู่และไม่ได้ตั้งใจซึ่งก่อให้เกิดความเสี่ยงด้านความปลอดภัย",
+        "analysis": "ผิด - นี่คือคำอธิบายของ backdoor หรือ logic bomb ไม่ใช่ buffer overflow"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key words คือ 'BEST describes' และ 'buffer overflow' คำอธิบายที่ตรงที่สุดคือการที่ข้อมูลมีขนาดเกินกว่าพื้นที่บัฟเฟอร์ที่จัดสรรไว้ ทำให้เกิดการเขียนทับหน่วยความจำส่วนอื่น",
+    "referenceLink": "https://www.examprepper.co/exam/161/202",
+    "studyTechnique": "จำไว้ว่า Buffer Overflow = 'Too much data for the buffer' (ข้อมูลล้นบัฟเฟอร์)"
+  },
+  {
+    "id": 1007,
+    "question": "Which of the following is the MOST important detail to capture in an organization's risk register?",
+    "questionTh": "ข้อใดต่อไปนี้เป็นรายละเอียดที่สำคัญที่สุดที่ควรบันทึกในทะเบียนความเสี่ยง (Risk Register) ขององค์กร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Risk acceptance criteria",
+        "textTh": "เกณฑ์การยอมรับความเสี่ยง",
+        "analysis": "ผิด - เกณฑ์การยอมรับความเสี่ยงเป็นภาพรวมขององค์กร ไม่ใช่รายละเอียดของความเสี่ยงแต่ละรายการ"
+      },
+      {
+        "id": "B",
+        "text": "Risk severity level",
+        "textTh": "ระดับความรุนแรงของความเสี่ยง",
+        "analysis": "ผิด - ระดับความรุนแรงมีความสำคัญในการจัดลำดับความสำคัญ แต่หากไม่มีเจ้าของความเสี่ยง ก็ยากที่จะดำเนินการแก้ไข"
+      },
+      {
+        "id": "C",
+        "text": "Risk ownership",
+        "textTh": "เจ้าของความเสี่ยง",
+        "analysis": "ถูกต้อง - การระบุเจ้าของความเสี่ยงเป็นสิ่งสำคัญที่สุด เพราะเจ้าของความเสี่ยงคือผู้รับผิดชอบในการจัดการ ติดตาม และตอบสนองต่อความเสี่ยงนั้น หากไม่มีเจ้าของ ความเสี่ยงมักจะไม่ได้รับการแก้ไข"
+      },
+      {
+        "id": "D",
+        "text": "Risk appetite",
+        "textTh": "ระดับความเสี่ยงที่องค์กรยอมรับได้",
+        "analysis": "ผิด - Risk appetite เป็นระดับความเสี่ยงโดยรวมที่องค์กรยอมรับได้ ไม่ใช่รายละเอียดของความเสี่ยงแต่ละรายการ"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'MOST important detail' และ 'risk register' สำหรับความเสี่ยงแต่ละรายการในทะเบียนความเสี่ยง การระบุ 'Risk ownership' เป็นสิ่งสำคัญที่สุด เพราะเป็นการกำหนดความรับผิดชอบในการจัดการความเสี่ยงนั้นๆ",
+    "referenceLink": "https://www.examprepper.co/exam/161/202",
+    "studyTechnique": "จำไว้ว่า 'No owner, no action' (ไม่มีเจ้าของ ก็ไม่มีการดำเนินการ) Ownership คือหัวใจของการจัดการความเสี่ยง"
+  },
+  {
+    "id": 1008,
+    "question": "Which of the following is the GREATEST benefit of information asset classification?",
+    "questionTh": "ข้อใดต่อไปนี้เป็นประโยชน์สูงสุด (GREATEST benefit) ของการจัดประเภทสินทรัพย์ข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supporting segregation of duties",
+        "textTh": "สนับสนุนการแบ่งแยกหน้าที่",
+        "analysis": "ผิด - การแบ่งแยกหน้าที่เกี่ยวข้องกับบทบาทและความรับผิดชอบของบุคคล ไม่ได้เกี่ยวข้องโดยตรงกับการจัดประเภทสินทรัพย์ข้อมูล"
+      },
+      {
+        "id": "B",
+        "text": "Defining resource ownership",
+        "textTh": "กำหนดความเป็นเจ้าของทรัพยากร",
+        "analysis": "ผิด - การจัดประเภทข้อมูลช่วยให้เข้าใจคุณค่าของข้อมูล แต่ไม่ได้เป็นตัวกำหนดความเป็นเจ้าของโดยตรง"
+      },
+      {
+        "id": "C",
+        "text": "Providing a basis for implementing a need-to-know policy",
+        "textTh": "เป็นพื้นฐานในการนำนโยบาย 'จำเป็นต้องรู้' (Need-to-know) มาใช้",
+        "analysis": "ถูกต้อง - การจัดประเภทสินทรัพย์ข้อมูลจะระบุระดับความละเอียดอ่อนและความสำคัญของข้อมูล ซึ่งเป็นพื้นฐานสำคัญในการกำหนดว่าใครควรมีสิทธิ์เข้าถึงข้อมูลใดบ้าง ตามหลักการ 'จำเป็นต้องรู้' (Need-to-know)"
+      },
+      {
+        "id": "D",
+        "text": "Helping to determine the recovery point objective (RPO)",
+        "textTh": "ช่วยในการกำหนดวัตถุประสงค์จุดกู้คืน (RPO)",
+        "analysis": "ผิด - RPO เกี่ยวข้องกับความต่อเนื่องทางธุรกิจและการกู้คืนข้อมูล ซึ่งได้รับอิทธิพลจากความสำคัญของข้อมูล แต่ประโยชน์สูงสุดของการจัดประเภทข้อมูลคือการควบคุมการเข้าถึง"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'GREATEST benefit' และ 'information asset classification' การจัดประเภทข้อมูลช่วยให้องค์กรสามารถกำหนดระดับการควบคุมที่เหมาะสม โดยเฉพาะอย่างยิ่งการควบคุมการเข้าถึงตามหลักการ 'need-to-know'",
+    "referenceLink": "https://www.examprepper.co/exam/161/202",
+    "studyTechnique": "จำไว้ว่า Classification = 'Need-to-know' (ใครควรเข้าถึงอะไร)"
+  },
+  {
+    "id": 1009,
+    "question": "While classifying information assets, an information security manager notices that several production databases do not have owners assigned to them. What the information security manager address this situation?",
+    "questionTh": "ในขณะที่จัดประเภทสินทรัพย์ข้อมูล ผู้จัดการความปลอดภัยของข้อมูลสังเกตเห็นว่าฐานข้อมูลการผลิตหลายรายการไม่มีเจ้าของที่ได้รับมอบหมาย ผู้จัดการความปลอดภัยของข้อมูลควรจัดการกับสถานการณ์นี้อย่างไร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assign the highest classification level to those databases.",
+        "textTh": "กำหนดระดับการจัดประเภทสูงสุดให้กับฐานข้อมูลเหล่านั้น",
+        "analysis": "ผิด - นี่เป็นการใช้มาตรการควบคุม แต่ไม่ได้แก้ปัญหาพื้นฐานของการขาดเจ้าของ"
+      },
+      {
+        "id": "B",
+        "text": "Assign responsibility to the database administrator (DBA).",
+        "textTh": "มอบความรับผิดชอบให้กับผู้ดูแลฐานข้อมูล (DBA)",
+        "analysis": "ผิด - DBA เป็นผู้ดูแล (custodian) ไม่ใช่เจ้าของ (owner) ผู้จัดการความปลอดภัยของข้อมูลไม่สามารถมอบหมายความเป็นเจ้าของได้โดยตรง ต้องมีการกำหนดโดยผู้บริหารระดับสูง"
+      },
+      {
+        "id": "C",
+        "text": "Prepare a report of the databases for senior management.",
+        "textTh": "จัดทำรายงานฐานข้อมูลสำหรับผู้บริหารระดับสูง",
+        "analysis": "ถูกต้อง - การขาดเจ้าของสินทรัพย์เป็นช่องโหว่ด้านธรรมาภิบาลที่สำคัญ ผู้จัดการความปลอดภัยของข้อมูลควรรายงานปัญหานี้ไปยังผู้บริหารระดับสูง ซึ่งเป็นผู้มีอำนาจในการกำหนดความเป็นเจ้าของและรับผิดชอบ"
+      },
+      {
+        "id": "D",
+        "text": "Review the databases for sensitive content.",
+        "textTh": "ตรวจสอบฐานข้อมูลเพื่อหาเนื้อหาที่ละเอียดอ่อน",
+        "analysis": "ผิด - นี่เป็นส่วนหนึ่งของกระบวนการจัดประเภทข้อมูล แต่ไม่ได้แก้ปัญหาการขาดเจ้าของ"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'production databases do not have owners assigned' และ 'information security manager address this situation' การขาดเจ้าของสินทรัพย์เป็นปัญหาด้านธรรมาภิบาล (governance) ที่ผู้จัดการความปลอดภัยของข้อมูลไม่สามารถแก้ไขได้ด้วยตนเอง ต้อง 'escalate' ไปยังผู้บริหารระดับสูงเพื่อดำเนินการ",
+    "referenceLink": "https://www.examprepper.co/exam/161/202",
+    "studyTechnique": "จำไว้ว่า 'Ownership' เป็นเรื่องของ 'Governance' หากมีปัญหาเรื่อง Ownership ต้อง 'Escalate to Senior Management'"
+  },
+  {
+    "id": 1010,
+    "question": "An organization’s research department plans to apply machine learning algorithms on a large data set containing customer names and purchase history. The risk leakage is considered high impact. Which of the following is the BEST risk treatment option in this situation?",
+    "questionTh": "แผนกวิจัยขององค์กรวางแผนที่จะใช้อัลกอริทึม Machine Learning กับชุดข้อมูลขนาดใหญ่ที่มีชื่อลูกค้าและประวัติการซื้อ ความเสี่ยงของการรั่วไหลของข้อมูลถือว่ามีผลกระทบสูง ข้อใดต่อไปนี้เป็นตัวเลือกการจัดการความเสี่ยงที่ดีที่สุดในสถานการณ์นี้?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accept the risk, as the benefits exceed the potential consequences.",
+        "textTh": "ยอมรับความเสี่ยง เนื่องจากประโยชน์ที่ได้รับเกินกว่าผลที่อาจเกิดขึ้น",
+        "analysis": "ผิด - โจทย์ระบุว่า 'high impact' สำหรับการรั่วไหลของข้อมูลลูกค้า การยอมรับความเสี่ยงที่มีผลกระทบสูงโดยไม่มีการลดความเสี่ยงมักไม่ใช่ทางเลือกที่ดีที่สุด"
+      },
+      {
+        "id": "B",
+        "text": "Mitigate the risk by applying anonymization on the data set.",
+        "textTh": "ลดความเสี่ยงโดยการใช้การไม่ระบุตัวตน (Anonymization) กับชุดข้อมูล",
+        "analysis": "ถูกต้อง - การไม่ระบุตัวตน (Anonymization) หรือการใช้นามแฝง (Pseudonymization) จะลบหรือปกปิดข้อมูลที่ระบุตัวตนได้ (PII) เช่น ชื่อลูกค้า ทำให้ข้อมูลมีความละเอียดอ่อนน้อยลงอย่างมากหากเกิดการรั่วไหล แต่ยังคงสามารถนำไปวิเคราะห์ด้วย Machine Learning ได้ ซึ่งเป็นการลดผลกระทบของความเสี่ยงโดยตรง"
+      },
+      {
+        "id": "C",
+        "text": "Transfer the risk by purchasing insurance.",
+        "textTh": "โอนความเสี่ยงโดยการซื้อประกัน",
+        "analysis": "ผิด - การซื้อประกันเป็นการโอนความเสี่ยงทางการเงินหลังจากเกิดเหตุการณ์ขึ้นแล้ว แต่ไม่ได้ป้องกันการรั่วไหลของข้อมูลหรือความเสียหายต่อชื่อเสียง"
+      },
+      {
+        "id": "D",
+        "text": "Mitigate the risk by encrypting the customer names in the data set.",
+        "textTh": "ลดความเสี่ยงโดยการเข้ารหัสชื่อลูกค้าในชุดข้อมูล",
+        "analysis": "ผิด - การเข้ารหัสช่วยปกป้องข้อมูลที่จัดเก็บหรือส่งผ่าน แต่หากข้อมูลต้องถูกถอดรหัสเพื่อนำไปประมวลผลด้วย Machine Learning ความเสี่ยงของการรั่วไหลในระหว่างการประมวลผลยังคงมีอยู่ การไม่ระบุตัวตนจะลดความละเอียดอ่อนของข้อมูลโดยตรง"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key words คือ 'high impact' ของ 'risk leakage' ของ 'customer names' และ 'BEST risk treatment option' การทำ Anonymization เป็นการลดความเสี่ยงโดยตรงโดยการทำให้ข้อมูลส่วนบุคคลไม่สามารถระบุตัวตนได้ ซึ่งลดผลกระทบของการรั่วไหลได้อย่างมีนัยสำคัญ ในขณะที่ยังคงสามารถใช้ข้อมูลเพื่อการวิเคราะห์ได้",
+    "referenceLink": "https://www.examprepper.co/exam/161/202",
+    "studyTechnique": "จำไว้ว่าเมื่อต้องใช้ข้อมูลส่วนบุคคลเพื่อการวิเคราะห์และมีความเสี่ยงสูง การ 'Anonymization' หรือ 'Pseudonymization' เป็นวิธีที่ดีที่สุดในการลดความเสี่ยงโดยไม่กระทบต่อประโยชน์ของการวิเคราะห์"
+  },
+  {
+    "id": 1011,
+    "question": "IT projects have gone over budget with too many security controls being added post-production. Which of the following would MOST help to ensure that relevant to a project?",
+    "questionTh": "โครงการ IT มีงบประมาณเกินกำหนดเนื่องจากมีการเพิ่มการควบคุมความปลอดภัยมากเกินไปหลังจากการผลิต ข้อใดต่อไปนี้จะช่วยให้มั่นใจได้มากที่สุดว่าเกี่ยวข้องกับโครงการ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Involving information security at each stage of project management",
+        "textTh": "การให้ความปลอดภัยของข้อมูลเข้ามามีส่วนร่วมในแต่ละขั้นตอนของการบริหารโครงการ",
+        "analysis": "ถูกต้อง - การรวมความปลอดภัยเข้ากับทุกขั้นตอนของวงจรชีวิตโครงการ (Security by Design / Shift Left) ตั้งแต่เริ่มต้น จะช่วยให้ระบุและออกแบบการควบคุมที่เหมาะสมได้อย่างมีประสิทธิภาพ ป้องกันการแก้ไขหรือเพิ่มเติมที่แพงและล่าช้าหลังจากการผลิต"
+      },
+      {
+        "id": "B",
+        "text": "Creating a data classification framework and providing it to stakeholders",
+        "textTh": "การสร้างกรอบการจัดประเภทข้อมูลและจัดหาให้กับผู้มีส่วนได้ส่วนเสีย",
+        "analysis": "ผิด - สิ่งนี้สำคัญสำหรับความปลอดภัย แต่ไม่ได้แก้ปัญหาโดยตรงว่าเมื่อใดและอย่างไรที่การควบคุมจะถูกรวมเข้ากับโครงการอย่างมีประสิทธิภาพ"
+      },
+      {
+        "id": "C",
+        "text": "Identifying responsibilities during the project business case analysis",
+        "textTh": "การระบุความรับผิดชอบในระหว่างการวิเคราะห์กรณีธุรกิจของโครงการ",
+        "analysis": "ผิด - สิ่งนี้สำคัญสำหรับธรรมาภิบาล แต่ไม่ได้ช่วยให้มั่นใจว่าการควบคุมความปลอดภัยจะ 'relevant' หรือรวมเข้ากับโครงการอย่างมีประสิทธิภาพ"
+      },
+      {
+        "id": "D",
+        "text": "Providing stakeholders with minimum information security requirements",
+        "textTh": "การจัดหาข้อกำหนดด้านความปลอดภัยของข้อมูลขั้นต่ำให้กับผู้มีส่วนได้ส่วนเสีย",
+        "analysis": "ผิด - การให้ข้อกำหนดขั้นต่ำเป็นสิ่งที่ดี แต่การมีส่วนร่วมในทุกขั้นตอนจะช่วยให้การควบคุมมีความเหมาะสมและทันเวลามากกว่า"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'over budget', 'too many security controls being added post-production' และ 'MOST help' ปัญหาคือการเพิ่มการควบคุมล่าช้าและมีค่าใช้จ่ายสูง วิธีแก้ปัญหาที่ดีที่สุดคือการรวมความปลอดภัยเข้ากับทุกขั้นตอนของโครงการตั้งแต่เริ่มต้น เพื่อให้มีการพิจารณาและออกแบบการควบคุมอย่างเหมาะสมตั้งแต่แรก",
+    "referenceLink": "https://www.examprepper.co/exam/161/203",
+    "studyTechnique": "จำไว้ว่าปัญหาที่เกิดจากการเพิ่ม Security controls 'post-production' แก้ไขได้ด้วยการ 'Involving security at each stage' (Security by Design)"
+  },
+  {
+    "id": 1012,
+    "question": "Which of the following is the BEST approach to reduce unnecessary duplication of compliance activities?",
+    "questionTh": "ข้อใดต่อไปนี้เป็นแนวทางที่ดีที่สุดในการลดความซ้ำซ้อนที่ไม่จำเป็นของกิจกรรมการปฏิบัติตามข้อกำหนด (Compliance Activities)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Integration of assurance efforts",
+        "textTh": "การบูรณาการความพยายามในการรับรอง (Assurance efforts)",
+        "analysis": "ถูกต้อง - การบูรณาการความพยายามในการรับรอง (เช่น การตรวจสอบ, การประเมิน) หมายถึงการรวมกิจกรรมการตรวจสอบหลายรายการเข้าด้วยกัน เพื่อให้ครอบคลุมข้อกำหนดการปฏิบัติตามหลายมาตรฐานพร้อมกัน ซึ่งช่วยลดความซ้ำซ้อนและเพิ่มประสิทธิภาพ"
+      },
+      {
+        "id": "B",
+        "text": "Automation of controls",
+        "textTh": "การทำให้การควบคุมเป็นไปโดยอัตโนมัติ",
+        "analysis": "ผิด - การทำให้การควบคุมเป็นไปโดยอัตโนมัติช่วยเพิ่มประสิทธิภาพของการควบคุม แต่ไม่ได้ลดความซ้ำซ้อนของ 'กิจกรรมการปฏิบัติตามข้อกำหนด' โดยตรง"
+      },
+      {
+        "id": "C",
+        "text": "Documentation of control procedures",
+        "textTh": "การจัดทำเอกสารขั้นตอนการควบคุม",
+        "analysis": "ผิด - การจัดทำเอกสารช่วยให้มีความสอดคล้องและชัดเจน แต่ไม่ได้ลดความซ้ำซ้อนของกิจกรรม"
+      },
+      {
+        "id": "D",
+        "text": "Standardization of compliance requirements",
+        "textTh": "การกำหนดมาตรฐานข้อกำหนดการปฏิบัติตาม",
+        "analysis": "ผิด - การกำหนดมาตรฐานข้อกำหนดอาจช่วยได้ แต่แนวทางที่ดีที่สุดในการลดความซ้ำซ้อนของ 'กิจกรรม' คือการบูรณาการความพยายามในการตรวจสอบ"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'BEST approach' และ 'reduce unnecessary duplication of compliance activities' การบูรณาการความพยายามในการรับรอง (เช่น การตรวจสอบภายในหรือภายนอก) ช่วยให้องค์กรสามารถตรวจสอบการปฏิบัติตามข้อกำหนดหลายรายการพร้อมกันได้ ซึ่งเป็นหัวใจสำคัญของการลดความซ้ำซ้อนในกิจกรรม GRC (Governance, Risk, and Compliance)",
+    "referenceLink": "https://www.examprepper.co/exam/161/203",
+    "studyTechnique": "จำไว้ว่า 'Duplication of compliance activities' แก้ไขได้ด้วย 'Integration of assurance efforts' (คิดถึง GRC Framework)"
+  },
+  {
+    "id": 1013,
+    "question": "Which of the following BEST helps to ensure a risk response plan will be developed and executed in a timely manner?",
+    "questionTh": "ข้อใดต่อไปนี้ช่วยให้มั่นใจได้ดีที่สุดว่าแผนการตอบสนองความเสี่ยงจะได้รับการพัฒนาและดำเนินการอย่างทันท่วงที?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Establishing risk metrics",
+        "textTh": "การกำหนดตัวชี้วัดความเสี่ยง",
+        "analysis": "ผิด - ตัวชี้วัดช่วยในการติดตามความเสี่ยง แต่ไม่ได้ช่วยให้มั่นใจโดยตรงว่าแผนจะถูกพัฒนาและดำเนินการอย่างทันท่วงที"
+      },
+      {
+        "id": "B",
+        "text": "Training on risk management procedures",
+        "textTh": "การฝึกอบรมเกี่ยวกับขั้นตอนการบริหารความเสี่ยง",
+        "analysis": "ผิด - การฝึกอบรมช่วยเพิ่มขีดความสามารถ แต่ไม่ได้รับประกันการดำเนินการที่ทันท่วงทีหากไม่มีความรับผิดชอบที่ชัดเจน"
+      },
+      {
+        "id": "C",
+        "text": "Reporting on documented deficiencies",
+        "textTh": "การรายงานข้อบกพร่องที่บันทึกไว้",
+        "analysis": "ผิด - การรายงานช่วยเน้นปัญหา แต่ไม่ได้ช่วยให้มั่นใจว่าแผนจะถูกพัฒนาและดำเนินการ"
+      },
+      {
+        "id": "D",
+        "text": "Assigning a risk owner",
+        "textTh": "การมอบหมายเจ้าของความเสี่ยง",
+        "analysis": "ถูกต้อง - เจ้าของความเสี่ยงคือผู้รับผิดชอบในการจัดการความเสี่ยง รวมถึงการพัฒนาและดำเนินการแผนการตอบสนองความเสี่ยง หากไม่มีเจ้าของที่ชัดเจน การดำเนินการมักจะล่าช้าหรือไม่เกิดขึ้นเลย"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key words คือ 'BEST helps to ensure', 'risk response plan' และ 'developed and executed in a timely manner' เช่นเดียวกับคำถามก่อนหน้า 'Ownership' เป็นสิ่งสำคัญที่สุดในการขับเคลื่อนการดำเนินการและรับผิดชอบเพื่อให้แผนการตอบสนองความเสี่ยงถูกพัฒนาและดำเนินการอย่างทันท่วงที",
+    "referenceLink": "https://www.examprepper.co/exam/161/203",
+    "studyTechnique": "จำไว้ว่า 'Timely execution' ของแผนใดๆ ต้องการ 'Owner' ที่รับผิดชอบ"
+  },
+  {
+    "id": 1014,
+    "question": "An information security manager learns that IT personnel are not adhering to the information security policy because it creates process inefficiencies. What should the information security manager do FIRST?",
+    "questionTh": "ผู้จัดการความปลอดภัยของข้อมูลทราบว่าบุคลากร IT ไม่ปฏิบัติตามนโยบายความปลอดภัยของข้อมูลเนื่องจากนโยบายดังกล่าวทำให้เกิดความไม่มีประสิทธิภาพในกระบวนการ ผู้จัดการความปลอดภัยของข้อมูลควรทำสิ่งใดเป็นอันดับแรก?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Propose that IT update information security policies and procedures.",
+        "textTh": "เสนอให้ IT อัปเดตนโยบายและขั้นตอนความปลอดภัยของข้อมูล",
+        "analysis": "ผิด - การเสนอให้อัปเดตนโยบายอาจเป็นผลลัพธ์ แต่ยังเร็วเกินไปที่จะทำเช่นนั้นโดยไม่เข้าใจความเสี่ยงที่แท้จริงของการไม่ปฏิบัติตาม"
+      },
+      {
+        "id": "B",
+        "text": "Request that internal audit conduct a review of the policy development process.",
+        "textTh": "ขอให้การตรวจสอบภายในดำเนินการทบทวนกระบวนการพัฒนานโยบาย",
+        "analysis": "ผิด - การตรวจสอบภายในอาจเข้ามาเกี่ยวข้องในภายหลัง แต่ขั้นตอนแรกสำหรับผู้จัดการความปลอดภัยของข้อมูลคือการทำความเข้าใจสถานการณ์ปัจจุบัน"
+      },
+      {
+        "id": "C",
+        "text": "Conduct user awareness training within the IT function.",
+        "textTh": "ดำเนินการฝึกอบรมสร้างความตระหนักแก่ผู้ใช้ภายในหน่วยงาน IT",
+        "analysis": "ผิด - การฝึกอบรมสร้างความตระหนักเป็นสิ่งที่ดี แต่หากนโยบายเองเป็นสาเหตุของความไม่มีประสิทธิภาพ การย้ำนโยบายอาจไม่แก้ปัญหาพื้นฐาน"
+      },
+      {
+        "id": "D",
+        "text": "Determine the risk related to noncompliance with the policy.",
+        "textTh": "พิจารณาความเสี่ยงที่เกี่ยวข้องกับการไม่ปฏิบัติตามนโยบาย",
+        "analysis": "ถูกต้อง - เมื่อนโยบายไม่ได้รับการปฏิบัติตามเนื่องจากความไม่มีประสิทธิภาพ ผู้จัดการความปลอดภัยของข้อมูลควรประเมินความเสี่ยงที่แท้จริงที่เกิดจากการไม่ปฏิบัติตาม เพื่อทำความเข้าใจว่าความเสี่ยงนั้นยอมรับได้หรือไม่ และควรดำเนินการอย่างไรต่อไป (เช่น บังคับใช้นโยบาย, แก้ไขนโยบาย, หรือใช้มาตรการควบคุมชดเชย)"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key words คือ 'not adhering to the information security policy', 'creates process inefficiencies' และ 'FIRST' เมื่อเกิดความขัดแย้งระหว่างความปลอดภัยและประสิทธิภาพการดำเนินงาน ผู้จัดการความปลอดภัยของข้อมูลต้อง 'determine the risk' ที่เกิดจากการไม่ปฏิบัติตามนโยบายก่อน เพื่อให้สามารถตัดสินใจได้อย่างมีข้อมูล",
+    "referenceLink": "https://www.examprepper.co/exam/161/203",
+    "studyTechnique": "จำไว้ว่าเมื่อมี 'non-compliance' หรือ 'policy violation' ที่มีเหตุผล (เช่น inefficiency) ขั้นตอน 'FIRST' คือการ 'assess the risk' ของสถานการณ์นั้น"
+  },
+  {
+    "id": 1015,
+    "question": "Which of the following is MOST important to include in a report to key stakeholders regarding the effectiveness of an information security program?",
+    "questionTh": "ข้อใดต่อไปนี้มีความสำคัญที่สุดที่จะรวมไว้ในรายงานต่อผู้มีส่วนได้ส่วนเสียหลัก (Key Stakeholders) เกี่ยวกับประสิทธิภาพของโปรแกรมความปลอดภัยของข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Security incident details",
+        "textTh": "รายละเอียดเหตุการณ์ด้านความปลอดภัย",
+        "analysis": "ผิด - รายละเอียดเหตุการณ์อาจมากเกินไปสำหรับผู้มีส่วนได้ส่วนเสียหลักที่ต้องการภาพรวมและผลกระทบทางธุรกิจ"
+      },
+      {
+        "id": "B",
+        "text": "Security metrics",
+        "textTh": "ตัวชี้วัดความปลอดภัย",
+        "analysis": "ผิด - ตัวชี้วัดเป็นข้อมูลดิบ ผู้มีส่วนได้ส่วนเสียหลักต้องการทราบว่าตัวชี้วัดเหล่านั้นหมายถึงอะไรในแง่ของความเสี่ยงทางธุรกิจ"
+      },
+      {
+        "id": "C",
+        "text": "Security risk exposure",
+        "textTh": "การเปิดเผยความเสี่ยงด้านความปลอดภัย",
+        "analysis": "ถูกต้อง - ผู้มีส่วนได้ส่วนเสียหลัก (เช่น ผู้บริหารระดับสูง, คณะกรรมการ) สนใจเกี่ยวกับผลกระทบทางธุรกิจและระดับความเสี่ยงที่องค์กรเผชิญอยู่ การรายงาน 'Security risk exposure' จะสื่อสารประสิทธิภาพของโปรแกรมความปลอดภัยในแง่ของธุรกิจ"
+      },
+      {
+        "id": "D",
+        "text": "Security baselines",
+        "textTh": "เกณฑ์มาตรฐานความปลอดภัย",
+        "analysis": "ผิด - เกณฑ์มาตรฐานเป็นรายละเอียดทางเทคนิค ผู้มีส่วนได้ส่วนเสียหลักไม่สนใจรายละเอียดเหล่านี้มากเท่ากับความเสี่ยงโดยรวม"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'MOST important', 'report to key stakeholders' และ 'effectiveness of an information security program' ผู้มีส่วนได้ส่วนเสียหลักสนใจใน 'business impact' และ 'risk' ดังนั้นการรายงาน 'Security risk exposure' จะสื่อสารข้อมูลที่เกี่ยวข้องกับธุรกิจมากที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/203",
+    "studyTechnique": "จำไว้ว่า 'Key Stakeholders' สนใจ 'Risk Exposure' (ความเสี่ยงทางธุรกิจ) ไม่ใช่รายละเอียดทางเทคนิค"
+  },
+  {
+    "id": 1016,
+    "question": "An organization is increasingly using Software as a Service (SaaS) to replace in-house hosting and support of IT applications. Which of the following would be the MOST effective way to help ensure procurement decisions consider information security concerns?",
+    "questionTh": "องค์กรกำลังใช้ Software as a Service (SaaS) มากขึ้นเพื่อทดแทนการโฮสต์และการสนับสนุนแอปพลิเคชัน IT ภายในองค์กร ข้อใดต่อไปนี้เป็นวิธีที่มีประสิทธิภาพที่สุดที่จะช่วยให้มั่นใจว่าการตัดสินใจจัดซื้อจัดจ้างคำนึงถึงข้อกังวลด้านความปลอดภัยของข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Integrate information security risk assessments into the procurement process.",
+        "textTh": "บูรณาการการประเมินความเสี่ยงด้านความปลอดภัยของข้อมูลเข้ากับกระบวนการจัดซื้อจัดจ้าง",
+        "analysis": "ถูกต้อง - เมื่อองค์กรใช้ SaaS มากขึ้น ความปลอดภัยของข้อมูลจะขึ้นอยู่กับผู้ให้บริการ การรวมการประเมินความเสี่ยงด้านความปลอดภัยเข้ากับกระบวนการจัดซื้อจัดจ้างตั้งแต่แรกเริ่ม จะช่วยให้มั่นใจว่าข้อกังวลด้านความปลอดภัยได้รับการพิจารณาก่อนการตัดสินใจเลือกผู้ให้บริการ"
+      },
+      {
+        "id": "B",
+        "text": "Invite IT members into regular procurement team meetings to influence best practice.",
+        "textTh": "เชิญสมาชิก IT เข้าร่วมการประชุมทีมจัดซื้อจัดจ้างเป็นประจำเพื่อมีอิทธิพลต่อแนวปฏิบัติที่ดีที่สุด",
+        "analysis": "ผิด - แม้จะดีสำหรับการทำงานร่วมกัน แต่ก็เป็นทางการน้อยกว่าและไม่รับประกันว่าการตัดสินใจจัดซื้อจัดจ้างทั้งหมดจะพิจารณาความปลอดภัยอย่างเป็นระบบ"
+      },
+      {
+        "id": "C",
+        "text": "Enforce the right to audit in procurement contracts with SaaS vendors.",
+        "textTh": "บังคับใช้สิทธิ์ในการตรวจสอบในสัญญาจัดซื้อจัดจ้างกับผู้จำหน่าย SaaS",
+        "analysis": "ผิด - สิ่งนี้สำคัญสำหรับการรับรองความปลอดภัยอย่างต่อเนื่อง แต่เกิดขึ้นหลังจากเซ็นสัญญาแล้ว ไม่ได้ช่วยให้มั่นใจว่าความปลอดภัยได้รับการพิจารณาในระหว่างการตัดสินใจจัดซื้อจัดจ้างเบื้องต้น"
+      },
+      {
+        "id": "D",
+        "text": "Provide regular information security training to the procurement team.",
+        "textTh": "จัดฝึกอบรมความปลอดภัยของข้อมูลเป็นประจำให้กับทีมจัดซื้อจัดจ้าง",
+        "analysis": "ผิด - การฝึกอบรมเป็นประโยชน์สำหรับการสร้างความตระหนัก แต่หากไม่มีกระบวนการที่เป็นทางการ (เช่น การประเมินความเสี่ยงที่บูรณาการ) อาจไม่นำไปสู่การพิจารณาความปลอดภัยที่มีประสิทธิภาพอย่างสม่ำเสมอในการตัดสินใจทุกครั้ง"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'increasingly using SaaS', 'MOST effective way' และ 'procurement decisions consider information security concerns' การใช้ SaaS หมายถึงการถ่ายโอนความรับผิดชอบด้านความปลอดภัยบางส่วนไปยังผู้ให้บริการ ดังนั้นการ 'integrate risk assessments into the procurement process' เป็นวิธีที่มีประสิทธิภาพที่สุดในการประเมินความปลอดภัยของผู้ให้บริการก่อนที่จะทำสัญญา",
+    "referenceLink": "https://www.examprepper.co/exam/161/204",
+    "studyTechnique": "จำไว้ว่าเมื่อมีการ 'outsourcing' หรือใช้ 'third-party services' (เช่น SaaS) การ 'integration of security risk assessments into procurement' เป็นสิ่งสำคัญที่สุด"
+  },
+  {
+    "id": 1017,
+    "question": "Which of the following is the MOST important consideration when selecting members for an information security steering committee?",
+    "questionTh": "ข้อใดต่อไปนี้เป็นข้อพิจารณาที่สำคัญที่สุด (MOST important consideration) ในการเลือกสมาชิกสำหรับคณะกรรมการกำกับดูแลความปลอดภัยของข้อมูล (Information Security Steering Committee)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Information security expertise",
+        "textTh": "ความเชี่ยวชาญด้านความปลอดภัยของข้อมูล",
+        "analysis": "ผิด - แม้ความรู้ด้านความปลอดภัยจะเป็นประโยชน์ แต่บทบาทของคณะกรรมการกำกับดูแลคือเชิงกลยุทธ์ ไม่ใช่การปฏิบัติการด้านความปลอดภัย"
+      },
+      {
+        "id": "B",
+        "text": "Tenure in the organization",
+        "textTh": "ระยะเวลาการดำรงตำแหน่งในองค์กร",
+        "analysis": "ผิด - ประสบการณ์ในองค์กรเป็นสิ่งที่ดี แต่ไม่ใช่ปัจจัยที่สำคัญที่สุดสำหรับคณะกรรมการกำกับดูแล"
+      },
+      {
+        "id": "C",
+        "text": "Business expertise",
+        "textTh": "ความเชี่ยวชาญทางธุรกิจ",
+        "analysis": "ถูกต้อง - คณะกรรมการกำกับดูแลความปลอดภัยของข้อมูลมีหน้าที่ให้คำแนะนำเชิงกลยุทธ์และกำกับดูแล ดังนั้นสมาชิกต้องมีความเข้าใจอย่างลึกซึ้งเกี่ยวกับวัตถุประสงค์ทางธุรกิจ ความเสี่ยง และลำดับความสำคัญ เพื่อให้มั่นใจว่าโครงการความปลอดภัยสอดคล้องและสนับสนุนเป้าหมายขององค์กร"
+      },
+      {
+        "id": "D",
+        "text": "Cross-functional composition",
+        "textTh": "องค์ประกอบที่หลากหลายข้ามสายงาน",
+        "analysis": "ผิด - สิ่งนี้สำคัญมากสำหรับการมีมุมมองที่หลากหลาย แต่เหตุผลหลักที่ต้องมีองค์ประกอบที่หลากหลายคือเพื่อนำ 'business expertise' ที่แตกต่างกันมาใช้"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'MOST important consideration' และ 'information security steering committee' คณะกรรมการกำกับดูแลมีบทบาทเชิงกลยุทธ์ ดังนั้นสมาชิกต้องมีความเข้าใจใน 'business objectives' และ 'risks' เพื่อให้การตัดสินใจด้านความปลอดภัยสอดคล้องกับเป้าหมายทางธุรกิจ",
+    "referenceLink": "https://www.examprepper.co/exam/161/204",
+    "studyTechnique": "จำไว้ว่า 'Steering Committee' = 'Strategic' = 'Business Expertise' (เพื่อเชื่อมโยงความปลอดภัยกับเป้าหมายธุรกิจ)"
+  },
+  {
+    "id": 1018,
+    "question": "Which of the following should be the KEY consideration when creating an information security communication plan with industry peers?",
+    "questionTh": "ข้อใดต่อไปนี้ควรเป็นข้อพิจารณาหลัก (KEY consideration) ในการสร้างแผนการสื่อสารความปลอดภัยของข้อมูลกับเพื่อนร่วมอุตสาหกรรม?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reducing the costs associated with information sharing by automating the process",
+        "textTh": "ลดต้นทุนที่เกี่ยวข้องกับการแบ่งปันข้อมูลโดยการทำให้กระบวนการเป็นไปโดยอัตโนมัติ",
+        "analysis": "ผิด - การลดต้นทุนเป็นประโยชน์ แต่ไม่ใช่ข้อพิจารณาหลักสำหรับ 'อะไร' ที่จะแบ่งปัน"
+      },
+      {
+        "id": "B",
+        "text": "Balancing the benefits of information sharing with the drawbacks of sharing sensitive information",
+        "textTh": "สร้างสมดุลระหว่างประโยชน์ของการแบ่งปันข้อมูลกับข้อเสียของการแบ่งปันข้อมูลที่ละเอียดอ่อน",
+        "analysis": "ถูกต้อง - นี่คือความท้าทายหลักของการแบ่งปันข้อมูลภายนอก องค์กรต้องการได้รับประโยชน์จากข้อมูลเชิงลึกจากเพื่อนร่วมอุตสาหกรรม (เช่น ข้อมูลภัยคุกคาม) แต่ก็ต้องปกป้องข้อมูลที่ละเอียดอ่อนของตนเอง การหาจุดสมดุลนี้เป็นสิ่งสำคัญที่สุด"
+      },
+      {
+        "id": "C",
+        "text": "Notifying the legal department whenever incident-related information is shared",
+        "textTh": "แจ้งฝ่ายกฎหมายทุกครั้งที่มีการแบ่งปันข้อมูลที่เกี่ยวข้องกับเหตุการณ์",
+        "analysis": "ผิด - สิ่งนี้สำคัญสำหรับการปฏิบัติตามกฎหมายและการป้องกันทางกฎหมาย แต่เป็นขั้นตอนการปฏิบัติงาน ไม่ใช่ข้อพิจารณาหลักสำหรับแผนโดยรวม"
+      },
+      {
+        "id": "D",
+        "text": "Ensuring information is detailed enough to be of use to other organizations",
+        "textTh": "ตรวจสอบให้แน่ใจว่าข้อมูลมีรายละเอียดเพียงพอที่จะเป็นประโยชน์ต่อองค์กรอื่น",
+        "analysis": "ผิด - นี่เป็นเป้าหมายของการแบ่งปัน แต่ต้องสมดุลกับความเสี่ยงของการแบ่งปันข้อมูลที่ละเอียดอ่อนมากเกินไป"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key words คือ 'KEY consideration' และ 'communication plan with industry peers' การแบ่งปันข้อมูลกับภายนอกมีความเสี่ยงเสมอ ดังนั้นการ 'balancing' ประโยชน์ของการแบ่งปันกับความเสี่ยงของการเปิดเผยข้อมูลที่ละเอียดอ่อนของตนเองจึงเป็นสิ่งสำคัญที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/204",
+    "studyTechnique": "จำไว้ว่า 'Sharing information externally' = 'Balance benefits vs. risks of sensitive data sharing'"
+  },
+  {
+    "id": 1019,
+    "question": "Which of the following is MOST effective for communicating forward-looking trends within security reporting?",
+    "questionTh": "ข้อใดต่อไปนี้มีประสิทธิภาพมากที่สุดสำหรับการสื่อสารแนวโน้มในอนาคต (Forward-looking trends) ในการรายงานความปลอดภัย?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Key risk indicators (KRIs)",
+        "textTh": "ตัวชี้วัดความเสี่ยงหลัก (KRIs)",
+        "analysis": "ถูกต้อง - KRIs เป็นตัวชี้วัดที่ให้สัญญาณเตือนล่วงหน้าถึงการเพิ่มขึ้นของความเสี่ยง พวกมันมีลักษณะ 'forward-looking' โดยธรรมชาติ และช่วยทำนายปัญหาที่อาจเกิดขึ้นในอนาคต ทำให้สามารถดำเนินการเชิงรุกได้"
+      },
+      {
+        "id": "B",
+        "text": "Key performance indicators (KPIs)",
+        "textTh": "ตัวชี้วัดประสิทธิภาพหลัก (KPIs)",
+        "analysis": "ผิด - KPIs วัดประสิทธิภาพในอดีต (เช่น จำนวนเหตุการณ์, อัตราการอัปเดตแพตช์) ซึ่งเป็น 'backward-looking'"
+      },
+      {
+        "id": "C",
+        "text": "Key control indicators (KCIs)",
+        "textTh": "ตัวชี้วัดการควบคุมหลัก (KCIs)",
+        "analysis": "ผิด - KCIs วัดประสิทธิภาพของการควบคุม ซึ่งมักจะเป็นประสิทธิภาพ 'ปัจจุบันหรือในอดีต'"
+      },
+      {
+        "id": "D",
+        "text": "Key goal indicators (KGIs)",
+        "textTh": "ตัวชี้วัดเป้าหมายหลัก (KGIs)",
+        "analysis": "ผิด - KGIs วัดว่าเป้าหมายเชิงกลยุทธ์บรรลุผลหรือไม่ ซึ่งมักจะเป็น 'backward-looking' หรือสถานะปัจจุบัน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key words คือ 'MOST effective' และ 'forward-looking trends' KRIs ถูกออกแบบมาโดยเฉพาะเพื่อเป็นตัวชี้วัดที่มองไปข้างหน้า โดยให้สัญญาณเตือนล่วงหน้าเกี่ยวกับความเสี่ยงที่อาจเกิดขึ้นในอนาคต",
+    "referenceLink": "https://www.examprepper.co/exam/161/204",
+    "studyTechnique": "จำไว้ว่า 'Forward-looking' = KRIs (Key Risk Indicators) ส่วน 'Backward-looking' = KPIs (Key Performance Indicators)"
+  },
+  {
+    "id": 1020,
+    "question": "An organization recently purchased data loss prevention (DLP) software but soon discovered the software fails to detect or prevent data loss. Which of the following should the information security manager do FIRST?",
+    "questionTh": "องค์กรเพิ่งซื้อซอฟต์แวร์ Data Loss Prevention (DLP) แต่ไม่นานก็พบว่าซอฟต์แวร์ไม่สามารถตรวจจับหรือป้องกันการสูญหายของข้อมูลได้ ผู้จัดการความปลอดภัยของข้อมูลควรทำสิ่งใดเป็นอันดับแรก?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revise the data classification policy.",
+        "textTh": "แก้ไขนโยบายการจัดประเภทข้อมูล",
+        "analysis": "ผิด - แม้การจัดประเภทข้อมูลจะสำคัญสำหรับ DLP แต่หากซอฟต์แวร์ 'fails to detect or prevent' ปัญหาเร่งด่วนคือการทำงานของซอฟต์แวร์ ไม่ใช่นโยบาย"
+      },
+      {
+        "id": "B",
+        "text": "Review the contract.",
+        "textTh": "ทบทวนสัญญา",
+        "analysis": "ผิด - อาจจำเป็นต้องทำในภายหลังหากซอฟต์แวร์ไม่สามารถตอบสนองความต้องการได้ แต่เป็นขั้นตอนหลังจากการแก้ไขปัญหาเบื้องต้น"
+      },
+      {
+        "id": "C",
+        "text": "Review the configuration",
+        "textTh": "ทบทวนการกำหนดค่า",
+        "analysis": "ถูกต้อง - นี่คือขั้นตอนแรกที่สมเหตุสมผลที่สุด ซอฟต์แวร์ DLP ต้องการการกำหนดค่าที่ซับซ้อนและแม่นยำ (เช่น การกำหนดรูปแบบข้อมูลที่ละเอียดอ่อน, นโยบายการบล็อก/แจ้งเตือน) การกำหนดค่าที่ไม่ถูกต้องเป็นสาเหตุที่พบบ่อยที่สุดที่ทำให้ DLP ล้มเหลว"
+      },
+      {
+        "id": "D",
+        "text": "Implement stricter data loss controls.",
+        "textTh": "นำการควบคุมการสูญหายของข้อมูลที่เข้มงวดขึ้นมาใช้",
+        "analysis": "ผิด - นี่คือวิธีแก้ปัญหา แต่ยังเร็วเกินไปที่จะทำโดยไม่เข้าใจว่าทำไม DLP ที่มีอยู่จึงไม่ทำงาน การควบคุมที่เข้มงวดขึ้นอาจไม่ช่วยหากการกำหนดค่าพื้นฐานผิดพลาด"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key words คือ 'DLP software fails to detect or prevent data loss' และ 'FIRST' เมื่อเครื่องมือทางเทคนิคไม่ทำงานตามที่คาดไว้ สาเหตุที่พบบ่อยที่สุดคือการกำหนดค่าที่ไม่ถูกต้องหรือไม่สมบูรณ์ ผู้จัดการความปลอดภัยของข้อมูลควรตรวจสอบ 'configuration' ก่อนเป็นอันดับแรก",
+    "referenceLink": "https://www.examprepper.co/exam/161/204",
+    "studyTechnique": "จำไว้ว่าเมื่อ 'technical solution fails' ขั้นตอน 'FIRST' คือ 'Check the configuration' (การกำหนดค่า)"
+  }
+]

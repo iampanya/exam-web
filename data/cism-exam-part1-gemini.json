@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "question": "An information security risk analysis BEST assists an organization in ensuring that:",
+    "questionTh": "การวิเคราะห์ความเสี่ยงด้านความปลอดภัยของข้อมูล (Information security risk analysis) ช่วยองค์กรได้ดีที่สุดในการทำให้แน่ใจว่า:",
+    "options": [
+      {
+        "id": "A",
+        "text": "the infrastructure has the appropriate level of access control.",
+        "textTh": "โครงสร้างพื้นฐานมีระดับการควบคุมการเข้าถึงที่เหมาะสม",
+        "analysis": "ผิด - การควบคุมการเข้าถึงเป็นเพียงเทคนิคส่วนหนึ่ง ไม่ใช่ภาพรวมทั้งหมด"
+      },
+      {
+        "id": "B",
+        "text": "cost-effective decisions are made with regard to which assets need protection",
+        "textTh": "มีการตัดสินใจอย่างคุ้มค่าเกี่ยวกับสินทรัพย์ที่ต้องการการปกป้อง",
+        "analysis": "ถูกต้อง - จุดประสงค์หลักคือการตัดสินใจลงทุนให้คุ้มค่า (Cost-effective) กับสินทรัพย์ที่สำคัญ"
+      },
+      {
+        "id": "C",
+        "text": "an appropriate level of funding is applied to security processes.",
+        "textTh": "มีการจัดสรรเงินทุนในระดับที่เหมาะสมให้กับกระบวนการรักษาความปลอดภัย",
+        "analysis": "ผิด - เน้นที่การใช้เงิน (Funding) มากกว่าการตัดสินใจเลือกปกป้องสิ่งที่ควรปกป้อง"
+      },
+      {
+        "id": "D",
+        "text": "the organization implements appropriate security technologies",
+        "textTh": "องค์กรมีการนำเทคโนโลยีความปลอดภัยที่เหมาะสมมาใช้",
+        "analysis": "ผิด - เทคโนโลยีเป็นเพียงเครื่องมือ ไม่ใช่เป้าหมายสูงสุด"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'BEST' และ 'Cost-effective' การวิเคราะห์ความเสี่ยงคือเครื่องมือช่วยตัดสินใจ (Decision support) เพื่อให้ใช้ทรัพยากรได้อย่างคุ้มค่าที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/1",
+    "studyTechnique": "จำไว้ว่า Risk Analysis = Decision Tool สำหรับการใช้เงินอย่างคุ้มค่า (Cost-benefit)"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the MOST effective way to address an organization's security concerns during contract negotiations with a third party?",
+    "questionTh": "วิธีใดมีประสิทธิภาพมากที่สุดในการจัดการข้อกังวลด้านความปลอดภัยขององค์กรในระหว่างการเจรจาสัญญาควบรวมกับบุคคลที่สาม?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Review the third-party contract with the organization's legal department.",
+        "textTh": "ตรวจสอบสัญญาบุคคลที่สามร่วมกับฝ่ายกฎหมายขององค์กร",
+        "analysis": "ผิด - ฝ่ายกฎหมายดูเรื่องข้อสัญญาทางกฎหมาย แต่อาจไม่เข้าใจความเสี่ยงด้านเทคนิคหรือนโยบายความปลอดภัยเชิงลึก"
+      },
+      {
+        "id": "B",
+        "text": "Communicate security policy with the third-party vendor.",
+        "textTh": "สื่อสารนโยบายความปลอดภัยกับผู้ให้บริการบุคคลที่สาม",
+        "analysis": "ผิด - การสื่อสารเพียงอย่างเดียวไม่ได้รับประกันว่าข้อกำหนดจะถูกบรรจุในสัญญา"
+      },
+      {
+        "id": "C",
+        "text": "Ensure security is involved in the procurement process.",
+        "textTh": "ตรวจสอบให้แน่ใจว่าฝ่ายความปลอดภัยมีส่วนร่วมในกระบวนการจัดซื้อจัดจ้าง",
+        "analysis": "ถูกต้อง - การนำ Security เข้าไปอยู่ในกระบวนการตั้งแต่ต้น (Procurement) จะช่วยให้ระบุข้อกำหนดได้ตั้งแต่เริ่ม"
+      },
+      {
+        "id": "D",
+        "text": "Conduct an information security audit on the third-party vendor.",
+        "textTh": "ดำเนินการตรวจสอบความปลอดภัยของข้อมูลกับผู้ให้บริการบุคคลที่สาม",
+        "analysis": "ผิด - การตรวจสอบทำได้หลังจากเลือกหรือเริ่มงานแล้ว แต่อาจสายเกินไปสำหรับการเจรจาสัญญาเบื้องต้น"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'MOST effective' และ 'Procurement process' การมีส่วนร่วมตั้งแต่เนิ่นๆ ในกระบวนการจัดซื้อสำคัญที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/1",
+    "studyTechnique": "CISM มักเน้นการเข้าไปมีส่วนร่วม (Involved) ในกระบวนการทางธุรกิจตั้งแต่ต้น"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following would BEST enable effective decision-making?",
+    "questionTh": "ข้อใดต่อไปนี้ช่วยให้การตัดสินใจมีประสิทธิภาพมากที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Annualized loss estimates determined from past security events",
+        "textTh": "การประเมินการสูญเสียรายปีที่พิจารณาจากเหตุการณ์ความปลอดภัยในอดีต",
+        "analysis": "ผิด - ข้อมูลในอดีตเพียงอย่างเดียวไม่เพียงพอสำหรับความเสี่ยงใหม่ๆ"
+      },
+      {
+        "id": "B",
+        "text": "A universally applied list of generic threats, impacts, and vulnerabilities",
+        "textTh": "รายการภัยคุกคาม ผลกระทบ และช่องโหว่ทั่วไปที่ใช้กันอย่างแพร่หลาย",
+        "analysis": "ผิด - รายการทั่วไป (Generic) ไม่สะท้อนความเสี่ยงที่แท้จริงขององค์กร"
+      },
+      {
+        "id": "C",
+        "text": "A consistent process to analyze new and historical information risk",
+        "textTh": "กระบวนการที่สอดคล้องกันในการวิเคราะห์ความเสี่ยงข้อมูลทั้งใหม่และเก่า",
+        "analysis": "ถูกต้อง - กระบวนการที่สม่ำเสมอ (Consistent Process) ช่วยให้เปรียบเทียบและตัดสินใจได้อย่างแม่นยำ"
+      },
+      {
+        "id": "D",
+        "text": "Formalized acceptance of risk analysis by business management",
+        "textTh": "การยอมรับการวิเคราะห์ความเสี่ยงอย่างเป็นทางการโดยฝ่ายบริหารธุรกิจ",
+        "analysis": "ผิด - การยอมรับเป็นขั้นตอนสุดท้าย แต่ไม่ใช่สิ่งที่ทำให้ 'Enable' การตัดสินใจได้ดีที่สุดเท่ากระบวนการวิเคราะห์"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "การตัดสินใจที่ดีต้องการข้อมูลที่วิเคราะห์มาอย่างเป็นระบบและสม่ำเสมอ (Consistency)",
+    "referenceLink": "https://www.examprepper.co/exam/161/1",
+    "studyTechnique": "คำตอบที่มักถูกใน CISM คืออะไรที่ดูเป็น 'กระบวนการที่ยั่งยืน' (Consistent/Repeatable Process)"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is the BEST option to lower the cost to implement application security controls?",
+    "questionTh": "ข้อใดเป็นวิธีที่ดีที่สุดในการลดต้นทุนในการนำการควบคุมความปลอดภัยของแอปพลิเคชันมาใช้?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Include standard application security requirements.",
+        "textTh": "รวมข้อกำหนดความปลอดภัยของแอปพลิเคชันมาตรฐานไว้ด้วย",
+        "analysis": "ผิด - เป็นเพียงส่วนหนึ่ง แต่การทำแยกอาจไม่ลดต้นทุนเท่าการรวมเข้ากับกระบวนการ"
+      },
+      {
+        "id": "B",
+        "text": "Perform security tests in the development environment.",
+        "textTh": "ดำเนินการทดสอบความปลอดภัยในสภาพแวดล้อมการพัฒนา",
+        "analysis": "ผิด - การทดสอบเป็นการตรวจพบ แต่การ 'Integrate' คือการป้องกันตั้งแต่ต้น"
+      },
+      {
+        "id": "C",
+        "text": "Perform a risk analysis after project completion.",
+        "textTh": "ทำการวิเคราะห์ความเสี่ยงหลังจากโครงการเสร็จสิ้น",
+        "analysis": "ผิด - การทำหลังจบโครงการ (After completion) จะทำให้ต้นทุนการแก้ไขสูงมาก"
+      },
+      {
+        "id": "D",
+        "text": "Integrate security activities within the development process.",
+        "textTh": "บูรณาการกิจกรรมความปลอดภัยเข้ากับกระบวนการพัฒนา",
+        "analysis": "ถูกต้อง - การทำ Security ตั้งแต่ช่วงเริ่มพัฒนา (SDLC) ช่วยลดต้นทุนในการแก้ไขภายหลังได้มากที่สุด"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'Lower the cost' ยิ่งทำ Security เร็วเท่าไหร่ (Early stage/Integrate) ต้นทุนยิ่งต่ำลง",
+    "referenceLink": "https://www.examprepper.co/exam/161/1",
+    "studyTechnique": "Shift Left Principle: ทำ Security ให้เร็วที่สุดเพื่อลดค่าใช้จ่าย"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is the GREATEST benefit of effective information security governance?",
+    "questionTh": "ประโยชน์สูงสุดของการกำกับดูแลความปลอดภัยของข้อมูลที่มีประสิทธิภาพคือข้อใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Treatment priorities are based on risk exposure.",
+        "textTh": "ลำดับความสำคัญของการจัดการขึ้นอยู่กับระดับความเสี่ยง (Risk exposure)",
+        "analysis": "ถูกต้อง - การกำกับดูแลที่ดีทำให้องค์กรรู้ว่าต้องจัดการเรื่องใดก่อนตามความเสี่ยงจริง"
+      },
+      {
+        "id": "B",
+        "text": "Information security standards are communicated to primary stakeholders.",
+        "textTh": "มาตรฐานความปลอดภัยของข้อมูลถูกสื่อสารไปยังผู้มีส่วนได้ส่วนเสียหลัก",
+        "analysis": "ผิด - การสื่อสารเป็นเพียงส่วนย่อย ไม่ใช่ประโยชน์สูงสุด"
+      },
+      {
+        "id": "C",
+        "text": "The information security budget is aligned to the organization.",
+        "textTh": "งบประมาณความปลอดภัยของข้อมูลสอดคล้องกับองค์กร",
+        "analysis": "ผิด - งบประมาณเป็นเรื่องทรัพยากร แต่การจัดการความเสี่ยงเป็นเรื่องกลยุทธ์"
+      },
+      {
+        "id": "D",
+        "text": "Executive management's strategy is aligned to the information security strategy.",
+        "textTh": "กลยุทธ์ของผู้บริหารระดับสูงสอดคล้องกับกลยุทธ์ความปลอดภัยของข้อมูล",
+        "analysis": "ผิด - กลับกัน กลยุทธ์ความปลอดภัยต้องสอดคล้องกับธุรกิจ (Business Alignment)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Governance ช่วยในเรื่องการลำดับความสำคัญ (Prioritization) ตามความเสี่ยง เพื่อการใช้ทรัพยากรที่เหมาะสม",
+    "referenceLink": "https://www.examprepper.co/exam/161/1",
+    "studyTechnique": "Governance = Control + Direction + Prioritization"
+  },
+  {
+    "id": 6,
+    "question": "The ability to integrate information security governance into corporate governance is PRIMARILY driven by:",
+    "questionTh": "ความสามารถในการบูรณาการการกำกับดูแลความปลอดภัยของข้อมูลเข้ากับการกำกับดูแลองค์กรนั้นถูกขับเคลื่อนด้วยปัจจัยใดเป็นหลัก?",
+    "options": [
+      {
+        "id": "A",
+        "text": "the percentage of corporate budget allocated to the information security program.",
+        "textTh": "เปอร์เซ็นต์ของงบประมาณองค์กรที่จัดสรรให้กับโครงการความปลอดภัยของข้อมูล",
+        "analysis": "ผิด - เงินทุนไม่ใช่ตัวขับเคลื่อนหลักของการบูรณาการ"
+      },
+      {
+        "id": "B",
+        "text": "how often information security metrics are presented to senior management.",
+        "textTh": "ความถี่ในการนำเสนอเมทริกซ์ความปลอดภัยของข้อมูลต่อผู้บริหารระดับสูง",
+        "analysis": "ผิด - การรายงานเป็นเครื่องมือติดตามผล ไม่ใช่ตัวขับเคลื่อนการบูรณาการ"
+      },
+      {
+        "id": "C",
+        "text": "how often the information security steering committee reviews and updates security policies.",
+        "textTh": "ความถี่ที่คณะกรรมการกำหนดทิศทางความปลอดภัยตรวจสอบและอัปเดตนโยบาย",
+        "analysis": "ผิด - เป็นกิจกรรมเชิงปฏิบัติการ"
+      },
+      {
+        "id": "D",
+        "text": "how well the information security program supports business objectives.",
+        "textTh": "โครงการความปลอดภัยของข้อมูลสนับสนุนวัตถุประสงค์ทางธุรกิจได้ดีเพียงใด",
+        "analysis": "ถูกต้อง - การสนับสนุนธุรกิจ (Business Support) เป็นกุญแจสำคัญที่ทำให้ Security เข้าไปอยู่ใน Governance ขององค์กรได้"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'Integrate' และ 'Support business objectives' ถ้า Security ช่วยให้ธุรกิจบรรลุเป้าหมายได้ มันจะถูกบูรณาการเข้าด้วยกันโดยธรรมชาติ",
+    "referenceLink": "https://www.examprepper.co/exam/161/2",
+    "studyTechnique": "Business Alignment คือหัวใจของ CISM ทุกอย่างต้องทำเพื่อธุรกิจ"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following presents the GREATEST challenge for protecting Internet of Things (IoT) devices?",
+    "questionTh": "ข้อใดถือเป็นความท้าทายที่ใหญ่ที่สุดในการปกป้องอุปกรณ์ Internet of Things (IoT)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "IoT vendor reputation",
+        "textTh": "ชื่อเสียงของผู้จำหน่าย IoT",
+        "analysis": "ผิด - ชื่อเสียงไม่ใช่ความท้าทายทางเทคนิคในการปกป้อง"
+      },
+      {
+        "id": "B",
+        "text": "IoT architecture diversity",
+        "textTh": "ความหลากหลายของสถาปัตยกรรม IoT",
+        "analysis": "ถูกต้อง - ความหลากหลาย (Diversity) ของมาตรฐาน โปรโตคอล และ OS ทำให้ยากต่อการสร้างมาตรฐานความปลอดภัยเดียว"
+      },
+      {
+        "id": "C",
+        "text": "IoT-specific training",
+        "textTh": "การฝึกอบรมเฉพาะทางด้าน IoT",
+        "analysis": "ผิด - การฝึกอบรมจัดการได้ง่ายกว่าปัญหาเชิงสถาปัตยกรรม"
+      },
+      {
+        "id": "D",
+        "text": "IoT device policies",
+        "textTh": "นโยบายอุปกรณ์ IoT",
+        "analysis": "ผิด - นโยบายเขียนขึ้นได้ แต่การบังคับใช้กับอุปกรณ์ที่หลากหลายนั้นยากกว่า"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "ความหลากหลาย (Heterogeneity) ของ IoT เป็นอุปสรรคสำคัญในการจัดการความปลอดภัยแบบรวมศูนย์",
+    "referenceLink": "https://www.examprepper.co/exam/161/2",
+    "studyTechnique": "จำว่า IoT = Diversity/Fragmentation ทำให้จัดการยาก"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following parameters is MOST helpful when designing a disaster recovery strategy?",
+    "questionTh": "พารามิเตอร์ใดต่อไปนี้มีประโยชน์มากที่สุดในการออกแบบกลยุทธ์การกู้คืนความเสียหาย (Disaster Recovery)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maximum tolerable downtime (MTD)",
+        "textTh": "ระยะเวลาหยุดทำงานสูงสุดที่ยอมรับได้ (Maximum tolerable downtime - MTD)",
+        "analysis": "ถูกต้อง - MTD เป็นตัวกำหนดขอบเขตเวลาทั้งหมดที่ธุรกิจต้องฟื้นตัวก่อนจะล้มละลายหรือเสียหายอย่างรุนแรง"
+      },
+      {
+        "id": "B",
+        "text": "Mean time between failures (MTBF)",
+        "textTh": "ระยะเวลาเฉลี่ยระหว่างความล้มเหลว (Mean time between failures - MTBF)",
+        "analysis": "ผิด - MTBF ใช้สำหรับวัดความน่าเชื่อถือ (Reliability) ไม่ใช่การกู้คืน (Recovery)"
+      },
+      {
+        "id": "C",
+        "text": "Allowable interruption window (AIW)",
+        "textTh": "ช่วงเวลาที่อนุญาตให้หยุดชะงักได้ (Allowable interruption window - AIW)",
+        "analysis": "ผิด - AIW มีความหมายคล้าย RTO แต่อาจไม่ครอบคลุมภาพรวมเท่า MTD"
+      },
+      {
+        "id": "D",
+        "text": "Recovery point objective (RPO)",
+        "textTh": "จุดเป้าหมายการกู้คืนข้อมูล (Recovery point objective - RPO)",
+        "analysis": "ผิด - RPO เกี่ยวกับการสูญเสียข้อมูล (Data loss) ไม่ใช่เวลาหยุดทำงานทั้งหมด"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "MTD คือ 'จุดตาย' ของธุรกิจ กลยุทธ์ DR ทั้งหมดต้องทำให้ RTO + เวลาอื่นๆ น้อยกว่า MTD",
+    "referenceLink": "https://www.examprepper.co/exam/161/2",
+    "studyTechnique": "MTD คือร่มคันใหญ่ที่สุด ครอบคลุม RTO เสมอ"
+  },
+  {
+    "id": 9,
+    "question": "An IT service desk was not adequately prepared for a recent ransomware attack on user workstations. Which of the following should be given HIGHEST priority by the information security team when creating an action plan to improve service desk readiness?",
+    "questionTh": "แผนกไอที (IT service desk) ไม่มีการเตรียมพร้อมที่เพียงพอสำหรับการโจมตีด้วยเรียกค่าไถ่ (Ransomware) ที่เพิ่งเกิดขึ้น ทีมความปลอดภัยควรให้ความสำคัญสูงสุดกับสิ่งใดในการสร้างแผนปรับปรุงความพร้อม?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Investing in threat intelligence capability",
+        "textTh": "การลงทุนในขีดความสามารถด้านข่าวกรองภัยคุกคาม (Threat intelligence)",
+        "analysis": "ผิด - เป็นการหาข้อมูล แต่ไม่ได้ช่วยเตรียมความพร้อมในการปฏิบัติงานโดยตรง"
+      },
+      {
+        "id": "B",
+        "text": "Implementing key risk indicators (KRIs) for ransomware attacks",
+        "textTh": "การนำดัชนีชี้วัดความเสี่ยงหลัก (KRIs) มาใช้สำหรับการโจมตีด้วยเรียกค่าไถ่",
+        "analysis": "ผิด - KRI ใช้เตือนภัยล่วงหน้า แต่ไม่ใช่คู่มือปฏิบัติงาน"
+      },
+      {
+        "id": "C",
+        "text": "Updating the information security incident response manual",
+        "textTh": "การอัปเดตคู่มือการตอบสนองต่อเหตุการณ์ความปลอดภัยของข้อมูล",
+        "analysis": "ถูกต้อง - คู่มือ (Manual/Procedure) คือสิ่งที่ Service Desk ต้องใช้เพื่อรู้ว่าต้องทำอะไรเมื่อเกิดเหตุ"
+      },
+      {
+        "id": "D",
+        "text": "Strengthening the organization's data backup capability",
+        "textTh": "การเสริมสร้างขีดความสามารถในการสำรองข้อมูลขององค์กร",
+        "analysis": "ผิด - การสำรองข้อมูลเป็นมาตรการควบคุม (Control) แต่โจทย์ถามเรื่อง 'Readiness' ของทีมงาน"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "ความพร้อม (Readiness) เกิดจากการมีแนวทางปฏิบัติที่ชัดเจน (Incident Response Manual)",
+    "referenceLink": "https://www.examprepper.co/exam/161/2",
+    "studyTechnique": "Readiness = Training + Procedures/Manuals"
+  },
+  {
+    "id": 10,
+    "question": "After a risk has been identified, analyzed, and evaluated, which of the following should be done NEXT?",
+    "questionTh": "หลังจากระบุ วิเคราะห์ และประเมินความเสี่ยงแล้ว ขั้นตอนต่อไปควรทำอย่างไร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monitor the risk.",
+        "textTh": "ติดตามความเสี่ยง",
+        "analysis": "ผิด - การติดตามทำหลังจากมีการจัดการแล้ว"
+      },
+      {
+        "id": "B",
+        "text": "Prioritize the risk for treatment",
+        "textTh": "จัดลำดับความสำคัญของความเสี่ยงเพื่อรับการจัดการ (Treatment)",
+        "analysis": "ถูกต้อง - เมื่อรู้ระดับความเสี่ยงแล้ว ต้องเรียงลำดับก่อนว่าจะทำอะไรก่อน-หลัง"
+      },
+      {
+        "id": "C",
+        "text": "Identify the risk owner.",
+        "textTh": "ระบุเจ้าของความเสี่ยง",
+        "analysis": "ผิด - เจ้าของความเสี่ยงควรถูกระบุตั้งแต่ขั้นตอนแรกๆ ของการระบุความเสี่ยง"
+      },
+      {
+        "id": "D",
+        "text": "Identify controls for risk mitigation.",
+        "textTh": "ระบุมาตรการควบคุมเพื่อบรรเทาความเสี่ยง",
+        "analysis": "ผิด - การเลือก Control เป็นส่วนหนึ่งของ Treatment แต่ต้อง Prioritize ก่อนเพื่อความคุ้มค่า"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "ขั้นตอน Risk Assessment (Identify, Analyze, Evaluate) จบที่การได้ระดับความเสี่ยง ขั้นถัดไปคือวางแผนจัดการ (Prioritize for Treatment)",
+    "referenceLink": "https://www.examprepper.co/exam/161/2",
+    "studyTechnique": "Flow ของความเสี่ยง: Identify -> Analyze -> Evaluate -> Prioritize -> Treat -> Monitor"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following will BEST facilitate timely and effective incident response?",
+    "questionTh": "ข้อใดจะช่วยให้การตอบสนองต่อเหตุการณ์มีความรวดเร็วและมีประสิทธิภาพมากที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Including penetration test results in incident response planning",
+        "textTh": "การรวมผลการทดสอบการเจาะระบบไว้ในการวางแผนตอบสนองต่อเหตุการณ์",
+        "analysis": "ผิด - ช่วยเรื่องข้อมูล แต่ไม่ช่วยเรื่องความเร็วในการตอบสนอง"
+      },
+      {
+        "id": "B",
+        "text": "Assessing the risk of compromised assets",
+        "textTh": "การประเมินความเสี่ยงของสินทรัพย์ที่ถูกบุกรุก",
+        "analysis": "ผิด - การประเมินระหว่างเกิดเหตุอาจทำให้ล่าช้า"
+      },
+      {
+        "id": "C",
+        "text": "Notifying stakeholders when invoking the incident response plan",
+        "textTh": "การแจ้งผู้มีส่วนได้ส่วนเสียเมื่อมีการประกาศใช้แผนตอบสนองต่อเหตุการณ์",
+        "analysis": "ผิด - เป็นขั้นตอนหนึ่ง แต่ไม่ใช่ตัวช่วย 'Facilitate' หลัก"
+      },
+      {
+        "id": "D",
+        "text": "Classifying the severity of an incident",
+        "textTh": "การจำแนกความรุนแรงของเหตุการณ์ (Classifying severity)",
+        "analysis": "ถูกต้อง - การรู้ระดับความรุนแรง (Severity) ช่วยให้เรียกใช้ทรัพยากรและทีมงานได้ถูกระดับและรวดเร็ว"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "การจัดกลุ่มความรุนแรง (Triage/Classification) เป็นกุญแจสู่การตอบสนองที่รวดเร็ว (Timely)",
+    "referenceLink": "https://www.examprepper.co/exam/161/3",
+    "studyTechnique": "การทำ Triage (คัดแยก) สำคัญที่สุดในช่วงเริ่มต้นของ Incident"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following MOST effectively communicates the current risk profile to senior management after controls are applied?",
+    "questionTh": "ข้อใดสื่อสารโปรไฟล์ความเสี่ยงปัจจุบันต่อผู้บริหารระดับสูงได้มีประสิทธิภาพที่สุดหลังจากนำมาตรการควบคุมมาใช้แล้ว?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Residual risk",
+        "textTh": "ความเสี่ยงที่เหลืออยู่ (Residual risk)",
+        "analysis": "ถูกต้อง - ผู้บริหารต้องการรู้ว่าหลังจากจ่ายเงินลงมาตรการไปแล้ว ยังเหลือความเสี่ยงอีกเท่าไหร่"
+      },
+      {
+        "id": "B",
+        "text": "Impact of loss events",
+        "textTh": "ผลกระทบของเหตุการณ์ความสูญเสีย",
+        "analysis": "ผิด - บอกแค่ผลกระทบ แต่ไม่บอกภาพรวมความเสี่ยง"
+      },
+      {
+        "id": "C",
+        "text": "Inherent risk",
+        "textTh": "ความเสี่ยงที่มีอยู่แต่เดิม (Inherent risk)",
+        "analysis": "ผิด - นี่คือความเสี่ยงก่อนมีมาตรการควบคุม"
+      },
+      {
+        "id": "D",
+        "text": "Number of risks avoided",
+        "textTh": "จำนวนความเสี่ยงที่หลีกเลี่ยงได้",
+        "analysis": "ผิด - บอกแค่ผลสำเร็จบางส่วน แต่ไม่บอกสถานะปัจจุบัน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Residual Risk = Inherent Risk - Control. มันคือความเสี่ยงจริงๆ ที่ผู้บริหารต้อง 'Accept' หรือจัดการต่อ",
+    "referenceLink": "https://www.examprepper.co/exam/161/3",
+    "studyTechnique": "จำสมการ: Inherent - Control = Residual"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following processes should be done NEXT after completing a business impact analysis (BIA)?",
+    "questionTh": "กระบวนการใดควรทำเป็นลำดับถัดไปหลังจากวิเคราะห์ผลกระทบทางธุรกิจ (BIA) เสร็จสิ้น?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evaluate the disaster recovery plan (DRP).",
+        "textTh": "ประเมินแผนกู้คืนความเสียหาย (DRP)",
+        "analysis": "ผิด - แผนยังไม่ได้ถูกสร้าง จะประเมินไม่ได้"
+      },
+      {
+        "id": "B",
+        "text": "Develop the requirements for the incident response plan.",
+        "textTh": "จัดทำข้อกำหนดสำหรับแผนตอบสนองต่อเหตุการณ์",
+        "analysis": "ผิด - BIA เน้นเรื่องการกู้คืนธุรกิจในระยะยาวมากกว่า Incident Response ในระยะสั้น"
+      },
+      {
+        "id": "C",
+        "text": "Develop a business continuity plan (BCP).",
+        "textTh": "จัดทำแผนความต่อเนื่องทางธุรกิจ (BCP)",
+        "analysis": "ผิด - BCP เป็นแผนภาพรวม แต่ก่อนจะทำแผนต้องรู้ก่อนว่าต้องใช้ทรัพยากรอะไร"
+      },
+      {
+        "id": "D",
+        "text": "Identify resources for business recovery.",
+        "textTh": "ระบุทรัพยากรที่จำเป็นสำหรับการกู้คืนธุรกิจ",
+        "analysis": "ถูกต้อง - เมื่อรู้ความสำคัญและเวลา (จาก BIA) แล้ว ขั้นต่อไปคือต้องรู้ว่าต้องใช้อะไรกู้คืน (Resources)"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "BIA ให้ค่า RTO/RPO ขั้นตอนถัดไปคือการระบุทรัพยากรที่ต้องใช้เพื่อให้ได้ตามค่านั้น ก่อนจะไปเขียนแผน",
+    "referenceLink": "https://www.examprepper.co/exam/161/3",
+    "studyTechnique": "BIA -> Strategy/Resource Identification -> Plan Development"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following has the GREATEST impact on efforts to improve an organization's security posture?",
+    "questionTh": "ข้อใดมีผลกระทบมากที่สุดต่อความพยายามในการปรับปรุงสถานะความปลอดภัย (Security posture) ขององค์กร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Well-documented security policies and procedures",
+        "textTh": "นโยบายและขั้นตอนการปฏิบัติงานด้านความปลอดภัยที่บันทึกไว้เป็นอย่างดี",
+        "analysis": "ผิด - เป็นพื้นฐานที่ดีแต่ไม่มีพลังขับเคลื่อนเท่าการสนับสนุนจากผู้นำ"
+      },
+      {
+        "id": "B",
+        "text": "Supportive tone at the top regarding security",
+        "textTh": "ทัศนคติและการสนับสนุนจากผู้บริหารระดับสูง (Tone at the top)",
+        "analysis": "ถูกต้อง - หากผู้บริหารไม่หนุนหลัง ทุกอย่างจะทำได้ยากและไม่ยั่งยืน"
+      },
+      {
+        "id": "C",
+        "text": "Regular reporting to senior management",
+        "textTh": "การรายงานต่อผู้บริหารระดับสูงอย่างสม่ำเสมอ",
+        "analysis": "ผิด - เป็นการสื่อสาร แต่ไม่ใช่ตัวสร้างผลกระทบหลัก"
+      },
+      {
+        "id": "D",
+        "text": "Automation of security controls",
+        "textTh": "การใช้ระบบอัตโนมัติในการควบคุมความปลอดภัย",
+        "analysis": "ผิด - เป็นเรื่องเทคนิค ไม่ใช่เรื่องวัฒนธรรมองค์กร"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Tone at the top คือวัฒนธรรมองค์กรที่เริ่มจากผู้นำ ซึ่งสำคัญที่สุดใน CISM",
+    "referenceLink": "https://www.examprepper.co/exam/161/3",
+    "studyTechnique": "Management Support คือคำตอบที่ 'Win' เกือบทุกอย่างในข้อสอบสายบริหาร"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is MOST important to include in an information security policy?",
+    "questionTh": "ข้อใดสำคัญที่สุดที่จะต้องระบุไว้ในนโยบายความปลอดภัยของข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maturity levels",
+        "textTh": "ระดับวุฒิภาวะ (Maturity levels)",
+        "analysis": "ผิด - ระดับวุฒิภาวะเป็นเรื่องของการประเมิน (Assessment) ไม่ใช่นโยบาย"
+      },
+      {
+        "id": "B",
+        "text": "Baselines",
+        "textTh": "เกณฑ์มาตรฐาน (Baselines)",
+        "analysis": "ผิด - Baseline เป็นรายละเอียดเชิงเทคนิค"
+      },
+      {
+        "id": "C",
+        "text": "Best practices",
+        "textTh": "แนวทางปฏิบัติที่ดีที่สุด (Best practices)",
+        "analysis": "ผิด - Best practices เป็นคำแนะนำทั่วไป แต่นโยบายต้องเป็นคำสั่ง"
+      },
+      {
+        "id": "D",
+        "text": "Management objectives",
+        "textTh": "วัตถุประสงค์ของการจัดการ (Management objectives)",
+        "analysis": "ถูกต้อง - นโยบายคือการสื่อสาร 'เจตจำนง' และ 'วัตถุประสงค์' ของผู้บริหาร"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Policy = Management's Intent/Objectives. มันคือระดับ High-level ที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/3",
+    "studyTechnique": "นโยบาย (Policy) ต้องไม่ใส่รายละเอียดเทคนิค แต่ต้องใส่ 'เป้าหมาย' ของผู้บริหาร"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following should an information security manager do FIRST when creating an organization's disaster recovery plan (DRP)?",
+    "questionTh": "ผู้จัดการฝ่ายความปลอดภัยของข้อมูลควรทำอะไรเป็นอันดับแรกเมื่อสร้างแผนกู้คืนความเสียหาย (DRP)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Develop response and recovery strategies.",
+        "textTh": "พัฒนาความกลยุทธ์การตอบสนองและการกู้คืน",
+        "analysis": "ผิด - ต้องรู้ข้อมูลผลกระทบก่อนถึงจะคิดกลยุทธ์ได้"
+      },
+      {
+        "id": "B",
+        "text": "Identify the response and recovery teams.",
+        "textTh": "ระบุทีมตอบสนองและทีมกู้คืน",
+        "analysis": "ผิด - เป็นขั้นตอนการระบุทรัพยากร ทำหลังจากรู้ความต้องการแล้ว"
+      },
+      {
+        "id": "C",
+        "text": "Review the communications plan.",
+        "textTh": "ตรวจสอบแผนการสื่อสาร",
+        "analysis": "ผิด - เป็นองค์ประกอบย่อยในแผน"
+      },
+      {
+        "id": "D",
+        "text": "Conduct a business impact analysis (BIA).",
+        "textTh": "ดำเนินการวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ถูกต้อง - BIA คือจุดเริ่มต้น (Foundation) ของทั้ง BCP และ DRP เสมอ"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "BIA คือรากฐานที่บอกว่า 'อะไรสำคัญ' และ 'ต้องกู้คืนเมื่อไหร่' ขาดสิ่งนี้จะทำ DRP ไม่ได้เลย",
+    "referenceLink": "https://www.examprepper.co/exam/161/4",
+    "studyTechnique": "เห็น DRP/BCP + FIRST = ให้หา BIA"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following would be the MOST effective use of findings from a post-incident review?",
+    "questionTh": "การนำสิ่งที่พบจากการทบทวนหลังเกิดเหตุ (Post-incident review) ไปใช้ประโยชน์ที่มีประสิทธิภาพที่สุดคือข้อใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Providing input for updates to the incident response plan",
+        "textTh": "ใช้เป็นข้อมูลนำเข้าสำหรับการอัปเดตแผนตอบสนองต่อเหตุการณ์",
+        "analysis": "ถูกต้อง - จุดประสงค์ของ Post-incident review คือการเรียนรู้เพื่อปรับปรุงกระบวนการให้ดีขึ้น (Continuous Improvement)"
+      },
+      {
+        "id": "B",
+        "text": "Developing cost reports regarding the incident",
+        "textTh": "จัดทำรายงานต้นทุนที่เกี่ยวข้องกับเหตุการณ์",
+        "analysis": "ผิด - เป็นเพียงเรื่องการเงิน ไม่ใช่การปรับปรุงความปลอดภัย"
+      },
+      {
+        "id": "C",
+        "text": "Providing justification for an increase in the incident response plan budget",
+        "textTh": "ใช้เป็นเหตุผลประกอบการขอเพิ่มงบประมาณแผนตอบสนองต่อเหตุการณ์",
+        "analysis": "ผิด - เป็นผลพลอยได้ แต่ไม่ใช่เป้าหมายหลัก"
+      },
+      {
+        "id": "D",
+        "text": "Incorporating the results into information security awareness training materials",
+        "textTh": "รวมผลลัพธ์เข้ากับเอกสารฝึกอบรมการสร้างความตระหนักด้านความปลอดภัย",
+        "analysis": "ผิด - มีประโยชน์ แต่อาจไม่ช่วยแก้ปัญหาเชิงกระบวนการเท่าการอัปเดตแผน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "บทเรียนที่ได้รับ (Lessons Learned) ต้องย้อนกลับไปปรับปรุงแผนเดิมเพื่อให้รับมือครั้งหน้าได้ดีขึ้น",
+    "referenceLink": "https://www.examprepper.co/exam/161/4",
+    "studyTechnique": "Post-incident review = Lessons Learned -> Improve the Plan"
+  },
+  {
+    "id": 18,
+    "question": "During a post-incident review, it was determined that a known vulnerability was exploited in order to gain access to a system. The vulnerability was patched as part of the remediation on the offending system. Which of the following should be done NEXT?",
+    "questionTh": "ในระหว่างการทบทวนหลังเกิดเหตุ พบว่าช่องโหว่ที่ทราบอยู่แล้วถูกใช้เพื่อเข้าถึงระบบ ช่องโหว่นี้ได้รับการติดตั้งแพตช์แล้วเป็นส่วนหนึ่งของการแก้ไขในระบบที่มีปัญหา ข้อใดควรทำเป็นลำดับถัดไป?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Scan to determine whether the vulnerability is present on other systems.",
+        "textTh": "สแกนเพื่อตรวจสอบว่าช่องโหว่นี้มีอยู่ในระบบอื่นๆ หรือไม่",
+        "analysis": "ถูกต้อง - หากหนึ่งระบบมีช่องโหว่ มีโอกาสสูงที่ระบบอื่นๆ ที่มี Configuration เหมือนกันจะมีช่องโหว่นี้ด้วย"
+      },
+      {
+        "id": "B",
+        "text": "Review the vulnerability management process.",
+        "textTh": "ทบทวนกระบวนการบริหารจัดการช่องโหว่",
+        "analysis": "ผิด - เป็นการปรับปรุงระยะยาว แต่ต้องรีบหาช่องโหว่ที่เหลือ (ข้อ A) ก่อนเพื่อป้องกันเหตุซ้ำซ้อน"
+      },
+      {
+        "id": "C",
+        "text": "Install patches an all existing systems.",
+        "textTh": "ติดตั้งแพตช์ในระบบเดิมที่มีอยู่ทั้งหมด",
+        "analysis": "ผิด - ต้อง 'Scan' (ข้อ A) เพื่อยืนยันก่อนจะสุ่มติดตั้งไปทั่ว"
+      },
+      {
+        "id": "D",
+        "text": "Report the root cause of the vulnerability to senior management.",
+        "textTh": "รายงานสาเหตุหลักของช่องโหว่ต่อผู้บริหารระดับสูง",
+        "analysis": "ผิด - เป็นขั้นตอนรายงานผล แต่ต้องจัดการหน้างานให้เรียบร้อยก่อน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "การแก้ปัญหาต้องดูภาพรวม (Horizontal analysis) ว่ามีที่อื่นที่เสี่ยงเหมือนกันไหม",
+    "referenceLink": "https://www.examprepper.co/exam/161/4",
+    "studyTechnique": "เมื่อเจอรูรั่วที่หนึ่ง ให้รีบไปเช็กที่อื่นที่คล้ายๆ กันทันที"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is MOST helpful in determining the realization of benefits from an information security program?",
+    "questionTh": "ข้อใดมีประโยชน์มากที่สุดในการพิจารณาว่าโครงการความปลอดภัยของข้อมูลได้รับประโยชน์ตามที่ตั้งไว้จริงหรือไม่?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vulnerability assessments",
+        "textTh": "การประเมินช่องโหว่",
+        "analysis": "ผิด - เป็นการหาข้อบกพร่อง ไม่ใช่การวัดประโยชน์โครงการ"
+      },
+      {
+        "id": "B",
+        "text": "Key risk indicators (KRIs)",
+        "textTh": "ดัชนีชี้วัดความเสี่ยงหลัก (KRIs)",
+        "analysis": "ผิด - KRI วัดความเสี่ยงที่อาจเกิดขึ้นในอนาคต"
+      },
+      {
+        "id": "C",
+        "text": "Business impact analysis (BIA)",
+        "textTh": "การวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ผิด - เป็นเครื่องมือวางแผน"
+      },
+      {
+        "id": "D",
+        "text": "Key performance indicators (KPIs)",
+        "textTh": "ดัชนีชี้วัดผลการดำเนินงานหลัก (KPIs)",
+        "analysis": "ถูกต้อง - KPI คือตัววัดความสำเร็จ (Performance) ว่าโครงการทำได้ตามเป้าหรือไม่"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "KPI = Performance (ทำได้ตามเป้าไหม), KRI = Risk (กำลังจะเกิดเรื่องแย่ไหม)",
+    "referenceLink": "https://www.examprepper.co/exam/161/4",
+    "studyTechnique": "KPI วัดผลงาน (Performance), KRI วัดความเสี่ยง (Risk)"
+  },
+  {
+    "id": 20,
+    "question": "During an internal compliance review, the review team discovers that a critical legacy application is unable to meet the organization's mandatory security requirements. Which of the following should be done FIRST?",
+    "questionTh": "ในระหว่างการตรวจสอบการปฏิบัติตามกฎระเบียบภายใน ทีมตรวจสอบพบว่าแอปพลิเคชันเก่าที่สำคัญ (Critical legacy application) ไม่สามารถปฏิบัติตามข้อกำหนดด้านความปลอดภัยที่บังคับได้ ควรทำอย่างไรเป็นอันดับแรก?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Update the risk register.",
+        "textTh": "อัปเดตทะเบียนความเสี่ยง (Risk register)",
+        "analysis": "ถูกต้อง - เมื่อพบปัญหา/ความเสี่ยงใหม่ ต้องบันทึกไว้เป็นทางการก่อนเพื่อเข้าสู่กระบวนการบริหารความเสี่ยง"
+      },
+      {
+        "id": "B",
+        "text": "Recommend taking the application out of service.",
+        "textTh": "แนะนำให้ระงับการใช้งานแอปพลิเคชัน",
+        "analysis": "ผิด - เป็นการตัดสินใจที่รุนแรงเกินไปสำหรับขั้นตอนแรก โดยเฉพาะถ้าเป็นระบบสำคัญ (Critical)"
+      },
+      {
+        "id": "C",
+        "text": "Implement compensating controls.",
+        "textTh": "นำมาตรการควบคุมชดเชยมาใช้",
+        "analysis": "ผิด - เป็นขั้นตอนการจัดการ (Treatment) แต่ต้องบันทึกความเสี่ยงก่อน"
+      },
+      {
+        "id": "D",
+        "text": "Monitor the application until it can be replaced.",
+        "textTh": "เฝ้าติดตามแอปพลิเคชันจนกว่าจะสามารถเปลี่ยนใหม่ได้",
+        "analysis": "ผิด - เป็นการยอมรับความเสี่ยงโดยกลายๆ โดยยังไม่ได้ผ่านการวิเคราะห์"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "ขั้นตอนแรกเมื่อเจอรูรั่วหรือความไม่สอดคล้อง คือการจดลงในสมุดบันทึกความเสี่ยง (Risk Register) เพื่อให้มีการรับทราบอย่างเป็นทางการ",
+    "referenceLink": "https://www.examprepper.co/exam/161/4",
+    "studyTechnique": "เจอปัญหาความเสี่ยงใหม่ = ลงทะเบียนใน Risk Register ก่อนเสมอ"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is the BEST way to improve an organization's ability to detect and respond to incidents?",
+    "questionTh": "ข้อใดคือวิธีที่ดีที่สุดในการปรับปรุงความสามารถขององค์กรในการตรวจจับ (Detect) และตอบสนอง (Respond) ต่อเหตุการณ์ความปลอดภัย?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conduct a business impact analysis (BIA).",
+        "textTh": "ดำเนินการวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ผิด - BIA ช่วยเรื่องการประเมินความสำคัญของระบบและการกู้คืน (Recovery) ไม่ใช่การตรวจจับหรือตอบสนองเบื้องต้น"
+      },
+      {
+        "id": "B",
+        "text": "Conduct periodic awareness training.",
+        "textTh": "จัดการฝึกอบรมความตระหนักรู้อย่างเป็นระยะ",
+        "analysis": "ถูกต้อง - พนักงานและผู้ใช้คือเซ็นเซอร์ที่กระจายอยู่ทั่วองค์กร (Human firewall) การฝึกอบรมให้พวกเขารู้จักสังเกตสิ่งผิดปกติ (Detect) และรู้วิธีแจ้งเหตุ (Respond) คือวิธีที่ดีที่สุดและครอบคลุมที่สุดในการเพิ่มขีดความสามารถในการตรวจจับภัยคุกคาม เช่น ฟิชชิ่ง หรือวิศวกรรมสังคม"
+      },
+      {
+        "id": "C",
+        "text": "Perform a security gap analysis.",
+        "textTh": "ดำเนินการวิเคราะห์ช่องว่างด้านความปลอดภัย",
+        "analysis": "ผิด - ช่วยหาข้อบกพร่องในระบบ แต่ไม่ได้เพิ่มความสามารถในการตรวจจับการโจมตีแบบเรียลไทม์"
+      },
+      {
+        "id": "D",
+        "text": "Perform network penetration testing.",
+        "textTh": "ดำเนินการทดสอบการเจาะระบบเครือข่าย",
+        "analysis": "ผิด - การทำ Pen-test ช่วยหาช่องโหว่ทางเทคนิค อาจจะช่วยทดสอบระบบตรวจจับได้บ้าง แต่การฝึกอบรมคนให้ตระหนักรู้ได้ผลลัพธ์ครอบคลุมกว่าและเป็นการป้องกันตั้งแต่ด่านหน้า"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'improve ability to detect and respond' ในบรรดาตัวเลือกทั้งหมด 'คน' คือปัจจัยที่สำคัญที่สุดในการรับมือกับการโจมตีสมัยใหม่ (เช่น Phishing) การให้ความรู้ (Awareness training) จะเปลี่ยนผู้ใช้ให้เป็นตาข่ายตรวจจับชั้นดี",
+    "referenceLink": "https://www.examprepper.co/exam/161/5",
+    "studyTechnique": "จำไว้ว่า เครื่องมือตรวจจับที่ดีที่สุดและคุ้มค่าที่สุดคือ 'คน' ดังนั้น Training/Awareness จึงช่วยเรื่อง Detection ได้ดีมาก"
+  },
+  {
+    "id": 22,
+    "question": "Of the following, who would provide the MOST relevant input when aligning the information security strategy with organizational goals?",
+    "questionTh": "จากบุคคลต่อไปนี้ ใครที่จะให้ข้อมูลนำเข้า (Input) ที่เกี่ยวข้องมากที่สุดเมื่อต้องการปรับกลยุทธ์ความปลอดภัยข้อมูลให้สอดคล้องกับเป้าหมายขององค์กร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data privacy officer (DPO)",
+        "textTh": "เจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคล (DPO)",
+        "analysis": "ผิด - DPO โฟกัสเฉพาะเรื่องความเป็นส่วนตัวและกฎหมาย ไม่ใช่เป้าหมายธุรกิจโดยรวม"
+      },
+      {
+        "id": "B",
+        "text": "Chief information security officer (CISO)",
+        "textTh": "ประธานเจ้าหน้าที่ฝ่ายความปลอดภัยข้อมูล (CISO)",
+        "analysis": "ผิด - CISO เป็นผู้ 'สร้าง' กลยุทธ์ความปลอดภัย จึงต้องการ Input จากคนอื่นเพื่อนำมาปรับให้ตรงกับธุรกิจ"
+      },
+      {
+        "id": "C",
+        "text": "Information security steering committee",
+        "textTh": "คณะกรรมการกำกับดูแลความปลอดภัยข้อมูล (Steering committee)",
+        "analysis": "ถูกต้อง - Steering committee ประกอบด้วยผู้บริหารระดับสูงและตัวแทนจากหน่วยธุรกิจต่างๆ (Business lines) ดังนั้นพวกเขาจึงเป็นตัวแทนของ 'เป้าหมายองค์กร' และสามารถให้ Input ที่ดีที่สุดว่าธุรกิจกำลังจะไปทางไหน เพื่อให้ CISO นำไปวางกลยุทธ์ความปลอดภัยให้สอดคล้องกัน"
+      },
+      {
+        "id": "D",
+        "text": "Enterprise risk committee",
+        "textTh": "คณะกรรมการความเสี่ยงระดับองค์กร",
+        "analysis": "ผิด - คณะกรรมการนี้ดูภาพรวมความเสี่ยงทั้งหมด (เช่น ความเสี่ยงทางการเงิน, ตลาด) แต่ Steering committee จะมุ่งเน้นการเชื่อมโยงเป้าหมายธุรกิจเข้ากับแผนความปลอดภัยไอทีโดยตรง"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'MOST relevant input' และ 'aligning with organizational goals' คณะกรรมการ Steering Committee คือสะพานเชื่อมระหว่าง ฝั่งธุรกิจ (Business) และ ฝั่งไอที (IT/Security) พวกเขาจึงเป็นแหล่งข้อมูลที่ดีที่สุดสำหรับเป้าหมายองค์กร",
+    "referenceLink": "https://www.examprepper.co/exam/161/5",
+    "studyTechnique": "จำไว้ว่า การสร้างความสอดคล้องกับธุรกิจ (Business Alignment) = ต้องการ Input จาก Steering Committee หรือ Senior Management"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is the PRIMARY role of the information security manager in application development?",
+    "questionTh": "ข้อใดคือบทบาทหลัก (PRIMARY role) ของผู้จัดการความปลอดภัยข้อมูล ในการพัฒนาแอปพลิเคชัน?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To ensure control procedures address business risk",
+        "textTh": "เพื่อให้มั่นใจว่าขั้นตอนการควบคุมสามารถจัดการความเสี่ยงทางธุรกิจได้",
+        "analysis": "ผิด - เป็นเรื่องทั่วไปและกว้างเกินไป"
+      },
+      {
+        "id": "B",
+        "text": "To ensure enterprise security controls are implemented",
+        "textTh": "เพื่อให้มั่นใจว่ามีการนำการควบคุมความปลอดภัยระดับองค์กรมาใช้",
+        "analysis": "ผิด - การบังคับใช้ Control โดยไม่ดูบริบทอาจไม่เหมาะกับการพัฒนาแอป"
+      },
+      {
+        "id": "C",
+        "text": "To ensure compliance with industry best practice",
+        "textTh": "เพื่อให้มั่นใจว่าปฏิบัติตามแนวทางปฏิบัติที่ดีที่สุดของอุตสาหกรรม",
+        "analysis": "ผิด - Compliance ไม่ใช่เป้าหมายสูงสุด เท่ากับการทำให้ระบบปลอดภัยตั้งแต่กระบวนการ"
+      },
+      {
+        "id": "D",
+        "text": "To ensure security is integrated into the system development life cycle (SDLC)",
+        "textTh": "เพื่อให้มั่นใจว่าความปลอดภัยถูกบูรณาการเข้าสู่วงจรการพัฒนาระบบ (SDLC)",
+        "analysis": "ถูกต้อง - ในมุมมองของ CISM ผู้จัดการความปลอดภัยไม่ได้มีหน้าที่เขียนโค้ดเอง แต่มีหน้าที่ในการ 'กำกับดูแล (Governance)' ให้ทีมพัฒนานำกระบวนการด้านความปลอดภัยไปฝังไว้ในทุกขั้นตอนของ SDLC (Security by Design / Shift-Left) ตั้งแต่การออกแบบจนถึงการทดสอบ"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'PRIMARY role in application development' กฎทองของ Security ในการทำซอฟต์แวร์คือการฝังตัวเองลงไปในกระบวนการทำงาน (SDLC) ไม่ใช่แค่การตรวจสอบตอนท้าย",
+    "referenceLink": "https://www.examprepper.co/exam/161/5",
+    "studyTechnique": "จำไว้ว่า App Dev / Software Development = Integrate security into SDLC (Security by Design)"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following actions by senior management would BEST enable a successful implementation of an information security governance framework?",
+    "questionTh": "การกระทำใดของผู้บริหารระดับสูง ที่จะช่วยให้การนำกรอบธรรมาภิบาลด้านความปลอดภัยข้อมูล (Governance framework) ไปปฏิบัติใช้งานประสบความสำเร็จได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demonstrating support for the business and information security governance functions",
+        "textTh": "แสดงการสนับสนุน (Demonstrating support) ต่อธุรกิจและหน้าที่งานธรรมาภิบาลความปลอดภัยข้อมูล",
+        "analysis": "ถูกต้อง - ปัจจัยแห่งความสำเร็จที่สำคัญที่สุด (Critical Success Factor) สำหรับโครงการระดับองค์กรคือ 'Tone at the Top' หรือการที่ผู้บริหารระดับสูงแสดงการสนับสนุนอย่างชัดเจนและต่อเนื่อง (เช่น การจัดสรรงบประมาณ, การสื่อสาร, การบังคับใช้) หากบอร์ดไม่สนับสนุน กรอบธรรมาภิบาลก็ไม่มีทางเกิด"
+      },
+      {
+        "id": "B",
+        "text": "Delegating the implementation of the framework to information security management",
+        "textTh": "มอบหมายการดำเนินการกรอบการทำงานให้ฝ่ายจัดการความปลอดภัย",
+        "analysis": "ผิด - มอบหมายแล้วทิ้งงาน (Delegate and forget) ไม่ถือเป็นการสนับสนุนที่ดี"
+      },
+      {
+        "id": "C",
+        "text": "Promoting the use of an internationally recognized governance framework",
+        "textTh": "ส่งเสริมการใช้กรอบธรรมาภิบาลที่เป็นที่ยอมรับในระดับสากล",
+        "analysis": "ผิด - เฟรมเวิร์กสากล (เช่น ISO) อาจไม่สำเร็จถ้าคนในองค์กรและผู้บริหารไม่เอาด้วย"
+      },
+      {
+        "id": "D",
+        "text": "Engaging a consulting firm specializing in information security governance and standards",
+        "textTh": "ว่าจ้างบริษัทที่ปรึกษาที่เชี่ยวชาญด้านธรรมาภิบาล",
+        "analysis": "ผิด - ที่ปรึกษาเก่งแค่ไหน ถ้าผู้บริหารไม่ผลักดันก็ไร้ความหมาย"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'actions by senior management' และ 'successful implementation' โครงการ Security จะรอดหรือร่วง ขึ้นอยู่กับ 'การสนับสนุนของผู้บริหาร' (Demonstrated support / Management Commitment) เป็นอันดับแรกสุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/5",
+    "studyTechnique": "จำไว้ว่า ความสำเร็จของ Security Program/Governance = Management Support / Tone at the Top"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is the BEST strategy to implement an effective operational security posture?",
+    "questionTh": "ข้อใดคือกลยุทธ์ที่ดีที่สุดในการนำ 'สถานะความปลอดภัยด้านปฏิบัติการ (Operational security posture)' ที่มีประสิทธิภาพมาปรับใช้?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increased security awareness",
+        "textTh": "การเพิ่มความตระหนักรู้ด้านความปลอดภัย",
+        "analysis": "ผิด - เป็นแค่ส่วนหนึ่งของกลยุทธ์ (ด้านคน)"
+      },
+      {
+        "id": "B",
+        "text": "Defense in depth",
+        "textTh": "การป้องกันในเชิงลึก (Defense in depth)",
+        "analysis": "ถูกต้อง - 'Defense in Depth (การป้องกันหลายชั้น)' คือกลยุทธ์หลักที่ดีที่สุดในเชิงปฏิบัติการ (Operational Security) โดยเป็นการนำเทคโนโลยี, กระบวนการ, และคน (People, Process, Technology) มาวางเป็นชั้นๆ เพื่อปกป้องข้อมูล หากชั้นแรก (เช่น Firewall) พลาด ก็ยังมีชั้นสอง (เช่น IPS, Endpoint) ป้องกันอยู่"
+      },
+      {
+        "id": "C",
+        "text": "Threat management",
+        "textTh": "การบริหารจัดการภัยคุกคาม",
+        "analysis": "ผิด - เป็นเพียงกระบวนการหนึ่งในระบบป้องกัน ไม่ใช่ภาพรวมเชิงกลยุทธ์ของระบบปฏิบัติการ"
+      },
+      {
+        "id": "D",
+        "text": "Vulnerability management",
+        "textTh": "การบริหารจัดการช่องโหว่",
+        "analysis": "ผิด - เป็นส่วนหนึ่งที่จำเป็น แต่แคบกว่า Defense in depth"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'BEST strategy' และ 'operational security posture' กลยุทธ์พื้นฐานทางทหารและไซเบอร์ที่เป็นที่ยอมรับมากที่สุดในการตั้งรับคือ 'การสร้างกำแพงหลายชั้น' หรือ Defense in Depth",
+    "referenceLink": "https://www.examprepper.co/exam/161/5",
+    "studyTechnique": "จำไว้ว่า กลยุทธ์ในการออกแบบระบบป้องกันปฏิบัติการ/สถาปัตยกรรม = Defense in Depth (การป้องกันหลายชั้น)"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is the BEST way to reduce the risk of security incidents from targeted email attacks?",
+    "questionTh": "ข้อใดคือวิธีที่ดีที่สุดในการลดความเสี่ยงของเหตุการณ์ความปลอดภัย จาก 'การโจมตีผ่านอีเมลแบบเจาะจงเป้าหมาย (Targeted email attacks)'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conduct awareness training across the organization.",
+        "textTh": "ดำเนินการฝึกอบรมความตระหนักรู้ทั่วทั้งองค์กร (Conduct awareness training)",
+        "analysis": "ถูกต้อง - การโจมตีแบบเจาะจง (Targeted attacks / Spear phishing) มักจะออกแบบมาอย่างแนบเนียนจนสามารถหลบหลีกระบบป้องกันทางเทคนิค (เช่น Spam filter) ได้ ดังนั้นด่านป้องกันสุดท้ายและได้ผลที่สุดคือ 'การให้ความรู้คน (Awareness training)' ให้รู้จักสังเกตและสงสัยอีเมลที่ผิดปกติ"
+      },
+      {
+        "id": "B",
+        "text": "Require acknowledgment of the acceptable use policy.",
+        "textTh": "กำหนดให้มีการลงนามรับทราบนโยบายการใช้งานที่ยอมรับได้ (AUP)",
+        "analysis": "ผิด - การเซ็นนโยบายไม่ได้แปลว่าพนักงานจะดูอีเมลหลอกลวงออก"
+      },
+      {
+        "id": "C",
+        "text": "Disable all incoming cloud mail services.",
+        "textTh": "ปิดใช้งานบริการอีเมลคลาวด์ขาเข้าทั้งหมด",
+        "analysis": "ผิด - กระทบต่อการดำเนินธุรกิจอย่างรุนแรง (Availability impact)"
+      },
+      {
+        "id": "D",
+        "text": "Implement a data loss prevention (DLP) system.",
+        "textTh": "ติดตั้งระบบป้องกันข้อมูลสูญหาย (DLP)",
+        "analysis": "ผิด - DLP เอาไว้ป้องกันข้อมูลรั่วไหลออก (Outbound) ไม่ใช่เอาไว้กันอีเมลฟิชชิ่งขาเข้า (Inbound)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'targeted email attacks' (เช่น Spear Phishing) การโจมตีประเภทนี้อาศัยความเชื่อใจของมนุษย์ (Social Engineering) วิธีลดความเสี่ยงที่ดีที่สุดจึงเป็นการฝึกอบรมพนักงานให้รู้เท่าทัน (Awareness Training)",
+    "referenceLink": "https://www.examprepper.co/exam/161/6",
+    "studyTechnique": "จำไว้ว่า ป้องกัน Phishing / Social Engineering = Awareness Training (อบรมคน)"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is the PRIMARY benefit of an information security awareness training program?",
+    "questionTh": "ข้อใดคือประโยชน์หลัก (PRIMARY benefit) ของโปรแกรมการฝึกอบรมสร้างความตระหนักรู้ด้านความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evaluating organizational security culture",
+        "textTh": "การประเมินวัฒนธรรมความปลอดภัยขององค์กร",
+        "analysis": "ผิด - การอบรมไม่ใช่เครื่องมือวัดผล แต่เป็นเครื่องมือสำหรับพัฒนา"
+      },
+      {
+        "id": "B",
+        "text": "Enforcing security policy",
+        "textTh": "การบังคับใช้นโยบายความปลอดภัย",
+        "analysis": "ผิด - การบังคับใช้ต้องอาศัยผู้บริหารและระบบเทคนิค ไม่ใช่การอบรม"
+      },
+      {
+        "id": "C",
+        "text": "Influencing human behavior",
+        "textTh": "การมีอิทธิพลต่อพฤติกรรมมนุษย์ (Influencing human behavior)",
+        "analysis": "ถูกต้อง - เป้าหมายและประโยชน์สูงสุดของ Security Awareness Training ไม่ใช่เพื่อให้พนักงานสอบผ่าน แต่เพื่อ 'เปลี่ยนทัศนคติและพฤติกรรม (Modify/Influence human behavior)' ให้พนักงานมีความระมัดระวังเป็นนิสัย และไม่ทำพฤติกรรมสุ่มเสี่ยง"
+      },
+      {
+        "id": "D",
+        "text": "Defining risk accountability",
+        "textTh": "การกำหนดความรับผิดชอบต่อความเสี่ยง",
+        "analysis": "ผิด - เป็นหน้าที่ของโครงสร้าง Governance และ Policy"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'PRIMARY benefit' ของ 'awareness training' ในข้อสอบ CISM คำตอบเกี่ยวกับการอบรมมักจะมุ่งไปที่คำว่า 'Behavior' (พฤติกรรม) เพราะพฤติกรรมที่เปลี่ยนไปคือผลลัพธ์เชิงบวกที่จับต้องได้ที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/6",
+    "studyTechnique": "จำไว้ว่า เป้าหมายสูงสุดของ Awareness Training = เปลี่ยนพฤติกรรมมนุษย์ (Influence/Modify Behavior)"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following MOST effectively supports an organization's security culture?",
+    "questionTh": "ข้อใดสนับสนุน 'วัฒนธรรมความปลอดภัย' ขององค์กรได้อย่างมีประสิทธิภาพมากที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business unit security metrics",
+        "textTh": "ตัวชี้วัดความปลอดภัยของหน่วยธุรกิจ",
+        "analysis": "ผิด - ตัวชี้วัดใช้วัดผล แต่ไม่ได้ช่วยสร้างหรือสนับสนุนวัฒนธรรมโดยตรง"
+      },
+      {
+        "id": "B",
+        "text": "An information governance framework",
+        "textTh": "กรอบธรรมาภิบาลข้อมูล",
+        "analysis": "ผิด - เฟรมเวิร์กเป็นเอกสารที่จับต้องได้ยากสำหรับพนักงานทั่วไป"
+      },
+      {
+        "id": "C",
+        "text": "Stakeholder involvement",
+        "textTh": "การมีส่วนร่วมของผู้มีส่วนได้ส่วนเสีย (Stakeholder involvement)",
+        "analysis": "ถูกต้อง - วัฒนธรรมองค์กร (Culture) เป็นเรื่องของ 'คน' การที่จะสร้างวัฒนธรรมความปลอดภัยให้เกิดขึ้นจริงได้ ต้องเกิดจากการที่คนในองค์กร โดยเฉพาะระดับผู้บริหารและหัวหน้างาน (Stakeholders) ลงมามีบทบาท มีส่วนร่วม และทำให้เป็นแบบอย่าง (Buy-in and Involvement)"
+      },
+      {
+        "id": "D",
+        "text": "A security mission statement",
+        "textTh": "พันธกิจด้านความปลอดภัย",
+        "analysis": "ผิด - เป็นเพียงคำพูดลอยๆ หากไม่มีการปฏิบัติจริง (Involvement)"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'supports security culture' วัฒนธรรมไม่ได้ถูกสร้างจากกระดาษหรือคำประกาศ แต่สร้างจากการกระทำและการมีส่วนร่วม (Involvement/Engagement) ของผู้คน โดยเฉพาะจาก Stakeholder",
+    "referenceLink": "https://www.examprepper.co/exam/161/6",
+    "studyTechnique": "จำไว้ว่า วัฒนธรรมความปลอดภัย (Security Culture) เกิดจาก = การมีส่วนร่วมและการเป็นแบบอย่าง (Stakeholder involvement / Tone at the top)"
+  },
+  {
+    "id": 29,
+    "question": "A new type of ransomware has infected an organization's network. Which of the following would have BEST enabled the organization to detect this situation?",
+    "questionTh": "แรนซัมแวร์ 'ชนิดใหม่ (New type)' ได้แพร่ระบาดเข้าสู่เครือข่ายขององค์กร ข้อใดต่อไปนี้จะช่วยให้องค์กร 'ตรวจจับ (Detect)' สถานการณ์นี้ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Periodic information security training for end users",
+        "textTh": "การฝึกอบรมความปลอดภัยข้อมูลตามระยะเวลาสำหรับผู้ใช้ปลายทาง",
+        "analysis": "ผิด - ผู้ใช้อาจสังเกตเห็นได้ แต่ถ้าระบบไม่ตรวจจับ ไวรัสก็จะแพร่ลามไปเร็วเกินกว่าผู้ใช้จะแจ้งทัน"
+      },
+      {
+        "id": "B",
+        "text": "Use of integrated patch deployment tools",
+        "textTh": "การใช้เครื่องมือติดตั้งแพตช์แบบบูรณาการ",
+        "analysis": "ผิด - แพตช์ช่วยป้องกัน (Prevent) แต่ในเมื่อมันติดมาแล้ว แปลว่ากำลังถามหาวิธีตรวจจับ (Detect)"
+      },
+      {
+        "id": "C",
+        "text": "Regular review of the threat landscape",
+        "textTh": "การทบทวนภาพรวมภัยคุกคามอย่างสม่ำเสมอ",
+        "analysis": "ผิด - การทบทวนช่วยเรื่องกลยุทธ์ แต่ไม่ได้ช่วยตรวจจับไวรัสที่กำลังวิ่งอยู่ในเครือข่ายเรียลไทม์"
+      },
+      {
+        "id": "D",
+        "text": "Monitoring of anomalies in system behavior",
+        "textTh": "การตรวจสอบความผิดปกติในพฤติกรรมของระบบ (Monitoring of anomalies)",
+        "analysis": "ถูกต้อง - Key word ในข้อนี้คือ 'New type (สายพันธุ์ใหม่/Zero-day)' ซึ่งระบบ Antivirus แบบเก่าที่ใช้ Signature-based จะตรวจไม่เจอ วิธีเดียวที่จะตรวจพบมัลแวร์สายพันธุ์ใหม่ได้คือการดูที่ 'พฤติกรรม (Behavior-based / Anomaly detection)' เช่น จู่ๆ มีการเปิดไฟล์หรือเข้ารหัสไฟล์จำนวนมหาศาลพร้อมกัน"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'new type of ransomware' และ 'detect' ภัยคุกคามชนิดใหม่ (Zero-day) ไม่มีลายเซ็น (Signature) ให้ตรวจจับ ดังนั้นระบบป้องกันยุคใหม่ต้องใช้วิธีตรวจจับจากความผิดปกติ (Anomaly / Heuristic / Behavior-based monitoring)",
+    "referenceLink": "https://www.examprepper.co/exam/161/6",
+    "studyTechnique": "จำไว้ว่า ตรวจจับภัยคุกคามแบบใหม่ (New type / Zero-day) = ต้องใช้ Anomaly / Behavior-based detection"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following should an information security manager do FIRST upon notification of a potential security risk associated with a third-party service provider?",
+    "questionTh": "ข้อใดที่ผู้จัดการความปลอดภัยข้อมูลควรทำเป็นอันดับแรก (FIRST) เมื่อได้รับแจ้งเกี่ยวกับ 'ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้น' ซึ่งเกี่ยวข้องกับผู้ให้บริการภายนอก (Third-party)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Determine risk treatment options.",
+        "textTh": "กำหนดทางเลือกในการจัดการความเสี่ยง",
+        "analysis": "ผิด - จะหาทางแก้ได้ต้องรู้ก่อนว่าความเสี่ยงนั้นคืออะไร และหนักหนาแค่ไหน"
+      },
+      {
+        "id": "B",
+        "text": "Conduct a vulnerability analysis.",
+        "textTh": "ดำเนินการวิเคราะห์ช่องโหว่",
+        "analysis": "ผิด - แคบเกินไปและเป็นเรื่องทางเทคนิค อาจไม่ใช่ช่องโหว่ที่ระบบเสมอไป"
+      },
+      {
+        "id": "C",
+        "text": "Escalate to the third-party provider.",
+        "textTh": "ส่งเรื่อง (Escalate) ไปยังผู้ให้บริการภายนอก",
+        "analysis": "ผิด - เราต้องประเมินฝั่งเราก่อนว่ามันกระทบกับเราจริงไหม ก่อนจะโวยวายไปหาคนอื่น"
+      },
+      {
+        "id": "D",
+        "text": "Conduct a risk analysis.",
+        "textTh": "ดำเนินการวิเคราะห์ความเสี่ยง (Conduct a risk analysis)",
+        "analysis": "ถูกต้อง - เมื่อได้ยินข่าวหรือมีรายงานเกี่ยวกับ 'Potential risk' (ความเสี่ยงที่อาจเกิดขึ้น) ก้าวแรกสุดคือการนำข้อมูลนั้นมา 'ประเมิน/วิเคราะห์ความเสี่ยง (Risk Assessment/Analysis)' เพื่อดูว่ามันมีผลกระทบกับองค์กรเราจริงหรือไม่ (Likelihood & Impact) ก่อนที่จะไปตัดสินใจหาทางแก้ไข (Risk Treatment) ในขั้นตอนต่อไป"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'FIRST' และ 'notification of a potential security risk' กฎพื้นฐานเมื่อเจอความเสี่ยงใหม่ๆ หรือคำเตือนใหม่ๆ คือ 'ห้ามตื่นตระหนก แต่ให้ประเมินความเสี่ยงนั้นก่อน (Assess / Analyze the risk)' เพื่อหาผลกระทบต่อองค์กร",
+    "referenceLink": "https://www.examprepper.co/exam/161/6",
+    "studyTechnique": "จำไว้ว่า มีเหตุการณ์/ความเสี่ยงใหม่เข้ามาปุ๊บ -> ขั้นแรก: ทำ Risk Analysis/Assessment เสมอ"
+  },
+  {
+    "id": 31,
+    "question": "A security incident has been reported within an organization. When should an information security manager contact the information owner?",
+    "questionTh": "มีการรายงานเหตุการณ์ความปลอดภัยภายในองค์กร ผู้จัดการความปลอดภัยข้อมูลควรติดต่อ 'เจ้าของข้อมูล (Information owner)' เมื่อใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "After the potential incident has been logged",
+        "textTh": "หลังจากลงบันทึกเหตุการณ์ที่อาจเกิดขึ้นแล้ว",
+        "analysis": "ผิด - เพิ่งลงบันทึก ยังไม่รู้ว่าเป็นเรื่องจริงหรือแค่ False positive การไปกวนเจ้าของข้อมูลจะทำให้ตื่นตระหนกโดยใช่เหตุ"
+      },
+      {
+        "id": "B",
+        "text": "After the incident has been contained",
+        "textTh": "หลังจากกักกัน (Contain) เหตุการณ์แล้ว",
+        "analysis": "ผิด - การกักกันอาจมีผลกระทบต่อระบบ (เช่น ปิดเซิร์ฟเวอร์) ซึ่งต้องขออนุมัติจากเจ้าของข้อมูลก่อน"
+      },
+      {
+        "id": "C",
+        "text": "After the incident has been confirmed",
+        "textTh": "หลังจากเหตุการณ์ได้รับการยืนยันแล้ว (After the incident has been confirmed)",
+        "analysis": "ถูกต้อง - เมื่อทีมรักษาความปลอดภัยตรวจสอบและ 'ยืนยัน (Confirm)' แล้วว่านี่คือเหตุการณ์โจมตีจริงๆ (True positive) ขั้นตอนต่อไปคือต้องแจ้ง 'เจ้าของข้อมูล/เจ้าของระบบ' ทันที เพื่อให้เขาทราบถึงผลกระทบและร่วมตัดสินใจในการดำเนินการขั้นต่อไป (เช่น การหยุดให้บริการชั่วคราว)"
+      },
+      {
+        "id": "D",
+        "text": "After the incident has been mitigated",
+        "textTh": "หลังจากบรรเทาเหตุการณ์แล้ว",
+        "analysis": "ผิด - ช้าเกินไป เจ้าของข้อมูลควรมีส่วนร่วมในการตัดสินใจก่อนหน้านั้น"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'contact the information owner' เราจะรายงานผู้บริหารหรือเจ้าของระบบก็ต่อเมื่อเรา 'ยืนยันความถูกต้องของเหตุการณ์' เรียบร้อยแล้วเท่านั้น เพื่อหลีกเลี่ยงสถานการณ์เด็กเลี้ยงแกะ (False alarms)",
+    "referenceLink": "https://www.examprepper.co/exam/161/7",
+    "studyTechnique": "จำไว้ว่า Incident Response -> 1. Triage/Identify -> 2. Verify/Confirm (ยืนยันว่าจริง) -> 3. แจ้งเตือน Owner/Management -> 4. Contain (กักกัน)"
+  },
+  {
+    "id": 32,
+    "question": "An incident management team leader sends out a notification that the organization has successfully recovered from a cyberattack. Which of the following should be done NEXT?",
+    "questionTh": "หัวหน้าทีมจัดการเหตุการณ์ส่งการแจ้งเตือนว่าองค์กรกู้คืนระบบจากการโจมตีทางไซเบอร์ได้สำเร็จแล้ว ข้อใดควรทำเป็นลำดับต่อไป (NEXT)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Secure and preserve digital evidence for analysis.",
+        "textTh": "รักษาความปลอดภัยและเก็บรักษาหลักฐานดิจิทัลเพื่อการวิเคราะห์",
+        "analysis": "ผิด - การเก็บหลักฐานต้องทำตั้งแต่ขั้นตอน Identification และ Containment ไม่ใช่มาทำตอนจบ"
+      },
+      {
+        "id": "B",
+        "text": "Gather feedback on business impact.",
+        "textTh": "รวบรวมข้อเสนอแนะเกี่ยวกับผลกระทบทางธุรกิจ",
+        "analysis": "ผิด - เป็นส่วนหนึ่งของการวิเคราะห์ แต่ไม่ใช่กระบวนการหลักที่ต้องทำหลังจบเหตุการณ์"
+      },
+      {
+        "id": "C",
+        "text": "Conduct a meeting to capture lessons learned.",
+        "textTh": "จัดการประชุมเพื่อรวบรวมบทเรียนที่ได้รับ (Lessons learned)",
+        "analysis": "ถูกต้อง - ขั้นตอนสุดท้ายและสำคัญที่สุดของวงจรการตอบสนองเหตุการณ์ (Incident Response Lifecycle) หลังจากกู้คืนระบบ (Recovery) เสร็จสิ้นแล้ว คือขั้นตอน Post-Incident Review หรือการทำ 'Lessons Learned' เพื่อทบทวนข้อผิดพลาดและนำไปปรับปรุงแผนต่อไป"
+      },
+      {
+        "id": "D",
+        "text": "Prepare an executive summary for senior management.",
+        "textTh": "เตรียมบทสรุปสำหรับผู้บริหารระดับสูง",
+        "analysis": "ผิด - รายงานสรุปจะสมบูรณ์ได้ต้องทำ Lessons learned เสียก่อน"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'successfully recovered' ซึ่งหมายถึงจบเฟส Recovery แล้ว ขั้นตอนบังคับต่อไปตามมาตรฐานคือ Post-incident review เพื่อหา 'Lessons learned'",
+    "referenceLink": "https://www.examprepper.co/exam/161/7",
+    "studyTechnique": "จำไว้ว่า จบ Incident (กู้คืนสำเร็จ) = ขั้นต่อไปคือ Lessons Learned / Post-incident review เสมอ"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following defines the MOST comprehensive set of security requirements for a newly developed information system?",
+    "questionTh": "ข้อใดเป็นตัวกำหนดชุดข้อกำหนดด้านความปลอดภัยที่ 'ครอบคลุมที่สุด (MOST comprehensive)' สำหรับระบบสารสนเทศที่พัฒนาขึ้นใหม่?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Baseline controls",
+        "textTh": "การควบคุมพื้นฐาน",
+        "analysis": "ผิด - Baseline คือข้อกำหนดขั้นต่ำ ไม่ได้ครอบคลุมความเสี่ยงเฉพาะเจาะจงของระบบนั้นๆ"
+      },
+      {
+        "id": "B",
+        "text": "Audit findings",
+        "textTh": "ข้อค้นพบจากการตรวจสอบ",
+        "analysis": "ผิด - Audit ช่วยหาช่องโหว่ของสิ่งที่มีอยู่ ไม่ใช่ตัวกำหนด Requirement สำหรับระบบใหม่ทั้งหมด"
+      },
+      {
+        "id": "C",
+        "text": "Risk assessment results",
+        "textTh": "ผลการประเมินความเสี่ยง (Risk assessment results)",
+        "analysis": "ถูกต้อง - การจะรู้ว่าระบบใหม่ต้องการความปลอดภัยระดับไหน (Security requirements) วิธีที่ครอบคลุมและดีที่สุดคือการทำ 'การประเมินความเสี่ยง (Risk Assessment)' เพื่อพิจารณาทั้งบริบทของธุรกิจ ภัยคุกคาม และผลกระทบ แล้วจึงแปลงผลประเมินนั้นมาเป็น Security requirements ที่เฉพาะเจาะจงกับระบบนั้น"
+      },
+      {
+        "id": "D",
+        "text": "Key risk indicators (KRIs)",
+        "textTh": "ตัวชี้วัดความเสี่ยงหลัก",
+        "analysis": "ผิด - KRI ใช้เตือนภัยล่วงหน้า ไม่ได้ใช้กำหนด Requirement"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'MOST comprehensive set of security requirements' ข้อกำหนดความปลอดภัยที่สมบูรณ์แบบไม่ได้มาจากการมโนหรือใช้แค่ Baseline แต่ต้องมาจากกระบวนการประเมินความเสี่ยง (Risk Assessment) ของระบบนั้นๆ",
+    "referenceLink": "https://www.examprepper.co/exam/161/7",
+    "studyTechnique": "จำไว้ว่า การกำหนด Security Requirements ใหม่ = ต้องอิงจากผลการทำ Risk Assessment เสมอ"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following information security practices would BEST prevent a SQL injection attack?",
+    "questionTh": "แนวปฏิบัติเกี่ยวกับความปลอดภัยข้อมูลข้อใด จะ 'ป้องกัน (prevent)' การโจมตีแบบ SQL Injection ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adopting agile development",
+        "textTh": "การนำการพัฒนาแบบ Agile มาใช้",
+        "analysis": "ผิด - Agile เป็นแนวทางการทำงานที่เน้นความเร็ว ไม่ได้การันตีความปลอดภัย"
+      },
+      {
+        "id": "B",
+        "text": "Enhancing the patching program",
+        "textTh": "การปรับปรุงโปรแกรมการจัดการแพตช์",
+        "analysis": "ผิด - SQL Injection ส่วนใหญ่เกิดจากโค้ดที่โปรแกรมเมอร์ของบริษัทเขียนเอง (Custom code) ซึ่งไม่มีแพตช์จากภายนอกให้อัปเดต"
+      },
+      {
+        "id": "C",
+        "text": "Training developers on secure coding practices to reduce vulnerabilities",
+        "textTh": "การฝึกอบรมนักพัฒนาเกี่ยวกับแนวปฏิบัติการเขียนโค้ดที่ปลอดภัย (Secure coding)",
+        "analysis": "ถูกต้อง - ต้นเหตุของ SQL Injection คือนักพัฒนาเขียนโค้ดไม่รัดกุม (ไม่ทำ Input Validation หรือ Parameterized Queries) วิธี 'ป้องกันที่ต้นเหตุ' ที่ดีที่สุดคือการสอนให้นักพัฒนารู้จักการเขียนโค้ดให้ปลอดภัย (Secure coding training)"
+      },
+      {
+        "id": "D",
+        "text": "Performing vulnerability testing before each version release",
+        "textTh": "ทำการทดสอบช่องโหว่ก่อนปล่อยแต่ละเวอร์ชัน",
+        "analysis": "ผิด - เป็นการ 'ตรวจจับ (Detective)' ช่องโหว่หลังจากเขียนโค้ดเสร็จแล้ว ไม่ใช่การ 'ป้องกัน (Preventive)' ไม่ให้ช่องโหว่เกิดขึ้นแต่แรก"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'BEST prevent' และ 'SQL injection' ปัญหา Application security ต้องแก้ที่รากเหง้า (Root cause) คือตัวโปรแกรมเมอร์ การให้ความรู้ (Training on secure coding) คือมาตรการป้องกันที่ดีที่สุดตามหลัก Shift-Left",
+    "referenceLink": "https://www.examprepper.co/exam/161/7",
+    "studyTechnique": "จำไว้ว่า ป้องกัน SQL Injection / App Vuln (Preventive) = Secure Coding Training | ส่วน Vulnerability Test เป็น Detective"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is a viable containment strategy for a distributed denial of service (DDoS) attack?",
+    "questionTh": "ข้อใดคือกลยุทธ์การกักกัน (Containment strategy) ที่เป็นไปได้และใช้งานได้จริงสำหรับการโจมตีแบบ DDoS?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Block IP addresses used by the attacker.",
+        "textTh": "บล็อกที่อยู่ IP ที่ผู้โจมตีใช้",
+        "analysis": "ผิด - DDoS มาจาก IP นับหมื่นนับแสน (Botnet) และมักมีการปลอมแปลง (Spoofed IP) การบล็อกทีละ IP เป็นเรื่องที่เป็นไปไม่ได้และไม่ทันการ"
+      },
+      {
+        "id": "B",
+        "text": "Disable firewall ports exploited by the attacker.",
+        "textTh": "ปิดการใช้งานพอร์ตไฟร์วอลล์ที่ผู้โจมตีเจาะเข้ามา",
+        "analysis": "ผิด - DDoS มักโจมตีมาที่พอร์ตหลักที่ต้องใช้งาน (เช่น Port 80, 443) หากเราปิดพอร์ตนี้ ก็เท่ากับเราปิดเว็บตัวเอง (เข้าทางแฮ็กเกอร์)"
+      },
+      {
+        "id": "C",
+        "text": "Power oft affected servers.",
+        "textTh": "ปิดเครื่อง (Power off) เซิร์ฟเวอร์ที่ได้รับผลกระทบ",
+        "analysis": "ผิด - ทำให้ระบบล่ม ซึ่งเป็นเป้าหมายของ DDoS พอดี"
+      },
+      {
+        "id": "D",
+        "text": "Redirect the attacker's traffic.",
+        "textTh": "เปลี่ยนเส้นทางการจราจรของผู้โจมตี (Redirect the attacker's traffic)",
+        "analysis": "ถูกต้อง - กลยุทธ์มาตรฐานระดับองค์กรในการรับมือ DDoS คือการใช้เทคนิค เช่น Sinkholing, Blackholing, หรือการส่งทราฟฟิกไปให้ Scrubbing Center เพื่อกรองข้อมูลขยะทิ้งแล้วปล่อยเฉพาะข้อมูลจริงเข้ามา (Traffic Redirection)"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'containment strategy' สำหรับ 'DDoS attack' การบล็อก IP ใช้ไม่ได้ผลกับ DDoS ท่ารับมือที่ดีที่สุดในทางสถาปัตยกรรมคือการ 'เบี่ยงทราฟฟิก (Redirect/Sinkhole)' ไปยังระบบรับมือโดยเฉพาะ",
+    "referenceLink": "https://www.examprepper.co/exam/161/7",
+    "studyTechnique": "จำไว้ว่า การสู้กับ DDoS (ปริมาณข้อมูลมหาศาล) = Redirect traffic (เบี่ยงทางไปลงท่ออื่น/Scrubbing center)"
+  },
+  {
+    "id": 36,
+    "question": "In a cloud technology environment, which of the following would pose the GREATEST challenge to the investigation of security incidents?",
+    "questionTh": "ในสภาพแวดล้อมเทคโนโลยีคลาวด์ ข้อใดจะเป็น 'ความท้าทายที่ยิ่งใหญ่ที่สุด' ในการสืบสวนเหตุการณ์ด้านความปลอดภัย (Forensics/Investigation)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Non-standard event logs",
+        "textTh": "บันทึกเหตุการณ์ (Logs) ที่ไม่ได้มาตรฐาน",
+        "analysis": "ผิด - แม้จะยุ่งยาก แต่เราสามารถแปลงรูปแบบได้ด้วย SIEM"
+      },
+      {
+        "id": "B",
+        "text": "Access to the hardware",
+        "textTh": "การเข้าถึงฮาร์ดแวร์ (Access to the hardware)",
+        "analysis": "ถูกต้อง - กฎพื้นฐานของ Cloud (โดยเฉพาะ SaaS หรือ PaaS) คือลูกค้าจะไม่มีสิทธิ์เข้าไปยุ่งหรือเข้าถึง physical hardware หรือ Hypervisor ได้เลย (Shared responsibility) ซึ่งในทางนิติวิทยาศาสตร์ (Forensics) หากไม่ได้เข้าถึง Hardware หรือ Memory (RAM) การทำ Forensics เชิงลึกจะทำได้ยากหรือแทบเป็นไปไม่ได้เลย"
+      },
+      {
+        "id": "C",
+        "text": "Data encryption",
+        "textTh": "การเข้ารหัสข้อมูล",
+        "analysis": "ผิด - หากเป็นระบบของเราเอง เราย่อมมีกุญแจถอดรหัส (Encryption keys)"
+      },
+      {
+        "id": "D",
+        "text": "Compressed customer data",
+        "textTh": "ข้อมูลลูกค้าที่ถูกบีบอัด",
+        "analysis": "ผิด - การบีบอัดสามารถขยายกลับได้ง่าย ไม่ใช่ความท้าทายทางเทคนิค"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'cloud technology environment' และ 'investigation challenge' ปัญหาคลาสสิกที่สุดของการทำ Forensics บนคลาวด์คือ 'เราไม่ได้เป็นเจ้าของเครื่อง (Lack of physical access)' ทำให้เก็บหลักฐานระดับ Hardware หรือ Memory (RAM) ได้ลำบากมาก",
+    "referenceLink": "https://www.examprepper.co/exam/161/8",
+    "studyTechnique": "จำไว้ว่า อุปสรรคของ Incident/Forensics บน Cloud = การไม่สามารถเข้าถึงอุปกรณ์จริง (Access to hardware / Physical access)"
+  },
+  {
+    "id": 37,
+    "question": "A data discovery project uncovers an unclassified process document. Of the following, who is BEST suited to determine the classification?",
+    "questionTh": "โครงการค้นหาข้อมูล (Data discovery) ค้นพบเอกสารกระบวนการทำงานฉบับหนึ่งที่ยังไม่ได้จัดประเภท (Unclassified) บุคคลใดเหมาะสมที่สุดที่จะเป็นผู้กำหนดการจัดประเภทข้อมูล (Classification)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Creator of the document",
+        "textTh": "ผู้สร้างเอกสาร (Creator of the document)",
+        "analysis": "ถูกต้อง - ในกรณีที่พบเอกสารและไม่มีการระบุเจ้าของชัดเจน 'ผู้สร้างข้อมูล (Creator)' มักจะถือเป็น 'เจ้าของข้อมูล (Data Owner)' โดยปริยาย ซึ่งบทบาทสำคัญที่สุดของ Owner ก็คือการประเมินและจัดประเภทความลับของข้อมูล (Classification)"
+      },
+      {
+        "id": "B",
+        "text": "Data custodian",
+        "textTh": "ผู้ดูแลข้อมูล",
+        "analysis": "ผิด - Custodian (IT) ไม่มีอำนาจในการบอกว่าข้อมูลมีค่าระดับไหน"
+      },
+      {
+        "id": "C",
+        "text": "Information security manager",
+        "textTh": "ผู้จัดการความปลอดภัยข้อมูล",
+        "analysis": "ผิด - Security เป็นผู้ให้คำแนะนำ ไม่ใช่คนชี้ขาดเรื่องระดับชั้นความลับของธุรกิจ"
+      },
+      {
+        "id": "D",
+        "text": "Security policy author",
+        "textTh": "ผู้เขียนนโยบายความปลอดภัย",
+        "analysis": "ผิด - ไม่เกี่ยวข้องโดยตรงกับข้อมูลรายชิ้น"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'determine the classification' หน้าที่การจัดประเภทเป็นของ Data Owner และในหลักการจัดการข้อมูล ผู้ที่ผลิต/สร้างข้อมูลขึ้นมา (Creator) จะถือเป็น Data Owner คนแรกเสมอ",
+    "referenceLink": "https://www.examprepper.co/exam/161/8",
+    "studyTechnique": "จำไว้ว่า ใครจัดประเภทข้อมูล (Classify) = Data Owner ... ถ้าไม่มี Owner = ให้ถือว่าคนสร้าง (Creator) คือ Owner"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is MOST important to include in a post-incident report?",
+    "questionTh": "ข้อใดสำคัญที่สุดที่ต้องรวมไว้ในรายงานหลังเกิดเหตุการณ์ (Post-incident report)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Forensic analysis results",
+        "textTh": "ผลการวิเคราะห์ทางนิติวิทยาศาสตร์",
+        "analysis": "ผิด - เป็นเพียงส่วนประกอบทางเทคนิค ไม่ใช่แก่นหลักที่ป้องกันเหตุการณ์ในอนาคต"
+      },
+      {
+        "id": "B",
+        "text": "List of potentially compromised assets",
+        "textTh": "รายชื่อสินทรัพย์ที่อาจถูกเจาะ",
+        "analysis": "ผิด - เป็นรายละเอียดใน Incident report แต่ไม่ใช่หัวใจของ 'Post-incident'"
+      },
+      {
+        "id": "C",
+        "text": "Root cause analysis",
+        "textTh": "การวิเคราะห์สาเหตุที่แท้จริง (Root cause analysis)",
+        "analysis": "ถูกต้อง - เป้าหมายของ Post-incident phase (Lessons learned) คือการหาทางป้องกันไม่ให้เกิดปัญหาเดิมซ้ำอีก ดังนั้นสิ่งที่สำคัญและมีค่าที่สุดในรายงานนี้คือ 'อะไรคือสาเหตุที่แท้จริงที่ทำให้เราโดนแฮ็ก (Root cause)' เพื่อนำไปสู่การอุดช่องโหว่และปรับปรุงกระบวนการ"
+      },
+      {
+        "id": "D",
+        "text": "Service level agreements (SLAs)",
+        "textTh": "ข้อตกลงระดับบริการ",
+        "analysis": "ผิด - ไม่เกี่ยวข้องโดยตรงกับตัวรายงาน"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'post-incident report' จุดมุ่งหมายสูงสุดของเอกสารหลังจบงานคือ 'การเรียนรู้จากข้อผิดพลาด' ข้อมูลที่ทรงคุณค่าที่สุดที่ต้องนำเสนอต่อผู้บริหารคือ 'สาเหตุรากเหง้า (Root cause)' และวิธีแก้ไขระยะยาว",
+    "referenceLink": "https://www.examprepper.co/exam/161/8",
+    "studyTechnique": "จำไว้ว่า Post-Incident Report / Lessons Learned มีไว้เพื่อหา = Root Cause Analysis (ป้องกันไม่ให้เกิดซ้ำ)"
+  },
+  {
+    "id": 39,
+    "question": "When creating an incident response plan, the triggers for the business continuity plan (BCP) MUST be based on:",
+    "questionTh": "เมื่อจัดทำแผนตอบสนองต่อเหตุการณ์ ตัวกระตุ้น/เงื่อนไข (Triggers) ที่จะสั่งให้ 'เริ่มเปิดใช้งานแผนความต่อเนื่องทางธุรกิจ (BCP)' ต้องอิงจากสิ่งใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "a threat assessment.",
+        "textTh": "การประเมินภัยคุกคาม",
+        "analysis": "ผิด - ภัยคุกคามไม่ได้บอกว่าธุรกิจจะทนการหยุดชะงักได้นานแค่ไหน"
+      },
+      {
+        "id": "B",
+        "text": "recovery time objectives (RTOs).",
+        "textTh": "เป้าหมายเวลาในการกู้คืน (RTOs)",
+        "analysis": "ผิด - RTO เป็นเป้าหมายว่าต้องกู้ให้เสร็จภายในกี่ชั่วโมง แต่ไม่ใช่ 'ตัวจุดชนวน (Trigger)' ว่าเมื่อไหร่จึงจะประกาศเป็น Disaster"
+      },
+      {
+        "id": "C",
+        "text": "a business impact analysis (BIA).",
+        "textTh": "การวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ถูกต้อง - จากกระบวนการ BIA องค์กรจะได้ค่า MTD (Maximum Tolerable Downtime) หรือเวลาสูงสุดที่ยอมรับได้หากระบบล่ม 'ตัวกระตุ้น (Triggers)' ในการประกาศภัยพิบัติและเรียกใช้ BCP จะถูกอ้างอิงจากข้อมูลผลกระทบและข้อกำหนดด้านเวลาที่ได้จากรายงาน BIA เป็นหลัก (เช่น หากประเมินหน้างานว่าแก้ไม่ทัน MTD ให้สั่งเปิด BCP ทันที)"
+      },
+      {
+        "id": "D",
+        "text": "a risk assessment.",
+        "textTh": "การประเมินความเสี่ยง",
+        "analysis": "ผิด - กว้างเกินไป BIA คือกระบวนการที่เฉพาะเจาะจงกับการหาผลกระทบด้านความต่อเนื่องมากกว่า"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'triggers for the BCP' เกณฑ์ในการประกาศสถานการณ์ฉุกเฉิน (Disaster Declaration / BCP Trigger) มาจากการพิจารณาผลกระทบที่ธุรกิจรับได้ ซึ่งถูกกำหนดไว้อย่างชัดเจนในขั้นตอน 'Business Impact Analysis (BIA)'",
+    "referenceLink": "https://www.examprepper.co/exam/161/8",
+    "studyTechnique": "จำไว้ว่า อะไรก็ตามที่เกี่ยวกับเงื่อนไขของ Business Continuity (BCP/DRP/RTO/RPO/Triggers) = ล้วนมาจากผลลัพธ์ของ BIA"
+  },
+  {
+    "id": 40,
+    "question": "An organization's information security strategy should be the PRIMARY input to which of the following?",
+    "questionTh": "กลยุทธ์ด้านความปลอดภัยข้อมูล (Information security strategy) ขององค์กร ควรเป็นข้อมูลนำเข้าหลัก (PRIMARY input) ให้กับการทำงานในข้อใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Security governance framework design",
+        "textTh": "การออกแบบกรอบธรรมาภิบาลด้านความปลอดภัย",
+        "analysis": "ถูกต้อง - ลำดับของ CISM คือ Business Goals -> Security Strategy -> Security Governance Framework การที่เราจะออกแบบโครงสร้างกรอบการกำกับดูแล (Governance Framework) ได้ เราต้องมีทิศทางหรือ 'กลยุทธ์ (Strategy)' เป็นตัวตั้งต้นก่อน (Framework มีไว้เพื่อทำให้ Strategy สำเร็จ)"
+      },
+      {
+        "id": "B",
+        "text": "Enterprise risk scenario development",
+        "textTh": "การพัฒนาสถานการณ์จำลองความเสี่ยงระดับองค์กร",
+        "analysis": "ผิด - Risk Scenarios มาจาก Threat/Risk Assessment ไม่ใช่ Strategy"
+      },
+      {
+        "id": "C",
+        "text": "Security program metrics",
+        "textTh": "ตัวชี้วัดโปรแกรมความปลอดภัย",
+        "analysis": "ผิด - Metrics ใช้วัดว่าทำตามกลยุทธ์ได้ไหม แต่มันเป็นผลลัพธ์ย่อยๆ ของ Program อีกที"
+      },
+      {
+        "id": "D",
+        "text": "Organizational risk appetite",
+        "textTh": "ระดับความเสี่ยงที่องค์กรยอมรับได้",
+        "analysis": "ผิด - Risk Appetite ถูกกำหนดโดยผู้บริหารระดับสูง 'ก่อน' ที่จะสร้าง Security Strategy (Risk appetite เป็น input ให้ Strategy ไม่ใช่สลับกัน)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'security strategy should be the PRIMARY input to' ตามหลักการ โครงสร้างการดูแลความปลอดภัยต้องสอดคล้องกันจากบนลงล่าง: 1. Business Strategy 2. Security Strategy 3. Governance Framework (การจัดโครงสร้างองค์กรเพื่อตอบสนองกลยุทธ์) 4. Security Program (การลงมือทำ)",
+    "referenceLink": "https://www.examprepper.co/exam/161/8",
+    "studyTechnique": "จำไว้ว่า ลำดับชั้นคือ: Business Strategy -> Security Strategy -> Governance Framework -> Security Program"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following BEST enables an organization to enhance its incident response plan processes and procedures?",
+    "questionTh": "ข้อใดช่วยให้องค์กรสามารถ 'ปรับปรุง (Enhance)' กระบวนการและขั้นตอนของแผนตอบสนองเหตุการณ์ (Incident response plan) ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Information security audits",
+        "textTh": "การตรวจสอบความปลอดภัยข้อมูล (Audits)",
+        "analysis": "ผิด - การตรวจสอบช่วยหาข้อบกพร่องว่าไม่ได้ทำตามแผน แต่ไม่ได้ช่วยปรับปรุงเทคนิคการรับมือจากสถานการณ์จริงเท่ากับ Lessons learned"
+      },
+      {
+        "id": "B",
+        "text": "Security risk assessments",
+        "textTh": "การประเมินความเสี่ยงด้านความปลอดภัย",
+        "analysis": "ผิด - ช่วยบอกว่ามีปัญหาตรงไหนก่อนเกิดเหตุ แต่ไม่ใช่ตัวปรับปรุงแผนหลังเกิดเหตุ"
+      },
+      {
+        "id": "C",
+        "text": "Lessons learned analysis",
+        "textTh": "การวิเคราะห์บทเรียนที่ได้รับ (Lessons learned analysis)",
+        "analysis": "ถูกต้อง - แผนที่ดีต้องมีการปรับปรุงอย่างต่อเนื่อง (Continuous improvement) แหล่งข้อมูลที่ดีที่สุดในการนำมาปรับปรุง/ยกระดับ (Enhance) แผน IR คือการเอาข้อผิดพลาดจากการซ้อมแผนหรือจากเหตุการณ์จริง มาทำ 'Lessons learned' เพื่อหาวิธีแก้ไขจุดอ่อนนั้น"
+      },
+      {
+        "id": "D",
+        "text": "Key performance indicators (KPIs)",
+        "textTh": "ตัวชี้วัดประสิทธิภาพหลัก (KPIs)",
+        "analysis": "ผิด - KPI เป็นตัวชี้วัดผลลัพธ์ ไม่ใช่กระบวนการปรับปรุงแผนโดยตรง"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'enhance its incident response plan' กลไกเดียวในกระบวนการ Incident Response ที่ถูกออกแบบมาเพื่อ 'การปรับปรุงแผน' คือเฟสสุดท้ายที่เรียกว่า Lessons Learned / Post-incident review",
+    "referenceLink": "https://www.examprepper.co/exam/161/9",
+    "studyTechnique": "จำไว้ว่า การปรับปรุงแผน IR ให้ดีขึ้น (Enhance/Improve) = มาจาก Lessons Learned เสมอ"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is BEST used to determine the maturity of an information security program?",
+    "questionTh": "ข้อใดต่อไปนี้ใช้เพื่อกำหนด 'ระดับวุฒิภาวะ (Maturity)' ของโปรแกรมความปลอดภัยข้อมูลได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Organizational risk appetite",
+        "textTh": "ความต้านทานความเสี่ยงขององค์กร",
+        "analysis": "ผิด - เป็นเพียงเส้นเกณฑ์รับความเสี่ยง"
+      },
+      {
+        "id": "B",
+        "text": "Risk assessment results",
+        "textTh": "ผลการประเมินความเสี่ยง",
+        "analysis": "ผิด - บอกแค่ว่าตอนนี้มีความเสี่ยงอะไรบ้าง แต่ไม่ได้บอกว่าองค์กรมีวุฒิภาวะในการจัดการมันดีแค่ไหนเทียบกับมาตรฐาน"
+      },
+      {
+        "id": "C",
+        "text": "Security metrics",
+        "textTh": "ตัวชี้วัดด้านความปลอดภัย (Security metrics)",
+        "analysis": "ถูกต้อง - การจะวัดหรือกำหนดว่าโปรแกรมความปลอดภัยมีวุฒิภาวะ (Maturity - เช่น CMMI Level 1-5) อยู่ในระดับใด เราต้องมี 'ตัววัดผล' หรือ 'Metrics/KPIs' เพื่อนำไปเปรียบเทียบกับเกณฑ์มาตรฐานว่าเราทำได้ตามเป้าหรือไม่ การใช้ Metrics จึงเป็นเครื่องมือที่ดีที่สุดในการชี้วัด Maturity อย่างเป็นรูปธรรม"
+      },
+      {
+        "id": "D",
+        "text": "Security budget allocation",
+        "textTh": "การจัดสรรงบประมาณด้านความปลอดภัย",
+        "analysis": "ผิด - งบเยอะไม่ได้แปลว่าจัดการเก่งหรือวุฒิภาวะสูงเสมอไป"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'determine the maturity' คำว่า Maturity ต้องสามารถจับต้องและวัดผลได้ (Measurable) เครื่องมือที่ใช้วัดผลการทำงานของโปรแกรมได้อย่างเป็นรูปธรรมคือ 'Metrics' (ตัวชี้วัด)",
+    "referenceLink": "https://www.examprepper.co/exam/161/9",
+    "studyTechnique": "จำไว้ว่า การวัด Maturity/Effectiveness (ความเจริญ/ความมีประสิทธิภาพ) = ต้องใช้ Metrics / KPIs / Benchmark"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following should be done FIRST when developing an information security strategy that is aligned with organizational goals?",
+    "questionTh": "ข้อใดควรทำเป็นอันดับแรก (FIRST) เมื่อพัฒนา 'กลยุทธ์ความปลอดภัยข้อมูล' เพื่อให้สอดคล้องกับเป้าหมายขององค์กร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Establish a security risk framework with key risk indicators (KRIs).",
+        "textTh": "สร้างกรอบความเสี่ยงความปลอดภัยพร้อมตัวชี้วัด KRI",
+        "analysis": "ผิด - เป็นขั้นตอนการดำเนินงานที่ลึกเกินไป ต้องทำกลยุทธ์ให้เสร็จก่อน"
+      },
+      {
+        "id": "B",
+        "text": "Determine information security's impact on the achievement of organizational goals.",
+        "textTh": "พิจารณาผลกระทบของความปลอดภัยข้อมูลที่มีต่อการบรรลุเป้าหมายองค์กร (Determine impact on organizational goals)",
+        "analysis": "ถูกต้อง - ก่อนที่จะวางกลยุทธ์ให้ 'Align (สอดคล้อง)' กับธุรกิจได้ เราต้องตอบให้ได้ก่อนว่า 'งานความปลอดภัยของเราไปช่วยสนับสนุน (หรือกระทบ) เป้าหมายของธุรกิจได้อย่างไร?' (Business understanding) การทำความเข้าใจความเชื่อมโยงนี้เป็นจุดตั้งต้นในการวางกลยุทธ์ที่ตอบโจทย์ผู้บริหารได้ดีที่สุด"
+      },
+      {
+        "id": "C",
+        "text": "Assess information security risk associated with the organizational goals",
+        "textTh": "ประเมินความเสี่ยงด้านความปลอดภัยที่เกี่ยวข้องกับเป้าหมาย",
+        "analysis": "ผิด - การประเมินความเสี่ยงเป็นขั้นตอนสำคัญ แต่ต้องเข้าใจความเชื่อมโยง (Impact) ของ Security กับ Business ก่อนจึงจะรู้ว่าต้องประเมินอะไร"
+      },
+      {
+        "id": "D",
+        "text": "Select information security projects related to the organizational goals.",
+        "textTh": "เลือกโครงการความปลอดภัยที่เกี่ยวข้อง",
+        "analysis": "ผิด - การเลือกโปรเจกต์คือการทำ Action plan ซึ่งต้องมีกลยุทธ์เสร็จก่อน"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'FIRST' และ 'developing strategy aligned with goals' กฎข้อแรกของการทำ Alignment คือคุณต้อง 'เข้าใจธุรกิจ (Understand business)' ว่าเป้าหมายเขาคืออะไร แล้วงานของคุณจะไปส่งผลกระทบ (Impact) หรือสนับสนุนเขาได้อย่างไร",
+    "referenceLink": "https://www.examprepper.co/exam/161/9",
+    "studyTechnique": "จำไว้ว่า จะ Align กับธุรกิจได้ -> ต้องเข้าใจ Business Goals และรู้ว่า Security จะไป Impact/Support ตรงไหน"
+  },
+  {
+    "id": 44,
+    "question": "A business impact analysis (BIA) BEST enables an organization to establish:",
+    "questionTh": "การวิเคราะห์ผลกระทบทางธุรกิจ (BIA) ช่วยให้องค์กรสามารถกำหนดสิ่งใดได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "annualized loss expectancy (ALE).",
+        "textTh": "มูลค่าความเสียหายที่คาดว่าจะเกิดขึ้นในรอบปี (ALE)",
+        "analysis": "ผิด - ALE เป็นผลลัพธ์จากการทำ Quantitative Risk Assessment ไม่ใช่ BIA"
+      },
+      {
+        "id": "B",
+        "text": "recovery methods.",
+        "textTh": "วิธีการกู้คืนระบบ",
+        "analysis": "ผิด - วิธีการกู้คืน (เช่น Hot site/Cold site) ถูกกำหนดในขั้นตอน Recovery Strategy ซึ่งเป็นขั้นตอนถัดจาก BIA"
+      },
+      {
+        "id": "C",
+        "text": "restoration priorities.",
+        "textTh": "ลำดับความสำคัญในการกู้คืน (Restoration priorities)",
+        "analysis": "ถูกต้อง - วัตถุประสงค์หลักของ BIA คือการวิเคราะห์ว่าระบบไหนหากหยุดชะงักแล้วธุรกิจจะเสียหายหนักที่สุด (หา RTO/MTD) เพื่อนำมา 'จัดลำดับความสำคัญ (Prioritize)' ว่าถ้าไฟดับทั้งตึก ต้องกู้ระบบ A ให้เสร็จก่อนระบบ B นั่นคือการกำหนด Restoration Priorities"
+      },
+      {
+        "id": "D",
+        "text": "total cost of ownership (TCO).",
+        "textTh": "ต้นทุนรวมในการเป็นเจ้าของ (TCO)",
+        "analysis": "ผิด - เป็นเรื่องของการจัดซื้อและการเงิน"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'BIA enables to establish' ผลลัพธ์โดยตรงที่สุดของ BIA คือการชี้เป้าว่ากระบวนการไหนสำคัญที่สุด (Critical processes) ซึ่งนำไปสู่การกำหนดว่าต้องกู้อะไรก่อนอะไรหลัง (Restoration Priorities)",
+    "referenceLink": "https://www.examprepper.co/exam/161/9",
+    "studyTechnique": "จำไว้ว่า BIA ทำไปเพื่อหา = ระบบไหนสำคัญสุด (Criticality) -> นำไปสู่การจัดลำดับการกู้คืน (Restoration Priorities / RTO)"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is the PRIMARY objective of developing an information security program that aligns with the information security strategy?",
+    "questionTh": "ข้อใดคือวัตถุประสงค์หลัก (PRIMARY objective) ในการพัฒนาโปรแกรมความปลอดภัยข้อมูล (Information security program) ให้สอดคล้องกับกลยุทธ์ด้านความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To define the resources required to achieve information security goals",
+        "textTh": "เพื่อกำหนดทรัพยากรที่จำเป็นในการบรรลุเป้าหมายด้านความปลอดภัยข้อมูล (Define resources required)",
+        "analysis": "ถูกต้อง - ลำดับของงานคือ Strategy (กำหนดทิศทาง/เป้าหมาย) -> Program (โปรแกรม/แผนปฏิบัติการ) หน้าที่ของ Information Security Program คือการแปลกลยุทธ์ให้เป็นการกระทำ ซึ่งต้อง 'กำหนดว่าต้องใช้ทรัพยากรเท่าไหร่ (คน, เวลา, เทคโนโลยี, งบประมาณ)' เพื่อผลักดันให้เป้าหมายนั้นสำเร็จ (Achieve goals)"
+      },
+      {
+        "id": "B",
+        "text": "To define a bottom-up approach for implementing information security policies",
+        "textTh": "เพื่อกำหนดแนวทางแบบล่างขึ้นบน (Bottom-up) ในการนำนโยบายไปปฏิบัติ",
+        "analysis": "ผิด - นโยบายและกลยุทธ์ที่ดีต้องเป็น Top-down (บนลงล่าง) ไม่ใช่ Bottom-up"
+      },
+      {
+        "id": "C",
+        "text": "To define standards to be implemented",
+        "textTh": "เพื่อกำหนดมาตรฐานที่จะนำไปใช้",
+        "analysis": "ผิด - การกำหนดมาตรฐานเป็นแค่ส่วนหนึ่งของ Program แต่ไม่ใช่วัตถุประสงค์หลักในภาพรวม"
+      },
+      {
+        "id": "D",
+        "text": "To define risk mitigation plans for security technologies",
+        "textTh": "เพื่อกำหนดแผนบรรเทาความเสี่ยงสำหรับเทคโนโลยีความปลอดภัย",
+        "analysis": "ผิด - แคบเกินไป โฟกัสแค่เทคโนโลยี แต่ Program ควบคุมทั้งกระบวนการและคนด้วย"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'objective of developing a program' กลยุทธ์ (Strategy) คือสิ่งที่เรา 'อยากจะเป็น' ส่วนโปรแกรม (Program) คือ 'วิธีที่เราจะไปถึงจุดนั้น' ซึ่งวิธีไปถึงก็คือการจัดการโครงการ, งบประมาณ, และ 'การจัดสรรทรัพยากร (Define resources)'",
+    "referenceLink": "https://www.examprepper.co/exam/161/9",
+    "studyTechnique": "จำไว้ว่า Strategy = กำหนดเป้าหมาย (What/Why) | Program = กำหนดวิธีการและทรัพยากร (How/Resources)"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is MOST important to include in an information security framework?",
+    "questionTh": "ข้อใดสำคัญที่สุด (MOST important) ที่ต้องรวมไว้ใน 'กรอบแนวทางปฏิบัติด้านความปลอดภัยข้อมูล (Information security framework)'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guidance for designing information security controls",
+        "textTh": "แนวทาง/คำแนะนำสำหรับการออกแบบระบบควบคุมความปลอดภัย (Guidance for designing controls)",
+        "analysis": "ถูกต้อง - คำว่า Framework (เช่น NIST, ISO27001) คือชุดของคำแนะนำและโครงสร้าง (Structure & Guidance) ที่บอกเราว่า 'ควรจะออกแบบระบบควบคุม (Controls) อย่างไรให้ครอบคลุมและปลอดภัย' ดังนั้นสิ่งที่ต้องมีในนั้นคือ Guidance ในการทำ Controls"
+      },
+      {
+        "id": "B",
+        "text": "Information security organizational structure",
+        "textTh": "โครงสร้างองค์กรด้านความปลอดภัยข้อมูล",
+        "analysis": "ผิด - โครงสร้างองค์กรเป็นเรื่องของ Governance ไม่ใช่เนื้อหาหลักของ Framework ทางเทคนิค"
+      },
+      {
+        "id": "C",
+        "text": "Industry benchmarks of information security metrics",
+        "textTh": "มาตรฐานเปรียบเทียบในอุตสาหกรรม (Benchmarks) สำหรับตัวชี้วัด",
+        "analysis": "ผิด - Framework จะบอกเกณฑ์ในการประเมิน แต่ไม่ได้ให้ผลลัพธ์ Benchmark ของคู่แข่งมาให้"
+      },
+      {
+        "id": "D",
+        "text": "Information security risk assessment",
+        "textTh": "การประเมินความเสี่ยงด้านความปลอดภัย",
+        "analysis": "ผิด - การประเมินความเสี่ยงคือ 'กิจกรรม' ที่ทำตาม Framework ไม่ใช่สิ่งที่ถูกเขียนลงในเนื้อหาของ Framework ตัวมันเอง"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'information security framework' Framework เป็นพิมพ์เขียว (Blueprint) ที่ให้โครงสร้าง ดังนั้นหน้าที่หลักของมันคือการให้ 'Guidance' (แนวทางปฏิบัติ/คำแนะนำ) ในการเลือกระบบควบคุมต่างๆ มาใช้งานอย่างเป็นระบบ",
+    "referenceLink": "https://www.examprepper.co/exam/161/10",
+    "studyTechnique": "จำไว้ว่า Framework (กรอบการทำงาน) = เป็น Blueprint ที่ให้ Guidance/Structure ในการวางระบบ Controls"
+  },
+  {
+    "id": 47,
+    "question": "The PRIMARY goal of conducting a business impact analysis (BIA) as part of an overall continuity planning process is to:",
+    "questionTh": "เป้าหมายหลัก (PRIMARY goal) ของการทำวิเคราะห์ผลกระทบทางธุรกิจ (BIA) ซึ่งเป็นส่วนหนึ่งของกระบวนการวางแผนความต่อเนื่อง คือเพื่ออะไร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "obtain the support of executive management.",
+        "textTh": "ได้รับการสนับสนุนจากผู้บริหารระดับสูง",
+        "analysis": "ผิด - ผู้บริหารต้องสนับสนุนโปรเจกต์นี้ตั้งแต่ก่อนเริ่มทำ BIA แล้ว"
+      },
+      {
+        "id": "B",
+        "text": "document the disaster recovery process.",
+        "textTh": "จัดทำเอกสารกระบวนการกู้คืนระบบจากภัยพิบัติ",
+        "analysis": "ผิด - การจัดทำเอกสาร DRP จะทำ 'หลังจาก' ที่ได้ผลลัพธ์ BIA แล้ว"
+      },
+      {
+        "id": "C",
+        "text": "map the business process to supporting IT and other corporate resources.",
+        "textTh": "จับคู่ (Map) กระบวนการทางธุรกิจเข้ากับทรัพยากรไอทีและองค์กรที่สนับสนุน",
+        "analysis": "ผิด - เป็นเพียงขั้นตอนหนึ่งในการทำ BIA แต่ไม่ใช่เป้าหมายสูงสุด"
+      },
+      {
+        "id": "D",
+        "text": "identify critical processes and the degree of reliance on support services.",
+        "textTh": "ระบุกระบวนการที่สำคัญ และระดับการพึ่งพาบริการสนับสนุนต่างๆ (Identify critical processes)",
+        "analysis": "ถูกต้อง - หัวใจและเป้าหมายที่แท้จริงของ BIA คือการหาคำตอบว่า 'อะไรคือหัวใจของธุรกิจ (Critical processes)' และกระบวนการเหล่านี้ต้อง 'พึ่งพาระบบไอทีหรือบริการใดบ้าง (Reliance)' เพื่อให้เราปกป้องได้ถูกจุดและกำหนดเวลาเป้าหมายได้ (RTO/RPO)"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'PRIMARY goal of BIA' นิยามที่ตรงที่สุดของ BIA ตามตำรา CISM คือ การระบุกระบวนการที่สำคัญต่อความอยู่รอดของธุรกิจ (Critical business functions) และวิเคราะห์ว่ากระบวนการนั้นพึ่งพาระบบ/ข้อมูล/บุคคลใดบ้าง (Dependencies)",
+    "referenceLink": "https://www.examprepper.co/exam/161/10",
+    "studyTechnique": "จำไว้ว่า BIA = Identify Critical Processes + Evaluate Impact + Find Dependencies"
+  },
+  {
+    "id": 48,
+    "question": "An organization learns that a service provider experienced a breach last month and did not notify the organization. Which of the following should be the information security manager's FIRST course of action?",
+    "questionTh": "องค์กรทราบว่าผู้ให้บริการภายนอก (Service provider) ถูกเจาะระบบเมื่อเดือนที่แล้ว แต่ 'ไม่ได้แจ้ง' ให้องค์กรทราบ ข้อใดควรเป็นการดำเนินการอันดับแรก (FIRST) ของผู้จัดการความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terminate the provider contract.",
+        "textTh": "ยกเลิกสัญญากับผู้ให้บริการ",
+        "analysis": "ผิด - การยกเลิกสัญญาทันทีอาจทำให้ธุรกิจขององค์กรหยุดชะงัก (Availability impact) และอาจทำผิดสัญญาเองด้วย"
+      },
+      {
+        "id": "B",
+        "text": "Conduct a business impact analysis (BIA).",
+        "textTh": "ดำเนินการวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ผิด - BIA ไม่ใช่เครื่องมือที่ใช้สืบสวนเหตุการณ์รั่วไหลของ Vendor"
+      },
+      {
+        "id": "C",
+        "text": "Inform senior management.",
+        "textTh": "แจ้งให้ผู้บริหารระดับสูงทราบ",
+        "analysis": "ผิด - ก่อนแจ้งผู้บริหาร ต้องมีข้อมูลในมือว่า Vendor ทำผิดกฎข้อไหนในสัญญา (SLA) และผลกระทบคืออะไร"
+      },
+      {
+        "id": "D",
+        "text": "Review the provider contract.",
+        "textTh": "ตรวจสอบสัญญากับผู้ให้บริการ (Review the provider contract)",
+        "analysis": "ถูกต้อง - เมื่อ Vendor ทำสิ่งที่เราคิดว่าผิด (ไม่แจ้ง Incident) สิ่งแรกที่ต้องทำคือการ 'กลับไปเปิดดูสัญญาและ SLA' (Review contract) เพื่อดูว่ามีข้อกำหนดเรื่อง Incident Notification (การแจ้งเตือนเหตุ) ระบุไว้ว่าอย่างไร ภายในกี่วัน มีบทลงโทษอะไร ก่อนที่จะตัดสินใจว่าจะเอาผิดอย่างไรต่อไป"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'service provider did not notify' และ 'FIRST' เมื่อมีปัญหากับคู่ค้า (Third-party/Vendor) สิ่งแรกสุดคือห้ามโวยวายโดยไม่มีหลักฐาน แต่ต้อง 'หยิบสัญญา (Contract/SLA) ขึ้นมาอ่านก่อน' ว่าได้ตกลงกันไว้อย่างไร เพื่อใช้เป็นเครื่องมือผูกมัดทางกฎหมาย",
+    "referenceLink": "https://www.examprepper.co/exam/161/10",
+    "studyTechnique": "จำไว้ว่า ทะเลาะกับ Vendor / Vendor ทำงานพลาด -> ขั้นแรก: เปิดดูสัญญา (Review Contract / SLA) เสมอ"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following approaches to communication with senior management BEST enables an information security manager to maximize the effectiveness of the information security program?",
+    "questionTh": "แนวทางการสื่อสารกับผู้บริหารระดับสูงในข้อใด จะช่วยให้ผู้จัดการความปลอดภัยสามารถ 'เพิ่มประสิทธิภาพ (Maximize effectiveness)' ของโปรแกรมความปลอดภัยข้อมูลได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reporting on industry security threats with potential impact to business objectives",
+        "textTh": "การรายงานภัยคุกคามในอุตสาหกรรมที่อาจส่งผลต่อเป้าหมายธุรกิจ",
+        "analysis": "ผิด - เป็นการรายงานสถานการณ์ภายนอก แต่ไม่ได้รับฟังเป้าหมายจากบอร์ดโดยตรง"
+      },
+      {
+        "id": "B",
+        "text": "Conducting periodic one-on-one meetings to align security with business objectives",
+        "textTh": "การจัดการประชุมแบบตัวต่อตัวเป็นระยะ (One-on-one meetings) เพื่อปรับความปลอดภัยให้สอดคล้องกับเป้าหมายทางธุรกิจ",
+        "analysis": "ถูกต้อง - การสื่อสารที่มีประสิทธิภาพสูงสุดและช่วยให้โปรแกรมเดินต่อได้อย่างแข็งแกร่ง คือการพูดคุยกับผู้บริหารอย่างสม่ำเสมอ (Periodic) เพื่อรายงานและ 'ปรับจูนเป้าหมาย (Align with business objectives)' ให้ตรงกันตลอดเวลา การทำ One-on-one จะช่วยสร้างความเข้าใจและความสัมพันธ์ (Buy-in) ที่ดีกว่าการส่งแค่รายงาน"
+      },
+      {
+        "id": "C",
+        "text": "Participating in operational review meetings to discuss daily operations and dependencies",
+        "textTh": "การเข้าร่วมประชุมทบทวนการปฏิบัติงานเพื่อหารือเกี่ยวกับการทำงานประจำวัน",
+        "analysis": "ผิด - ผู้บริหารระดับสูงไม่สนใจงานประจำวัน (Daily operations) พวกเขาสนใจทิศทางธุรกิจ"
+      },
+      {
+        "id": "D",
+        "text": "Providing regular status of updates to security policies and standards",
+        "textTh": "การแจ้งสถานะการอัปเดตนโยบายและมาตรฐานอย่างสม่ำเสมอ",
+        "analysis": "ผิด - เป็นเรื่องของเอกสาร น่าเบื่อสำหรับผู้บริหาร"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'communication with senior management' และ 'maximize effectiveness' กุญแจความสำเร็จคือ Business Alignment ซึ่งการจะ Align ได้ดีที่สุดคือการสื่อสารสองทางอย่างสม่ำเสมอ (Periodic meetings) คุยกันเรื่อง 'Business Objectives'",
+    "referenceLink": "https://www.examprepper.co/exam/161/10",
+    "studyTechnique": "จำไว้ว่า การสื่อสารกับบอร์ด (Senior Mgmt) ให้ได้ผลดีสุด = คุยกันเรื่องเป้าหมายธุรกิจ (Align with business objectives) อย่างสม่ำเสมอ"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following control types should be considered FIRST for aligning employee behavior with an organization's information security objectives?",
+    "questionTh": "ควรพิจารณาระบบควบคุม (Control) ประเภทใดเป็นอันดับแรก (FIRST) เพื่อปรับพฤติกรรมของพนักงานให้สอดคล้องกับเป้าหมายความปลอดภัยข้อมูลขององค์กร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Administrative security controls",
+        "textTh": "การควบคุมความปลอดภัยเชิงบริหาร (Administrative controls)",
+        "analysis": "ถูกต้อง - การปรับเปลี่ยน 'พฤติกรรม (Behavior)' ต้องเริ่มจากการกำหนดกฎเกณฑ์ให้ชัดเจนว่าอะไรทำได้อะไรห้ามทำ ซึ่ง 'Administrative controls' (เช่น นโยบาย, AUP, การฝึกอบรม, การบังคับใช้บทลงโทษ) คือจุดเริ่มต้นเสมอ ก่อนที่เราจะนำเทคโนโลยีมาบังคับใช้"
+      },
+      {
+        "id": "B",
+        "text": "Access security controls",
+        "textTh": "การควบคุมความปลอดภัยการเข้าถึง",
+        "analysis": "ผิด - เป็นส่วนหนึ่งของ Technical controls ซึ่งต้องทำตาม Policy อีกที"
+      },
+      {
+        "id": "C",
+        "text": "Technical security controls",
+        "textTh": "การควบคุมความปลอดภัยเชิงเทคนิค (Technical controls)",
+        "analysis": "ผิด - เทคโนโลยี (เช่น Firewall, DLP) ช่วยบังคับพฤติกรรม แต่เราต้องมี 'กฎระเบียบ' (Administrative) ให้คนรู้ก่อนว่าทำไมถึงโดนบล็อก ไม่เช่นนั้นคนจะหาทางอ้อม (Bypass) ระบบ"
+      },
+      {
+        "id": "D",
+        "text": "Physical security controls",
+        "textTh": "การควบคุมความปลอดภัยทางกายภาพ",
+        "analysis": "ผิด - เช่น การล็อกประตู ไม่ได้ช่วยปรับพฤติกรรมการใช้ข้อมูล"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'aligning employee behavior' และ 'FIRST' ลำดับของการทำระบบความปลอดภัยคือ 1. Administrative (ตั้งกฎนโยบาย, อบรม) -> 2. Technical (เอาโปรแกรมมาบังคับกฎ) -> 3. Physical หากไม่มีกฎ (Admin) คนก็จะไม่รู้พฤติกรรมที่ถูกต้อง",
+    "referenceLink": "https://www.examprepper.co/exam/161/10",
+    "studyTechnique": "จำไว้ว่า ลำดับการวาง Control = เริ่มจาก Administrative (นโยบาย/คน) ก่อนเสมอ แล้วค่อยตามด้วย Technical และ Physical"
+  },
+  {
+    "id": 51,
+    "question": "An organization's information security team presented the risk register at a recent information security steering committee meeting. Which of the following should be of MOST concern to the committee?",
+    "questionTh": "ทีมรักษาความปลอดภัยได้นำเสนอ 'ระเบียนความเสี่ยง (Risk register)' ในการประชุมคณะกรรมการกำกับดูแลฯ ข้อใดควรเป็น 'ความกังวลสูงสุด (MOST concern)' ต่อคณะกรรมการ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No owners were identified for some risks.",
+        "textTh": "ไม่มีการระบุเจ้าของ (Owners) สำหรับความเสี่ยงบางรายการ",
+        "analysis": "ถูกต้อง - กฎข้อแรกของการจัดการความเสี่ยงคือ 'ทุกความเสี่ยงต้องมีเจ้าของ (Risk Owner)' หากความเสี่ยงใดไม่มีคนรับผิดชอบ ความเสี่ยงนั้นจะถูกเพิกเฉยและไม่มีทางถูกนำไปจัดการแก้ไข นี่คือความล้มเหลวขั้นพื้นฐานของธรรมาภิบาล (Governance failure) ซึ่งน่ากังวลที่สุด"
+      },
+      {
+        "id": "B",
+        "text": "Business applications had the highest number of risks.",
+        "textTh": "แอปพลิเคชันทางธุรกิจมีจำนวนความเสี่ยงสูงสุด",
+        "analysis": "ผิด - เป็นเรื่องปกติขององค์กรที่มีแอปเยอะ ไม่ใช่เรื่องที่สะท้อนถึงกระบวนการล้มเหลว"
+      },
+      {
+        "id": "C",
+        "text": "Risk mitigation action plans had no timelines.",
+        "textTh": "แผนปฏิบัติการบรรเทาความเสี่ยงไม่มีกำหนดเวลา",
+        "analysis": "ผิด - น่ากังวล แต่ถ้าระบุคนรับผิดชอบได้ (Owner) ก็ยังสามารถไปทวงถามและสั่งให้ใส่ Timeline ได้"
+      },
+      {
+        "id": "D",
+        "text": "Risk mitigation action plan milestones were delayed.",
+        "textTh": "ความคืบหน้าของแผนปฏิบัติการล่าช้ากว่ากำหนด",
+        "analysis": "ผิด - ความล่าช้าเกิดขึ้นได้ในการทำงานจริง และสามารถจัดการได้ตราบใดที่มีคนรับผิดชอบ (Owner)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'MOST concern' ใน Risk register สิ่งที่ขาดไม่ได้เด็ดขาดคือ 'Accountability (ความรับผิดชอบ)' หากไม่มี 'Risk Owner' ก็จะไม่มีใครตัดสินใจว่าจะทำอย่างไรกับความเสี่ยงนั้น (เช่น จะรับความเสี่ยง หรือจะแก้ไข)",
+    "referenceLink": "https://www.examprepper.co/exam/161/11",
+    "studyTechnique": "จำไว้ว่า ความผิดพลาดร้ายแรงที่สุดใน Risk Register = ไม่ระบุ Risk Owner (ไม่มีคนรับผิดชอบ)"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following BEST enables an organization to determine what activities and changes have occurred on a system during a cybersecurity incident?",
+    "questionTh": "ข้อใดช่วยให้องค์กรสามารถ 'ตรวจสอบได้ว่ามีกิจกรรมหรือการเปลี่ยนแปลงใดเกิดขึ้นบนระบบบ้าง' ในระหว่างเหตุการณ์ทางไซเบอร์ ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetration testing",
+        "textTh": "การทดสอบการเจาะระบบ",
+        "analysis": "ผิด - ใช้หาช่องโหว่ก่อนเกิดเหตุ ไม่ใช่หาว่าคนร้ายทำอะไรไประหว่างเกิดเหตุ"
+      },
+      {
+        "id": "B",
+        "text": "Root cause analysis",
+        "textTh": "การวิเคราะห์สาเหตุที่แท้จริง",
+        "analysis": "ผิด - มุ่งเน้นหา 'ทำไม (Why)' ถึงเกิดเหตุ แต่คำถามถามหาว่า 'เกิดอะไรขึ้นบ้าง (What activities/changes)'"
+      },
+      {
+        "id": "C",
+        "text": "Continuous log monitoring",
+        "textTh": "การตรวจสอบบันทึก (Log) อย่างต่อเนื่อง",
+        "analysis": "ผิด - เป็นเครื่องมือตรวจจับ (Detect) แต่ข้อมูลอาจไม่เพียงพอหรือถูกแฮ็กเกอร์ลบไปแล้ว"
+      },
+      {
+        "id": "D",
+        "text": "Computer forensics",
+        "textTh": "นิติวิทยาศาสตร์คอมพิวเตอร์ (Computer forensics)",
+        "analysis": "ถูกต้อง - Forensics คือกระบวนการสืบสวนเชิงลึกเพื่อ 'ดึงข้อมูลและจำลองเหตุการณ์กลับมา' ว่าผู้บุกรุกเข้ามาทางไหน แก้ไขไฟล์อะไร ฝังมัลแวร์ไว้ตรงไหน (What activities and changes occurred) แม้ว่าแฮ็กเกอร์จะพยายามลบร่องรอยก็ตาม"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'determine what activities and changes have occurred' การสืบสวนเชิงลึกเพื่อหาลำดับเหตุการณ์และการดัดแปลงข้อมูลในระบบที่ถูกเจาะ คือหน้าที่โดยตรงของ 'Computer forensics'",
+    "referenceLink": "https://www.examprepper.co/exam/161/11",
+    "studyTechnique": "จำไว้ว่า สืบสวนเชิงลึก/หาว่าคนร้ายทำอะไรไปบ้าง/กู้หลักฐาน = Computer Forensics"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following should the information security manager do FIRST upon learning that a business department wants to use blockchain technology for a new payment process?",
+    "questionTh": "ผู้จัดการความปลอดภัยควรทำสิ่งใดเป็นอันดับแรก (FIRST) เมื่อทราบว่าแผนกธุรกิจต้องการใช้ 'เทคโนโลยีบล็อกเชน (Blockchain)' สำหรับกระบวนการชำระเงินใหม่?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Include the new requirements in the system development life cycle (SDLC) pipeline.",
+        "textTh": "รวมข้อกำหนดใหม่เข้าไปในวงจร SDLC",
+        "analysis": "ผิด - ก่อนจะพัฒนา ต้องรู้ก่อนว่ามีความเสี่ยงอะไร"
+      },
+      {
+        "id": "B",
+        "text": "Update the business case to include security budget and resource needs for the new process.",
+        "textTh": "อัปเดต Business case เพื่อของบประมาณและทรัพยากร",
+        "analysis": "ผิด - การของบต้องอิงจากผลการประเมินความเสี่ยง"
+      },
+      {
+        "id": "C",
+        "text": "Perform a risk assessment to identify emerging risks.",
+        "textTh": "ดำเนินการประเมินความเสี่ยงเพื่อระบุความเสี่ยงที่เกิดขึ้นใหม่ (Perform a risk assessment)",
+        "analysis": "ถูกต้อง - ทุกครั้งที่มีการนำ 'เทคโนโลยีใหม่ (New/Emerging technology)' เช่น Blockchain, AI, Cloud เข้ามาใช้ในองค์กร สิ่งแรกที่ฝ่ายความปลอดภัยต้องทำคือ 'การประเมินความเสี่ยง (Risk Assessment)' เพื่อดูว่าเทคโนโลยีนี้มีช่องโหว่อะไร และส่งผลกระทบต่อข้อมูลองค์กรอย่างไร ก่อนที่จะตัดสินใจอนุญาตหรือวางระบบควบคุม"
+      },
+      {
+        "id": "D",
+        "text": "Benchmark blockchain solutions to determine which one is most secure.",
+        "textTh": "เปรียบเทียบมาตรฐานโซลูชันบล็อกเชนเพื่อหาตัวที่ปลอดภัยที่สุด",
+        "analysis": "ผิด - การเลือกของจะมาทีหลัง เมื่อเรารู้แล้วว่าเรามีความต้องการและความเสี่ยงระดับไหน"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'FIRST' และ 'new technology (blockchain)' กฎตายตัวเมื่อมีของใหม่หรือกระบวนการใหม่เข้ามาในองค์กร คือต้องทำ 'Risk Assessment' เสมอเพื่อประเมิน Emerging risks",
+    "referenceLink": "https://www.examprepper.co/exam/161/11",
+    "studyTechnique": "จำไว้ว่า ธุรกิจอยากใช้เทคโนโลยีใหม่ (New Tech / IT Change) -> ขั้นแรกคือประเมินความเสี่ยง (Risk Assessment)"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following BEST facilitates the development of information security procedures that effectively support the information security policy?",
+    "questionTh": "ข้อใดช่วยอำนวยความสะดวก (Facilitates) ในการพัฒนาขั้นตอนปฏิบัติ (Procedures) ให้สนับสนุนนโยบายความปลอดภัยได้อย่างมีประสิทธิภาพมากที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aligning procedures with industry best practices",
+        "textTh": "การทำให้ขั้นตอนปฏิบัติสอดคล้องกับแนวปฏิบัติที่ดีที่สุดของอุตสาหกรรม (Industry best practices)",
+        "analysis": "ถูกต้อง - ขั้นตอนปฏิบัติ (Procedures) คือคู่มือฮาวทู (How-to) การที่จะเขียนขั้นตอนเหล่านี้ให้ดี มีประสิทธิภาพ และสอดคล้องกับ Policy ได้นั้น วิธีที่ดีที่สุดและเป็นที่ยอมรับคือการ 'อ้างอิงจาก Best Practices ของอุตสาหกรรม' (เช่น CIS, NIST) มาปรับใช้ เพื่อไม่ให้ต้องเริ่มจากศูนย์และได้มาตรฐานที่พิสูจน์มาแล้ว"
+      },
+      {
+        "id": "B",
+        "text": "Classifying the information assets to be protected",
+        "textTh": "จัดประเภทสินทรัพย์ข้อมูลที่จะได้รับการปกป้อง",
+        "analysis": "ผิด - Classification เป็นเรื่องของการประเมินค่าข้อมูล ไม่ใช่การเขียน Procedures โดยตรง"
+      },
+      {
+        "id": "C",
+        "text": "Considering the impact of systemic risk events",
+        "textTh": "พิจารณาผลกระทบจากเหตุการณ์ความเสี่ยงเชิงระบบ",
+        "analysis": "ผิด - กว้างเกินไป ไม่ได้ช่วยในการเขียนขั้นตอนปฏิบัติงาน"
+      },
+      {
+        "id": "D",
+        "text": "Conducting an external benchmarking exercise",
+        "textTh": "ดำเนินการเปรียบเทียบมาตรฐานภายนอก (Benchmarking)",
+        "analysis": "ผิด - Benchmarking ใช้เพื่อเปรียบเทียบผลงาน ไม่ใช่เครื่องมือสำหรับสร้าง Procedures"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'development of procedures' การพัฒนา Procedures ที่ดีที่สุดและรวดเร็วที่สุดคือการนำ 'Industry Best Practices' (แนวทางที่ดีที่สุด) มาเป็นกรอบในการเขียน เพื่อให้ได้ขั้นตอนที่ได้รับการยอมรับและครอบคลุม",
+    "referenceLink": "https://www.examprepper.co/exam/161/11",
+    "studyTechnique": "จำไว้ว่า การสร้าง Procedures / Standards ให้ดี = อ้างอิงจาก Industry Best Practices"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following would provide the BEST input to a business case for a technical solution to address potential system vulnerabilities?",
+    "questionTh": "ข้อใดจะเป็นข้อมูลนำเข้า (Input) ที่ดีที่สุดในการทำ Business case เพื่อขอซื้อโซลูชันทางเทคนิคมาจัดการกับช่องโหว่ของระบบ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business impact analysis (BIA)",
+        "textTh": "การวิเคราะห์ผลกระทบทางธุรกิจ",
+        "analysis": "ผิด - BIA ใช้บอกว่าระบบไหนสำคัญและทนล่มได้นานแค่ไหน แต่ไม่ได้ประเมินความเสี่ยงของช่องโหว่"
+      },
+      {
+        "id": "B",
+        "text": "Vulnerability scan results",
+        "textTh": "ผลการสแกนช่องโหว่",
+        "analysis": "ผิด - บอกแค่ว่ามีช่องโหว่ แต่ไม่ได้บอกว่าช่องโหว่นั้นมีโอกาสถูกเจาะแค่ไหน และความเสียหายต่อธุรกิจคือเท่าไหร่ (ขาดมิติทางธุรกิจ)"
+      },
+      {
+        "id": "C",
+        "text": "Risk assessment",
+        "textTh": "การประเมินความเสี่ยง (Risk assessment)",
+        "analysis": "ถูกต้อง - Business Case ต้องการชี้แจงความคุ้มค่าของการลงทุน ดังนั้นข้อมูลตั้งต้นที่ดีที่สุดคือ 'การประเมินความเสี่ยง (Risk Assessment)' ซึ่งได้นำเอาช่องโหว่ (Vulnerability) มาคูณกับ ภัยคุกคาม (Threat) และผลกระทบ (Impact) แล้ว ทำให้ผู้บริหารเห็นภาพว่าหากไม่ซื้อระบบนี้ องค์กรจะมีความเสี่ยงมูลค่าเท่าไหร่"
+      },
+      {
+        "id": "D",
+        "text": "Penetration test results",
+        "textTh": "ผลการทดสอบการเจาะระบบ",
+        "analysis": "ผิด - เหมือนกับ Vulnerability scan คือเป็นมุมมองด้านเทคนิคเท่านั้น ขาดการประเมิน Impact ในภาพรวม"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'input to a business case' การทำ Business Case เพื่อขอเงินผู้บริหาร ต้องใช้ข้อมูลที่เป็น 'ภาษาธุรกิจ/ภาพรวมความเสี่ยง' ซึ่ง 'Risk Assessment' ตอบโจทย์นี้ได้สมบูรณ์ที่สุด เพราะรวมเรื่อง Impact เอาไว้แล้ว",
+    "referenceLink": "https://www.examprepper.co/exam/161/11",
+    "studyTechnique": "จำไว้ว่า ข้อมูลตั้งต้นสำหรับทำ Business Case / ขอมติผู้บริหาร = ผลจากการทำ Risk Assessment"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is MOST helpful for determining priorities when creating a long-term information security roadmap?",
+    "questionTh": "ข้อใดมีประโยชน์มากที่สุดในการ 'กำหนดลำดับความสำคัญ (Priorities)' เมื่อสร้างแผนงานระยะยาว (Roadmap) ด้านความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The organization's information security framework",
+        "textTh": "กรอบความปลอดภัยขององค์กร",
+        "analysis": "ผิด - กรอบ (Framework) ให้โครงสร้าง แต่ไม่ได้จัดลำดับว่าอะไรสำคัญกับธุรกิจของเราในปัจจุบัน"
+      },
+      {
+        "id": "B",
+        "text": "Information security steering committee input",
+        "textTh": "ข้อมูลนำเข้าจากคณะกรรมการกำกับดูแลความปลอดภัยข้อมูล (Steering committee input)",
+        "analysis": "ถูกต้อง - การทำ Roadmap ระยะยาว ต้องสอดคล้องกับทิศทางธุรกิจ ซึ่ง Steering Committee เป็นกลุ่มคนที่ประกอบด้วยผู้บริหารจากสายงานต่างๆ (Business stakeholders) การได้รับ Input จากคนกลุ่มนี้จะช่วยให้ Security Manager จัดลำดับความสำคัญได้ว่าโครงการใดจะสร้าง Business Value และสนับสนุนธุรกิจได้ดีที่สุด"
+      },
+      {
+        "id": "C",
+        "text": "Enterprise architecture (EA)",
+        "textTh": "สถาปัตยกรรมองค์กร",
+        "analysis": "ผิด - EA ช่วยในเรื่องความเข้ากันได้ของระบบเทคนิค แต่ไม่ใช่ตัวกำหนด Priorities ทางธุรกิจ"
+      },
+      {
+        "id": "D",
+        "text": "Industry best practices",
+        "textTh": "แนวปฏิบัติที่ดีที่สุดของอุตสาหกรรม",
+        "analysis": "ผิด - Best practices ของคนอื่นอาจไม่ใช่สิ่งสำคัญอันดับแรกสำหรับเป้าหมายธุรกิจของเราในตอนนี้"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'determining priorities' และ 'roadmap' การจัดลำดับความสำคัญของโครงการความปลอดภัยต้องอิงตาม 'Business Priorities' ซึ่งคณะกรรมการอำนวยการ (Steering Committee) คือตัวแทนที่ดีที่สุดในการให้ทิศทางนี้",
+    "referenceLink": "https://www.examprepper.co/exam/161/12",
+    "studyTechnique": "จำไว้ว่า การจัดลำดับความสำคัญ (Prioritize) โครงการ/Roadmap = อาศัย Steering Committee (เพราะเป็นตัวแทนฝั่งธุรกิจ)"
+  },
+  {
+    "id": 57,
+    "question": "A KEY consideration in the use of quantitative risk analysis is that it:",
+    "questionTh": "ข้อพิจารณาที่สำคัญ (KEY consideration) ในการใช้การวิเคราะห์ความเสี่ยงเชิงปริมาณ (Quantitative risk analysis) คือสิ่งใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "applies commonly used labels to information assets.",
+        "textTh": "ใช้ป้ายกำกับ (Labels) ทั่วไปกับสินทรัพย์ข้อมูล",
+        "analysis": "ผิด - เป็นเรื่องของ Qualitative (เชิงคุณภาพ) เช่น ระดับ สูง กลาง ต่ำ"
+      },
+      {
+        "id": "B",
+        "text": "assigns numeric values to exposures of information assets.",
+        "textTh": "กำหนดมูลค่าเป็นตัวเลข (Numeric values) ให้กับช่องโหว่/ความสูญเสียของสินทรัพย์ (Exposures)",
+        "analysis": "ถูกต้อง - นิยามของ 'Quantitative (เชิงปริมาณ)' คือการวิเคราะห์ทุกอย่างออกมาเป็น 'ตัวเลขหรือจำนวนเงิน (Numeric values / Financial terms)' เพื่อให้สามารถคำนวณมูลค่าความเสียหายที่คาดว่าจะเกิดขึ้น (เช่น ALE, SLE) และนำไปคำนวณความคุ้มค่าในการซื้อระบบป้องกัน (ROI) ได้"
+      },
+      {
+        "id": "C",
+        "text": "is based on criticality analysis of information assets.",
+        "textTh": "อิงจากการวิเคราะห์ความสำคัญวิกฤตของสินทรัพย์",
+        "analysis": "ผิด - Criticality เป็นปัจจัยหนึ่ง แต่ไม่ใช่จุดเด่นเฉพาะตัวของ Quantitative (Qualitative ก็ใช้)"
+      },
+      {
+        "id": "D",
+        "text": "aligns with best practice for risk analysis of information assets.",
+        "textTh": "สอดคล้องกับแนวปฏิบัติที่ดีที่สุด",
+        "analysis": "ผิด - ไม่ได้เฉพาะเจาะจงว่าต้องเป็นวิธีใดวิธีหนึ่งเท่านั้น บางองค์กรก็เหมาะกับ Qualitative"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'quantitative risk analysis' จำง่ายๆ ว่า Quantitative = Quantity (ปริมาณ/ตัวเลข/จำนวนเงิน) ซึ่งต่างจาก Qualitative ที่จะใช้ระดับ High, Medium, Low",
+    "referenceLink": "https://www.examprepper.co/exam/161/12",
+    "studyTechnique": "จำไว้ว่า Quantitative = Numeric values / Financial / ALE, SLE / วัดเป็นตัวเงิน"
+  },
+  {
+    "id": 58,
+    "question": "Which of the following is MOST important when selecting an information security metric?",
+    "questionTh": "ข้อใดมีความสำคัญมากที่สุดเมื่อต้อง 'เลือกตัวชี้วัด (Metric)' ด้านความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensuring the metric is repeatable",
+        "textTh": "ต้องมั่นใจว่าตัวชี้วัดนั้นทำซ้ำได้ (Repeatable)",
+        "analysis": "ถูกต้อง - คุณสมบัติพื้นฐานและสำคัญที่สุดของตัวชี้วัด (Metric) คือมันต้องสามารถ 'วัดซ้ำได้อย่างสม่ำเสมอ (Repeatable/Consistent)' ด้วยวิธีเดิม เพื่อให้สามารถนำผลลัพธ์มาเปรียบเทียบเป็นเทรนด์ (Trend analysis) เพื่อดูว่าสถานการณ์ดีขึ้นหรือแย่ลง หากวัดซ้ำไม่ได้ ตัวชี้วัดนั้นก็ไร้ประโยชน์"
+      },
+      {
+        "id": "B",
+        "text": "Aligning the metric to the IT strategy",
+        "textTh": "ปรับตัวชี้วัดให้สอดคล้องกับกลยุทธ์ไอที",
+        "analysis": "ผิด - การสอดคล้องกับกลยุทธ์ธุรกิจสำคัญกว่าไอที แต่เหนือสิ่งอื่นใด ถ้าตัวชี้วัดนั้นวัดซ้ำไม่ได้ มันก็ไม่สามารถสะท้อนผลอะไรได้เลย"
+      },
+      {
+        "id": "C",
+        "text": "Defining the metric in qualitative terms",
+        "textTh": "กำหนดตัวชี้วัดในเชิงคุณภาพ",
+        "analysis": "ผิด - ตัวชี้วัดที่ดีมักจะแนะนำให้เป็นเชิงปริมาณ (Quantitative) เพื่อความแม่นยำ"
+      },
+      {
+        "id": "D",
+        "text": "Defining the metric in quantitative terms",
+        "textTh": "กำหนดตัวชี้วัดในเชิงปริมาณ",
+        "analysis": "ผิด - แม้จะดี แต่ถ้าการวัดเชิงปริมาณนั้นไม่สามารถวัดซ้ำด้วยมาตรฐานเดิมได้ ก็ใช้ไม่ได้"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'MOST important' และ 'selecting a metric' ตัวชี้วัดที่ดีต้องมีคุณสมบัติ SMART แต่สิ่งที่สำคัญทางเทคนิคที่สุดเพื่อใช้ในการติดตามประเมินผลระยะยาว (Trending) คือการที่มันสามารถ 'วัดซ้ำแล้วได้ผลแบบอิงมาตรฐานเดิม' (Repeatable and consistent)",
+    "referenceLink": "https://www.examprepper.co/exam/161/12",
+    "studyTechnique": "จำไว้ว่า คุณสมบัติสำคัญของ Metrics = ต้องทำซ้ำได้ (Repeatable), สม่ำเสมอ (Consistent), และมีความหมาย (Meaningful/Actionable)"
+  },
+  {
+    "id": 59,
+    "question": "A situation where an organization has unpatched IT systems in violation of the patching policy should be treated as:",
+    "questionTh": "สถานการณ์ที่องค์กรมีระบบไอทีที่ไม่ได้ติดตั้งแพตช์ (Unpatched) ซึ่งละเมิดนโยบายการติดตั้งแพตช์ ควรได้รับการพิจารณาว่าเป็นสิ่งใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "an increased threat profile.",
+        "textTh": "โปรไฟล์ภัยคุกคาม (Threat) เพิ่มขึ้น",
+        "analysis": "ผิด - ภัยคุกคาม (เช่น แฮ็กเกอร์) มีอยู่เท่าเดิม ไม่ได้เพิ่มขึ้นเพราะเราไม่ลงแพตช์"
+      },
+      {
+        "id": "B",
+        "text": "a vulnerability management failure.",
+        "textTh": "ความล้มเหลวของการจัดการช่องโหว่",
+        "analysis": "ผิด - เป็นเพียงผลลัพธ์ของกระบวนการ แต่ในระดับภาพรวมขององค์กร มันส่งผลกระทบที่กว้างกว่านั้น"
+      },
+      {
+        "id": "C",
+        "text": "an increased risk profile.",
+        "textTh": "โปรไฟล์ความเสี่ยง (Risk profile) เพิ่มขึ้น",
+        "analysis": "ถูกต้อง - เมื่อระบบมีช่องโหว่ (Vulnerability) ที่ยังไม่ได้รับการแก้ไข (Unpatched) ส่งผลให้โอกาสที่ภัยคุกคามจะเจาะระบบสำเร็จมีสูงขึ้น ดังนั้นภาพรวมของสถานการณ์นี้คือ 'ความเสี่ยงโดยรวมขององค์กรเพิ่มสูงขึ้น (Increased risk profile)' ซึ่งผู้บริหารต้องให้ความสนใจ"
+      },
+      {
+        "id": "D",
+        "text": "a security control failure.",
+        "textTh": "ความล้มเหลวของการควบคุมด้านความปลอดภัย",
+        "analysis": "ผิด - เป็นส่วนหนึ่งที่ทำให้เกิดความเสี่ยง แต่คำที่ครอบคลุมถึงผลกระทบต่อองค์กรมากที่สุดคือ Risk Profile"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'unpatched IT systems' = มีช่องโหว่ (Vulnerability) ตามสมการ Risk = Threat x Vulnerability x Impact เมื่อ Vulnerability สูงขึ้น Risk ก็ต้องสูงขึ้นตาม ดังนั้นจึงเป็นการเพิ่ม Risk Profile ขององค์กร",
+    "referenceLink": "https://www.examprepper.co/exam/161/12",
+    "studyTechnique": "จำไว้ว่า การมีช่องโหว่หรือละเมิดนโยบาย (เช่น ไม่แพตช์) = ทำให้ความเสี่ยงโดยรวมพุ่งสูงขึ้น (Increased Risk Profile)"
+  },
+  {
+    "id": 60,
+    "question": "How does data discovery assist with data classification?",
+    "questionTh": "การค้นหาข้อมูล (Data discovery) มีส่วนช่วยในการจัดประเภทข้อมูล (Data classification) อย่างไร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It provides assurance of data integrity.",
+        "textTh": "ให้การรับรองความถูกต้องสมบูรณ์ของข้อมูล",
+        "analysis": "ผิด - การหาข้อมูลไม่ได้รับประกันว่าข้อมูลนั้นถูกต้องหรือไม่ถูกดัดแปลง"
+      },
+      {
+        "id": "B",
+        "text": "It shows where specific data is stored.",
+        "textTh": "แสดงให้เห็นว่าข้อมูลเฉพาะเจาะจงถูกจัดเก็บไว้ที่ใด (Shows where data is stored)",
+        "analysis": "ถูกต้อง - กฎพื้นฐานคือ 'คุณไม่สามารถปกป้องสิ่งที่คุณไม่รู้ว่ามีอยู่ได้' กระบวนการ Data Discovery จะทำหน้าที่สแกนทั่วเครือข่ายเพื่อหาว่า 'ข้อมูลความลับของเราอยู่ที่ไหนบ้าง (Where data is stored)' เช่น เจอไฟล์บัตรเครดิตในเครื่องพนักงาน เมื่อรู้ตำแหน่งแล้ว เราจึงจะสามารถนำข้อมูลเหล่านั้นไป 'จัดประเภท (Classify)' และปกป้องได้อย่างถูกต้อง"
+      },
+      {
+        "id": "C",
+        "text": "It automatically classifies data by keywords.",
+        "textTh": "จัดประเภทข้อมูลโดยอัตโนมัติตามคำหลัก",
+        "analysis": "ผิด - เครื่องมือ Discovery บางตัวทำได้ แต่ไม่ใช่หน้าที่หลักของหลักการ Discovery โดยทั่วไป"
+      },
+      {
+        "id": "D",
+        "text": "It helps to identify the data owner.",
+        "textTh": "ช่วยระบุเจ้าของข้อมูล",
+        "analysis": "ผิด - การเจอข้อมูลอาจไม่ได้บอกว่าใครเป็นเจ้าของเสมอไป"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'data discovery' และ 'assist classification' การค้นหาข้อมูล (Discovery) คือก้าวแรกของการจัดประเภทข้อมูล เพราะมันช่วยเผยให้เห็นว่าเรามีข้อมูลอะไรและมันซ่อนอยู่ตรงไหนบ้าง (Visibility / Storage location) เพื่อให้เราตามไปจัดระเบียบได้",
+    "referenceLink": "https://www.examprepper.co/exam/161/12",
+    "studyTechnique": "จำไว้ว่า Data Discovery = หาว่าข้อมูลอยู่ที่ไหน (Where is it stored?) -> เพื่อนำไปสู่การทำ Classification"
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is the MOST effective control to prevent proliferation of shadow IT?",
+    "questionTh": "ข้อใดคือการควบคุมที่มีประสิทธิภาพที่สุดใน 'การป้องกัน (prevent)' การแพร่กระจายของ Shadow IT (การที่พนักงานแอบใช้ไอทีโดยไม่ได้รับอนุญาต)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Implement a software allow list.",
+        "textTh": "ใช้งานรายการอนุญาตซอฟต์แวร์ (Software allow list / Whitelisting)",
+        "analysis": "ถูกต้อง - Allow list คือการตั้งค่าให้ระบบรันได้เฉพาะโปรแกรมที่ได้รับอนุญาตเท่านั้น (Default deny) วิธีนี้เป็น Preventive Control (ควบคุมแบบป้องกัน) ที่มีประสิทธิภาพที่สุด เพราะพนักงานจะไม่สามารถแอบติดตั้งหรือรันซอฟต์แวร์เถื่อน (Shadow IT) ใดๆ ได้เลย"
+      },
+      {
+        "id": "B",
+        "text": "Conduct periodic vulnerability scanning.",
+        "textTh": "สแกนหาช่องโหว่เป็นระยะ",
+        "analysis": "ผิด - เป็นการหาจุดอ่อน ไม่ได้ห้ามการติดตั้งซอฟต์แวร์"
+      },
+      {
+        "id": "C",
+        "text": "Install a solution to detect unlicensed software.",
+        "textTh": "ติดตั้งโซลูชันเพื่อตรวจจับซอฟต์แวร์ที่ไม่ได้รับอนุญาต",
+        "analysis": "ผิด - การ 'ตรวจจับ (Detect)' เป็นการรู้หลังจากที่พนักงานแอบใช้ไปแล้ว ไม่ใช่การ 'ป้องกัน (Prevent)' ล่วงหน้า"
+      },
+      {
+        "id": "D",
+        "text": "Conduct software audits.",
+        "textTh": "ดำเนินการตรวจสอบซอฟต์แวร์ (Audits)",
+        "analysis": "ผิด - เป็น Detective Control เหมือนกัน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'prevent' และ 'shadow IT' (พนักงานแอบใช้แอป/โปรแกรมเอง) วิธีป้องกันที่เด็ดขาดที่สุดคือ Technical Control แบบ 'Allow list (Whitelisting)' ซึ่งจะบล็อกทุกโปรแกรมที่ไม่รู้จัก",
+    "referenceLink": "https://www.examprepper.co/exam/161/13",
+    "studyTechnique": "จำไว้ว่า Prevent Shadow IT / Unauthorized software = Software Allow List / Whitelisting"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is the MOST important driver when developing an effective information security strategy?",
+    "questionTh": "ข้อใดคือตัวขับเคลื่อน (Driver) ที่สำคัญที่สุดในการพัฒนากลยุทธ์ความปลอดภัยข้อมูลที่มีประสิทธิภาพ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Benchmarking reports",
+        "textTh": "รายงานการเปรียบเทียบมาตรฐาน",
+        "analysis": "ผิด - คู่แข่งทำอย่างไร ไม่ได้แปลว่าเราต้องทำตามแบบนั้นเสมอไป"
+      },
+      {
+        "id": "B",
+        "text": "Information security standards",
+        "textTh": "มาตรฐานความปลอดภัยข้อมูล",
+        "analysis": "ผิด - มาตรฐานเป็นเพียงกรอบแนวทาง (Framework) แต่ไม่ใช่ตัวขับเคลื่อนกลยุทธ์สูงสุด"
+      },
+      {
+        "id": "C",
+        "text": "Business requirements",
+        "textTh": "ข้อกำหนดทางธุรกิจ (Business requirements)",
+        "analysis": "ถูกต้อง - กฎข้อแรกและสำคัญที่สุดของ CISM คือ Security is a Business Enabler กลยุทธ์ด้านความปลอดภัยข้อมูลจะไม่มีทางมีประสิทธิภาพได้เลย หากมันไม่ได้ถูกขับเคลื่อน (Driven) โดย 'ความต้องการและเป้าหมายของธุรกิจ (Business requirements / Business alignment)'"
+      },
+      {
+        "id": "D",
+        "text": "Security audit reports",
+        "textTh": "รายงานการตรวจสอบความปลอดภัย",
+        "analysis": "ผิด - Audit เป็นการเช็กข้อบกพร่องในอดีต ไม่ใช่ตัวกำหนดทิศทางอนาคต (Strategy)"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'driver when developing strategy' ทุกอย่างที่เป็นระดับกลยุทธ์ (Strategy/Governance) คำตอบที่ถูกต้องที่สุดจะต้องวนกลับไปหา 'Business (ธุรกิจ)' เสมอ",
+    "referenceLink": "https://www.examprepper.co/exam/161/13",
+    "studyTechnique": "จำไว้ว่า Strategy / Governance / Driver = Business Requirements / Business Alignment / Business Goals เสมอ"
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is MOST important for the improvement of a business continuity plan (BCP)?",
+    "questionTh": "ข้อใดสำคัญที่สุดสำหรับการ 'ปรับปรุง (Improvement)' แผนความต่อเนื่องทางธุรกิจ (BCP)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Implementing an IT resilience solution",
+        "textTh": "การนำโซลูชันความยืดหยุ่นด้านไอทีมาใช้",
+        "analysis": "ผิด - เป็นการปรับปรุงระบบ (IT) ไม่ใช่การปรับปรุงเนื้อหา/กระบวนการของแผน BCP โดยตรง"
+      },
+      {
+        "id": "B",
+        "text": "Implementing management reviews",
+        "textTh": "การดำเนินการทบทวนโดยฝ่ายบริหาร",
+        "analysis": "ผิด - เป็นกระบวนการอนุมัติ แต่ไม่ได้รับประกันว่าจะเจอจุดที่ต้องปรับปรุงจากหน้างานจริง"
+      },
+      {
+        "id": "C",
+        "text": "Documenting critical business processes",
+        "textTh": "จัดทำเอกสารกระบวนการทางธุรกิจที่สำคัญ",
+        "analysis": "ผิด - เป็นขั้นตอนที่ต้องทำตอนสร้างแผน (BIA) แต่ไม่ใช่สำหรับเฟสปรับปรุงแผน"
+      },
+      {
+        "id": "D",
+        "text": "Incorporating lessons learned",
+        "textTh": "การนำบทเรียนที่ได้รับมาผนวกรวม (Incorporating lessons learned)",
+        "analysis": "ถูกต้อง - กลไกที่ดีที่สุดในการ 'ปรับปรุงแผนงานใดๆ (Improvement)' ไม่ว่าจะเป็น BCP, DRP หรือ IR Plan คือการนำเอาข้อผิดพลาดจากตอนซ้อมแผน (Testing) หรือจากเหตุการณ์จริง มาสรุปเป็น 'Lessons learned' และนำไปอัปเดตแผน (Feedback loop) เพื่ออุดช่องโหว่เหล่านั้น"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'improvement' ของแผน BCP กระบวนการปรับปรุงแผนอย่างต่อเนื่อง (Continuous improvement) ต้องอาศัยข้อมูลจากความผิดพลาดในอดีต ซึ่งก็คือ Lessons learned",
+    "referenceLink": "https://www.examprepper.co/exam/161/13",
+    "studyTechnique": "จำไว้ว่า Improvement (การปรับปรุง) / Enhance (ยกระดับ) ของแผน = Lessons Learned"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is MOST important to consider when choosing a shared alternate location for computing facilities?",
+    "questionTh": "ข้อใดสำคัญที่สุดที่ต้องพิจารณาเมื่อเลือก 'สถานที่สำรองแบบใช้ร่วมกัน (Shared alternate location)' สำหรับสิ่งอำนวยความสะดวกด้านคอมพิวเตอร์?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Incident response team training",
+        "textTh": "การฝึกอบรมทีมตอบสนองเหตุการณ์",
+        "analysis": "ผิด - ไม่เกี่ยวกับการเลือกสถานที่โดยตรง"
+      },
+      {
+        "id": "B",
+        "text": "The organization's risk tolerance",
+        "textTh": "ความต้านทานความเสี่ยงขององค์กร",
+        "analysis": "ผิด - เป็นปัจจัยภาพรวม แต่อาจไม่เฉพาะเจาะจงกับข้อจำกัดของ 'Shared location'"
+      },
+      {
+        "id": "C",
+        "text": "The organization's mission",
+        "textTh": "ภารกิจขององค์กร",
+        "analysis": "ผิด - กว้างเกินไป"
+      },
+      {
+        "id": "D",
+        "text": "Resource availability",
+        "textTh": "ความพร้อมของทรัพยากร (Resource availability)",
+        "analysis": "ถูกต้อง - จุดอ่อนที่น่ากลัวที่สุดของ 'Shared alternate location (เช่น Reciprocal agreement หรือ Shared Hot Site)' คือ หากเกิดภัยพิบัติระดับภูมิภาค (เช่น พายุเข้าทั้งเมือง) บริษัทหลายแห่งที่แชร์ไซต์เดียวกันจะแห่กันไปใช้ไซต์สำรองพร้อมกัน ทำให้ 'ทรัพยากรไม่เพียงพอ (Resource availability)' ดังนั้นก่อนทำสัญญาแบบแชร์กัน ต้องพิจารณาประเด็นนี้ให้ดีที่สุด"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'shared alternate location' เมื่อคุณใช้ไซต์สำรองร่วมกับคนอื่น ความเสี่ยงที่ใหญ่ที่สุดคือ 'แย่งกันใช้ตอนเกิดเรื่อง' ทำให้ทรัพยากรเต็มหรือใช้งานไม่ได้",
+    "referenceLink": "https://www.examprepper.co/exam/161/13",
+    "studyTechnique": "จำไว้ว่า Shared location / Reciprocal agreement (ไซต์สำรองแชร์กัน) -> ต้องระวังปัญหา แย่งกันใช้ / Resource availability"
+  },
+  {
+    "id": 65,
+    "question": "A financial institution has identified a high risk of fraud within its credit department. Which of the following information security controls will BEST reduce the risk of fraud?",
+    "questionTh": "สถาบันการเงินพบความเสี่ยงสูงด้าน 'การทุจริต (Fraud)' ในแผนกสินเชื่อ การควบคุมความปลอดภัยข้อใดจะช่วยลดความเสี่ยงจากการทุจริตได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mandatory time off",
+        "textTh": "การบังคับลาพักร้อน (Mandatory vacations)",
+        "analysis": "ผิด - การบังคับลาเป็น Detective Control (ช่วยตรวจจับการทุจริตตอนคนๆ นั้นไม่อยู่) แต่ไม่ได้ป้องกันตั้งแต่แรก"
+      },
+      {
+        "id": "B",
+        "text": "Segregation of duties",
+        "textTh": "การแบ่งแยกหน้าที่ (Segregation of duties)",
+        "analysis": "ถูกต้อง - วิธีเดียวที่จะ 'ป้องกัน (Prevent / Reduce risk)' การทุจริตภายใน (Fraud / Insider threat) ได้อย่างมีประสิทธิภาพที่สุด คือหลักการ 'Segregation of Duties (SoD)' หรือการแบ่งแยกหน้าที่ เพื่อไม่ให้พนักงานคนใดคนหนึ่งมีสิทธิ์ทำกระบวนการได้ตั้งแต่ต้นจนจบ (เช่น คนอนุมัติสินเชื่อ ต้องเป็นคนละคนกับคนโอนเงิน) ซึ่งบังคับให้ต้องเกิดการสมรู้ร่วมคิด (Collusion) ถึงจะโกงได้ ทำให้โกงยากขึ้นมาก"
+      },
+      {
+        "id": "C",
+        "text": "Acceptable use policy",
+        "textTh": "นโยบายการใช้งานที่ยอมรับได้ (AUP)",
+        "analysis": "ผิด - คนจะโกง นโยบายก็ห้ามไม่ได้ถ้าไม่มีระบบควบคุม"
+      },
+      {
+        "id": "D",
+        "text": "Periodic risk assessments",
+        "textTh": "การประเมินความเสี่ยงเป็นระยะ",
+        "analysis": "ผิด - การประเมินแค่บอกว่ามีความเสี่ยง แต่ไม่ได้แก้ปัญหาทุจริต"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'reduce the risk of fraud' การควบคุมหลักที่เป็นหัวใจสำคัญในการต่อต้านการทุจริตและอาชญากรรมภายใน (Fraud prevention) คือ Segregation of Duties (SoD)",
+    "referenceLink": "https://www.examprepper.co/exam/161/13",
+    "studyTechnique": "จำไว้ว่า การป้องกันทุจริต/โกง (Fraud) = แบ่งแยกหน้าที่ (Segregation of Duties - SoD)"
+  },
+  {
+    "id": 66,
+    "question": "An employee clicked on a malicious link in an email that resulted in compromising company data. What is the BEST way to mitigate this risk in the future?",
+    "questionTh": "พนักงานคลิกลิงก์ที่เป็นอันตรายในอีเมล ซึ่งส่งผลให้ข้อมูลของบริษัทรั่วไหล วิธีใดคือวิธีที่ดีที่สุดในการบรรเทาความเสี่ยงนี้ในอนาคต?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Assess and update spam filtering rules.",
+        "textTh": "ประเมินและอัปเดตกฎการกรองสแปม",
+        "analysis": "ผิด - แม้จะช่วยลดจำนวนอีเมลขยะได้ แต่สแปมฟิลเตอร์ไม่สามารถดักจับการโจมตีแบบเจาะจง (Spear phishing) ที่แนบเนียนได้ 100%"
+      },
+      {
+        "id": "B",
+        "text": "Establish an acceptable use policy.",
+        "textTh": "จัดทำนโยบายการใช้งานที่ยอมรับได้ (AUP)",
+        "analysis": "ผิด - พนักงานไม่ได้ตั้งใจละเมิดกฎ แต่เขาถูกหลอก (Social engineering)"
+      },
+      {
+        "id": "C",
+        "text": "Implement disciplinary procedures.",
+        "textTh": "ดำเนินการตามขั้นตอนทางวินัย",
+        "analysis": "ผิด - การลงโทษคนโดนหลอกไม่ช่วยให้เขามีความรู้เพิ่มขึ้น และอาจทำให้คนไม่กล้าแจ้งเหตุ"
+      },
+      {
+        "id": "D",
+        "text": "Conduct phishing awareness training.",
+        "textTh": "ดำเนินการฝึกอบรมสร้างความตระหนักรู้เรื่องฟิชชิ่ง (Phishing awareness training)",
+        "analysis": "ถูกต้อง - ปัญหาหลักเกิดจาก 'คน (Human error)' ที่ตกเป็นเหยื่อของการหลอกลวง (Social Engineering) วิธีการบรรเทาความเสี่ยงนี้ในระยะยาวที่ดีที่สุดคือการสร้างภูมิคุ้มกันให้คน โดยการจัด 'ฝึกอบรม (Awareness training)' เพื่อให้พวกเขารู้จักวิธีสังเกตและรับมือกับอีเมลหลอกลวง"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'clicked on a malicious link in an email' ปัญหาเรื่อง Phishing เป็นปัญหาด้านพฤติกรรมมนุษย์ การแก้ปัญหาทางเทคนิคช่วยได้ระดับหนึ่ง แต่การแก้ปัญหาที่ตรงจุดและยั่งยืนที่สุดคือการทำ Awareness training ให้พนักงานมีภูมิคุ้มกัน",
+    "referenceLink": "https://www.examprepper.co/exam/161/14",
+    "studyTechnique": "จำไว้ว่า ปัญหาจากคนคลิกลิงก์ / โดนหลอก / Phishing / Social Engineering -> แก้ด้วย Training / Awareness"
+  },
+  {
+    "id": 67,
+    "question": "The business value of an information asset is derived from:",
+    "questionTh": "มูลค่าทางธุรกิจ (Business value) ของสินทรัพย์สารสนเทศ (Information asset) ได้มาจากสิ่งใด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "its replacement cost.",
+        "textTh": "ต้นทุนในการทดแทน (Replacement cost)",
+        "analysis": "ผิด - ต้นทุนในการซื้อฮาร์ดแวร์/ซอฟต์แวร์ใหม่ (Replacement cost) อาจจะแค่หลักหมื่น แต่ข้อมูลในนั้นอาจจะสร้างรายได้หลักล้าน ดังนั้น Replacement cost ไม่ใช่มูลค่าทางธุรกิจที่แท้จริงของ 'ข้อมูล'"
+      },
+      {
+        "id": "B",
+        "text": "its criticality.",
+        "textTh": "ความสำคัญวิกฤตของสินทรัพย์นั้น (Its criticality)",
+        "analysis": "ถูกต้อง - ในมุมมองธุรกิจ ข้อมูลจะถูกประเมินค่าจาก 'ความสำคัญของมันที่มีต่อธุรกิจ (Criticality)' หากข้อมูลนี้หายไปแล้วธุรกิจล้มละลาย แปลว่ามูลค่าของมันสูงมาก (High business value) แม้ว่าตัวข้อมูลจะเก็บอยู่ในแฟลชไดร์ฟราคาถูกก็ตาม"
+      },
+      {
+        "id": "C",
+        "text": "the threat profile.",
+        "textTh": "โปรไฟล์ภัยคุกคาม",
+        "analysis": "ผิด - ภัยคุกคามเป็นเรื่องภายนอก ไม่ได้กำหนดว่าข้อมูลเรามีค่าเท่าไหร่"
+      },
+      {
+        "id": "D",
+        "text": "the risk assessment.",
+        "textTh": "การประเมินความเสี่ยง",
+        "analysis": "ผิด - การประเมินความเสี่ยงต้องเอา Asset Value มาใช้เป็น Input ไม่ใช่ตัวกำหนด Value"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'business value of an information asset' มูลค่าของข้อมูลไม่ได้อยู่ที่ราคาของฮาร์ดไดรฟ์ แต่อยู่ที่ว่าข้อมูลนั้นมีความสำคัญและจำเป็นต่อการดำเนินธุรกิจ (Criticality) มากแค่ไหน",
+    "referenceLink": "https://www.examprepper.co/exam/161/14",
+    "studyTechnique": "จำไว้ว่า Asset Value / Business Value ของข้อมูล = ประเมินจาก Criticality (ความสำคัญ/ผลกระทบต่อธุรกิจ)"
+  },
+  {
+    "id": 68,
+    "question": "Which of the following is the BEST indicator of the maturity level of a vendor risk management process?",
+    "questionTh": "ข้อใดเป็นตัวบ่งชี้ที่ดีที่สุด (BEST indicator) สำหรับระดับวุฒิภาวะ (Maturity level) ของกระบวนการบริหารความเสี่ยงผู้ให้บริการภายนอก (Vendor risk management)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Number of vendors rejected because of security review results",
+        "textTh": "จำนวนผู้ขายที่ถูกปฏิเสธเนื่องจากผลการตรวจสอบความปลอดภัย",
+        "analysis": "ผิด - การปฏิเสธเยอะอาจไม่ได้แปลว่ากระบวนการดี แต่อาจแปลว่าธุรกิจเลือก Vendor ไม่เก่ง"
+      },
+      {
+        "id": "B",
+        "text": "Percentage of vendors that are regularly reviewed against defined criteria",
+        "textTh": "เปอร์เซ็นต์ของผู้ขายที่ได้รับการ 'ทบทวนอย่างสม่ำเสมอ' ตามเกณฑ์ที่กำหนด",
+        "analysis": "ถูกต้อง - ตัวชี้วัดของความมีวุฒิภาวะ (Maturity) คือการทำงานที่เป็นระบบ มีมาตรฐาน (Defined criteria) และทำอย่างสม่ำเสมอเป็นวงจร (Regularly reviewed/Repeatable) การมีกระบวนการประเมิน Vendor ซ้ำเป็นระยะๆ แสดงให้เห็นว่าองค์กรมีกระบวนการบริหารความเสี่ยงคู่ค้าที่โตเต็มที่แล้ว"
+      },
+      {
+        "id": "C",
+        "text": "Percentage of vendors that have gone through the vendor on boarding process",
+        "textTh": "เปอร์เซ็นต์ของผู้ขายที่ผ่านกระบวนการเริ่มต้น (Onboarding)",
+        "analysis": "ผิด - Onboarding ทำแค่ครั้งแรกครั้งเดียว ไม่ได้รับประกันว่าจะมีการจัดการความเสี่ยงระยะยาว"
+      },
+      {
+        "id": "D",
+        "text": "Average time required to complete the vendor risk management process",
+        "textTh": "เวลาเฉลี่ยที่ใช้ในการทำกระบวนการให้เสร็จสิ้น",
+        "analysis": "ผิด - เวลาทำเร็วไม่ได้แปลว่าทำได้ครบถ้วนและมีความเสี่ยงต่ำ"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'maturity level' กระบวนการที่จะได้ชื่อว่ามี Maturity สูง (เช่น CMMI Level 3-4 ขึ้นไป) ต้องมีลักษณะ 'เป็นมาตรฐาน (Defined)' และ 'ทำอย่างต่อเนื่องสม่ำเสมอ (Regularly/Repeatable)'",
+    "referenceLink": "https://www.examprepper.co/exam/161/14",
+    "studyTechnique": "จำไว้ว่า Maturity / Effective process = ต้องมีคำว่า Regularly, Repeatable, Defined criteria, Continuous"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is the BEST way for an information security manager to justify ongoing annual maintenance fees associated with an intrusion prevention system (IPS)?",
+    "questionTh": "ข้อใดคือวิธีที่ดีที่สุดที่ผู้จัดการความปลอดภัยจะใช้ชี้แจงเหตุผล (Justify) ในการจ่าย 'ค่าบำรุงรักษารายปี' (Maintenance fees) อย่างต่อเนื่องสำหรับระบบป้องกันการบุกรุก (IPS)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Establish and present appropriate metrics that track performance.",
+        "textTh": "จัดทำและนำเสนอตัวชี้วัด (Metrics) ที่เหมาะสมเพื่อติดตามประสิทธิภาพ",
+        "analysis": "ถูกต้อง - ผู้บริหารจะยอมจ่ายเงินทุกปีก็ต่อเมื่อเขาเห็นว่าระบบนั้นยัง 'คุ้มค่าและทำประโยชน์ได้จริง' การนำเสนอ Metrics เช่น จำนวนภัยคุกคามที่ถูกบล็อก หรือ Uptime ของระบบ (Performance) เป็นการพิสูจน์มูลค่า (Value Delivery) ของ IPS ได้ดีที่สุดและเป็นภาษาที่ผู้บริหารเข้าใจ"
+      },
+      {
+        "id": "B",
+        "text": "Perform industry research annually and document the overall ranking of the IPS.",
+        "textTh": "วิจัยอุตสาหกรรมทุกปีและจัดทำเอกสารการจัดอันดับของ IPS",
+        "analysis": "ผิด - อันดับโลกดีแค่ไหน แต่ถ้าตั้งค่าในบริษัทเราไม่ดีก็ไร้ค่า ไม่ช่วย justify เงินที่เราจ่ายไป"
+      },
+      {
+        "id": "C",
+        "text": "Perform a penetration test to demonstrate the ability to protect.",
+        "textTh": "ทดสอบการเจาะระบบ (Pen test) เพื่อแสดงความสามารถในการปกป้อง",
+        "analysis": "ผิด - Pen test เป็นการทดสอบจุดอ่อนชั่วคราว มีค่าใช้จ่ายสูง และไม่ได้สะท้อนการทำงานตลอดทั้งปีของ IPS"
+      },
+      {
+        "id": "D",
+        "text": "Provide yearly competitive pricing to illustrate the value of the IPS.",
+        "textTh": "นำเสนอราคาเปรียบเทียบจากคู่แข่งเพื่อแสดงความคุ้มค่าของราคา",
+        "analysis": "ผิด - การซื้อของถูกไม่ได้แปลว่าช่วยลดความเสี่ยงได้ (เน้นที่ประสิทธิภาพมากกว่าราคาอย่างเดียว)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'justify ongoing annual maintenance fees' การของบประมาณต่อเนื่อง (Justify budget) ต้องใช้หลักการ 'Value Delivery (ส่งมอบคุณค่า)' ซึ่งเครื่องมือในการพิสูจน์คุณค่าของระบบความปลอดภัยคือ 'Metrics/Performance Reports' ให้บอร์ดเห็น",
+    "referenceLink": "https://www.examprepper.co/exam/161/14",
+    "studyTechnique": "จำไว้ว่า Justify Budget / ขอเงินบำรุงรักษาต่อ = ต้องเอา Metrics / Performance ไปโชว์ให้เห็นว่ามันมีประโยชน์"
+  },
+  {
+    "id": 70,
+    "question": "An international organization with remote branches is implementing a corporate security policy for managing personally identifiable information (PII). Which of the following should be the information security manager's MAIN concern?",
+    "questionTh": "องค์กรระดับนานาชาติที่มีสาขาในหลายประเทศกำลังบังคับใช้นโยบายความปลอดภัยองค์กร (Corporate policy) เพื่อจัดการกับ 'ข้อมูลส่วนบุคคล (PII)' ข้อใดควรเป็น 'ความกังวลหลัก (MAIN concern)' ของผู้จัดการความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data backup strategy",
+        "textTh": "กลยุทธ์การสำรองข้อมูล",
+        "analysis": "ผิด - เป็นเรื่องทั่วไปของทุกข้อมูล ไม่ได้เฉพาะเจาะจงกับ PII ในระดับนานาชาติ"
+      },
+      {
+        "id": "B",
+        "text": "Organizational reporting structure",
+        "textTh": "โครงสร้างการรายงานขององค์กร",
+        "analysis": "ผิด - ไม่ใช่ปัญหาหลักของการจัดการ PII"
+      },
+      {
+        "id": "C",
+        "text": "Local regulations",
+        "textTh": "กฎระเบียบของแต่ละท้องถิ่น (Local regulations)",
+        "analysis": "ถูกต้อง - เมื่อเป็นองค์กรข้ามชาติ (International) และเกี่ยวข้องกับ PII ความท้าทายที่ใหญ่ที่สุดคือ 'กฎหมายความเป็นส่วนตัวของแต่ละประเทศไม่เหมือนกัน (Local regulations)' เช่น ยุโรปใช้ GDPR, ไทยใช้ PDPA, แคลิฟอร์เนียใช้ CCPA นโยบายของบริษัทแม่ (Corporate policy) จึงอาจจะไปขัดแย้งกับกฎหมายท้องถิ่นของสาขาบางประเทศได้"
+      },
+      {
+        "id": "D",
+        "text": "Consistency in awareness programs",
+        "textTh": "ความสอดคล้องในโปรแกรมสร้างความตระหนักรู้",
+        "analysis": "ผิด - เป็นเรื่องรองลงมาจากการทำผิดกฎหมาย"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'international organization' และ 'PII' (ข้อมูลส่วนบุคคล) กฎหมายที่คุ้มครอง PII จะขึ้นอยู่กับกฎหมายแต่ละประเทศ ดังนั้นความเสี่ยงใหญ่ที่สุดในการออกนโยบายเดียวใช้ทั่วโลกคือ การไปละเมิดกฎหมายท้องถิ่น (Local laws/regulations) ของสาขาในต่างประเทศ",
+    "referenceLink": "https://www.examprepper.co/exam/161/14",
+    "studyTechnique": "จำไว้ว่า องค์กรข้ามชาติ (International) + ทำระบบเกี่ยวกับข้อมูล/PII -> กังวลเรื่อง: กฎหมายท้องถิ่น (Local Laws / Regulations)"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is the BEST reason for senior management to support a business case for developing a monitoring system for a critical application?",
+    "questionTh": "ข้อใดคือเหตุผลที่ดีที่สุดสำหรับผู้บริหารระดับสูงในการสนับสนุน Business case เพื่อพัฒนาระบบตรวจสอบ (Monitoring system) สำหรับแอปพลิเคชันที่สำคัญ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The system can be replicated for additional use cases.",
+        "textTh": "ระบบสามารถจำลองแบบเพื่อใช้ในกรณีอื่นได้",
+        "analysis": "ผิด - เป็นข้อดีเพิ่มเติม แต่ไม่ใช่เหตุผลหลักที่ผู้บริหารจะยอมจ่ายเงินก้อนแรก"
+      },
+      {
+        "id": "B",
+        "text": "An industry peer experienced a recent breach with a similar application.",
+        "textTh": "เพื่อนร่วมอุตสาหกรรมเพิ่งประสบเหตุข้อมูลรั่วไหลในแอปพลิเคชันที่คล้ายกัน",
+        "analysis": "ผิด - เป็นการสร้างความกลัว (FUD) แต่ไม่ได้อธิบายความคุ้มค่าทางตัวเลข"
+      },
+      {
+        "id": "C",
+        "text": "The cost of implementing the system is less than the impact of downtime.",
+        "textTh": "ต้นทุนในการติดตั้งระบบ 'น้อยกว่า' ผลกระทบจากการหยุดทำงานของระบบ (Cost < Impact)",
+        "analysis": "ถูกต้อง - ผู้บริหารตัดสินใจจากตัวเลขทางการเงินและความคุ้มค่า (Cost-Benefit Analysis) หาก Business Case พิสูจน์ได้ว่า 'เงินที่จ่ายไปเพื่อป้องกัน' มีค่าน้อยกว่า 'ความเสียหายหากระบบล่ม' ผู้บริหารย่อมอนุมัติแน่นอน"
+      },
+      {
+        "id": "D",
+        "text": "The solution is within the organization's risk tolerance.",
+        "textTh": "โซลูชันอยู่ในขอบเขตความต้านทานความเสี่ยงขององค์กร",
+        "analysis": "ผิด - ความเสี่ยงที่อยู่ 'ภายใน' เกณฑ์ที่รับได้ แปลว่าไม่ต้องทำอะไรเพิ่มแล้ว (ถ้ารับไม่ได้ถึงต้องทำ)"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'support a business case' การขออนุมัติโครงการใดๆ เหตุผลที่ทรงพลังที่สุดคือการเปรียบเทียบความคุ้มค่า (Cost-benefit) ว่าซื้อระบบป้องกันมาแล้วคุ้มกว่าปล่อยให้ระบบล่ม",
+    "referenceLink": "https://www.examprepper.co/exam/161/15",
+    "studyTechnique": "จำไว้ว่า Business Case / ขอเงินผู้บริหาร = ใช้ Cost-Benefit Analysis (ต้นทุนต้องถูกกว่าความเสียหาย)"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is MOST important when developing an information security governance framework?",
+    "questionTh": "ข้อใดสำคัญที่สุดเมื่อพัฒนากรอบธรรมาภิบาลด้านความปลอดภัยข้อมูล (Information security governance framework)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensuring alignment with the organization's risk management framework",
+        "textTh": "สร้างความมั่นใจว่าสอดคล้องกับ 'กรอบการบริหารความเสี่ยงระดับองค์กร (ERM framework)'",
+        "analysis": "ถูกต้อง - Security Governance ไม่ใช่สิ่งที่ทำงานโดดเดี่ยว แต่มันเป็นส่วนย่อยของ Corporate Governance การจะพัฒนากรอบความปลอดภัยให้สำเร็จ ต้องปรับให้มันบูรณาการและสอดคล้อง (Align) กับกรอบความเสี่ยงหลักขององค์กร เพื่อให้ผู้บริหารมองเห็นเป็นภาพเดียวกัน"
+      },
+      {
+        "id": "B",
+        "text": "Integrating security within the system development life cycle (SDLC) process",
+        "textTh": "บูรณาการความปลอดภัยในกระบวนการ SDLC",
+        "analysis": "ผิด - เป็นงานระดับปฏิบัติการ (Operational) ไม่ใช่ระดับ Governance"
+      },
+      {
+        "id": "C",
+        "text": "Developing policies and procedures to support the framework",
+        "textTh": "พัฒนานโยบายและขั้นตอนเพื่อสนับสนุนกรอบ",
+        "analysis": "ผิด - การพัฒนานโยบายจะทำ 'หลังจาก' ที่ได้ Framework มาแล้ว"
+      },
+      {
+        "id": "D",
+        "text": "Developing security incident response measures",
+        "textTh": "พัฒนามาตรการตอบสนองเหตุการณ์ความปลอดภัย",
+        "analysis": "ผิด - เป็นงานระดับล่าง (Program/Operation)"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'developing governance framework' โครงสร้างของธรรมาภิบาลต้องเริ่มจากการทำให้สอดคล้องกับกรอบใหญ่ขององค์กร (Corporate Governance / Enterprise Risk Management) เป็นอันดับแรก",
+    "referenceLink": "https://www.examprepper.co/exam/161/15",
+    "studyTechnique": "จำไว้ว่า Security Governance ต้อง Align (สอดคล้อง) กับ Corporate Governance / Risk Management Framework เสมอ"
+  },
+  {
+    "id": 73,
+    "question": "What should be an information security manager's GREATEST concern when an HR department outsources data processing to a cloud service provider?",
+    "questionTh": "ข้อใดควรเป็น 'ความกังวลสูงสุด (GREATEST concern)' ของผู้จัดการความปลอดภัยข้อมูล เมื่อแผนกทรัพยากรบุคคล (HR) จ้างเหมาการประมวลผลข้อมูลให้กับผู้ให้บริการคลาวด์?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Security posture of the provider",
+        "textTh": "สถานะความปลอดภัย (Security posture) ของผู้ให้บริการ",
+        "analysis": "ถูกต้อง - เมื่อมีการโอนย้ายข้อมูลให้บุคคลภายนอก (Third-party/Outsource) ความรับผิดชอบยังอยู่กับเรา แต่เราเสียอำนาจการควบคุมไป ดังนั้นความกังวลสูงสุดคือ 'เขาจะดูแลข้อมูลของเราได้ดีเท่าเราไหม (Security posture)' ซึ่งต้องตรวจสอบผ่าน Vendor Assessment"
+      },
+      {
+        "id": "B",
+        "text": "Data loss protection insurance",
+        "textTh": "ประกันการป้องกันข้อมูลสูญหาย",
+        "analysis": "ผิด - ประกันเป็นเรื่องของการโอนย้ายความเสี่ยง (Risk transfer) แต่ไม่ได้ป้องกันข้อมูลรั่วไหลจริง"
+      },
+      {
+        "id": "C",
+        "text": "Required provider service levels",
+        "textTh": "ระดับการให้บริการที่ผู้ให้บริการต้องมี (SLA)",
+        "analysis": "ผิด - SLA สำคัญ แต่ถ้า Security ของเขาแย่ SLA ก็ช่วยอะไรไม่ได้มากเมื่อข้อมูล HR รั่วไปแล้ว"
+      },
+      {
+        "id": "D",
+        "text": "The scope of the data",
+        "textTh": "ขอบเขตของข้อมูล",
+        "analysis": "ผิด - ขอบเขตของข้อมูล (เช่น ข้อมูลพนักงาน) เป็นสิ่งที่เรารู้อยู่แล้ว (เป็นตัวบอกว่าต้องห่วงมากแค่ไหน) แต่สิ่งที่เรากังวลว่าจะจัดการไม่ได้คือความปลอดภัยของฝั่งผู้ให้บริการ"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'outsources data processing' และ 'GREATEST concern' เมื่อข้อมูลสำคัญ (เช่น ข้อมูล HR) ออกไปอยู่นอกองค์กร ความเสี่ยงหลักที่เราคุมไม่ได้คือมาตรฐานความปลอดภัยของผู้ให้บริการรายนั้น (Security posture / Third-party risk)",
+    "referenceLink": "https://www.examprepper.co/exam/161/15",
+    "studyTechnique": "จำไว้ว่า การใช้ Cloud / Outsource / Vendor = ความกังวลหลักคือ Security Posture (มาตรฐานความปลอดภัย) ของเขา"
+  },
+  {
+    "id": 74,
+    "question": "Which of the following BEST enables the capability of an organization to sustain the delivery of products and services within acceptable time frames and at predefined capacity during a disruption?",
+    "questionTh": "ข้อใดช่วยให้องค์กรมีความสามารถในการ 'รักษาการส่งมอบผลิตภัณฑ์และบริการ (Sustain delivery)' ให้อยู่ในกรอบเวลาและกำลังการผลิตที่ยอมรับได้ 'ระหว่างการหยุดชะงัก (During disruption)'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business continuity plan (BCP)",
+        "textTh": "แผนความต่อเนื่องทางธุรกิจ (BCP)",
+        "analysis": "ถูกต้อง - นี่คือคำนิยามตรงตัวของ Business Continuity Plan (BCP) ซึ่งเป้าหมายของมันคือการทำให้ 'กระบวนการทางธุรกิจยังคงดำเนินต่อไปได้' (Sustain the delivery of products and services) แม้ในยามเกิดภัยพิบัติหรือวิกฤต โดยไม่ต้องรอให้ระบบไอทีกู้คืนเสร็จทั้งหมด"
+      },
+      {
+        "id": "B",
+        "text": "Disaster recovery plan (DRP)",
+        "textTh": "แผนกู้คืนระบบจากภัยพิบัติ (DRP)",
+        "analysis": "ผิด - DRP เป็นเรื่องของการกู้คืนระบบไอทีและเทคโนโลยีเป็นหลัก ไม่ใช่การส่งมอบผลิตภัณฑ์ให้ลูกค้า (DRP เป็นส่วนหนึ่งที่ช่วยสนับสนุน BCP)"
+      },
+      {
+        "id": "C",
+        "text": "Business impact analysis (BIA)",
+        "textTh": "การวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ผิด - BIA เป็นกระบวนการประเมินเพื่อหา RTO/RPO แต่ไม่ใช่ 'แผน' ที่ใช้ปฏิบัติการเพื่อให้ธุรกิจเดินต่อ"
+      },
+      {
+        "id": "D",
+        "text": "Service level agreement (SLA)",
+        "textTh": "ข้อตกลงระดับบริการ (SLA)",
+        "analysis": "ผิด - เป็นข้อตกลงกับลูกค้าหรือ Vendor ไม่ใช่แผนภายในเพื่อรักษาความต่อเนื่อง"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'sustain the delivery of products and services' การรักษาการส่งมอบสินค้า/บริการในยามวิกฤตคือหน้าที่หลักของ Business Continuity Plan (BCP) ซึ่งมองในมุมของ 'ธุรกิจ' ส่วน DRP มองในมุมของ 'ไอที'",
+    "referenceLink": "https://www.examprepper.co/exam/161/15",
+    "studyTechnique": "จำไว้ว่า Sustain Products/Services/Business Process = BCP (Business) | Recover IT Systems = DRP (IT)"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following BEST determines an information asset's classification?",
+    "questionTh": "ข้อใดเป็นตัวกำหนด 'การจัดประเภทสินทรัพย์ข้อมูล (Asset classification)' ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Criticality to a business process",
+        "textTh": "ความสำคัญวิกฤตที่มีต่อกระบวนการทางธุรกิจ (Criticality to a business process)",
+        "analysis": "ถูกต้อง - การที่จะจัดประเภทข้อมูลว่าอยู่ระดับ 'ความลับสุดยอด' หรือ 'เปิดเผยได้' จะต้องพิจารณาจาก 'มูลค่าของมันที่มีต่อธุรกิจ' หรือ 'ความสำคัญของมันต่อกระบวนการธุรกิจ (Criticality/Business Value)' หากข้อมูลนั้นเกี่ยวข้องกับเส้นเลือดใหญ่ของบริษัท ก็ต้องได้ Classification ในระดับที่สูง"
+      },
+      {
+        "id": "B",
+        "text": "Value of the information asset in the marketplace",
+        "textTh": "มูลค่าของสินทรัพย์ข้อมูลในตลาด",
+        "analysis": "ผิด - ข้อมูลบางอย่างไม่มีค่าในตลาดภายนอก (เช่น แผนการตลาดภายใน) แต่มีค่ามหาศาลต่อธุรกิจของเรา"
+      },
+      {
+        "id": "C",
+        "text": "Risk assessment from the data owner",
+        "textTh": "การประเมินความเสี่ยงจากเจ้าของข้อมูล",
+        "analysis": "ผิด - เจ้าของข้อมูลเป็นคนกำหนด Classification ก็จริง แต่หลักเกณฑ์ที่เขาใช้กำหนดก็คือ 'Criticality' ของข้อมูลนั้นนั่นเอง"
+      },
+      {
+        "id": "D",
+        "text": "Cost of producing the information asset",
+        "textTh": "ต้นทุนในการผลิตสินทรัพย์ข้อมูล",
+        "analysis": "ผิด - ข้อมูลที่ผลิตมาถูกๆ (เช่น รหัสผ่านเข้าเซิร์ฟเวอร์) อาจมีความสำคัญระดับสูงสุดของบริษัท"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'determines asset's classification' หลักเกณฑ์การจัดชั้นความลับหรือประเภทข้อมูล อิงจาก Business Value หรือ Criticality (ความสำคัญ/ผลกระทบที่มีต่อธุรกิจ) เสมอ",
+    "referenceLink": "https://www.examprepper.co/exam/161/15",
+    "studyTechnique": "จำไว้ว่า Asset Classification (การจัดประเภทข้อมูล) กำหนดจาก = Business Value และ Criticality"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is the PRIMARY objective of a cyber resilience strategy?",
+    "questionTh": "ข้อใดคือวัตถุประสงค์หลัก (PRIMARY objective) ของกลยุทธ์ความยืดหยุ่นทางไซเบอร์ (Cyber resilience strategy)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business continuity",
+        "textTh": "ความต่อเนื่องทางธุรกิจ (Business continuity)",
+        "analysis": "ถูกต้อง - ความยืดหยุ่นทางไซเบอร์ (Cyber Resilience) คือความสามารถในการเตรียมพร้อม รับมือ และฟื้นตัวจากการโจมตีทางไซเบอร์ เพื่อเป้าหมายสูงสุดคือ 'การทำให้ธุรกิจสามารถดำเนินต่อไปได้ (Business Continuity)' แม้จะอยู่ในสภาวะถูกโจมตี"
+      },
+      {
+        "id": "B",
+        "text": "Employee awareness",
+        "textTh": "ความตระหนักรู้ของพนักงาน",
+        "analysis": "ผิด - เป็นเพียงเครื่องมือหนึ่งในการป้องกัน"
+      },
+      {
+        "id": "C",
+        "text": "Executive support",
+        "textTh": "การสนับสนุนจากผู้บริหาร",
+        "analysis": "ผิด - เป็นปัจจัยความสำเร็จ ไม่ใช่วัตถุประสงค์"
+      },
+      {
+        "id": "D",
+        "text": "Regulatory compliance",
+        "textTh": "การปฏิบัติตามกฎระเบียบ",
+        "analysis": "ผิด - การทำตามกฎหมายเป็นเพียงความต้องการขั้นต่ำ แต่ไม่ใช่เป้าหมายของการมี Resilience"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'cyber resilience strategy' Resilience (ความยืดหยุ่น/ล้มแล้วลุกไว) เป็นคอนเซปต์ใหม่ที่ต่อยอดจาก Security เป้าหมายสูงสุดของการมี Cyber Resilience คือเพื่อให้ 'ธุรกิจสามารถส่งมอบบริการได้อย่างต่อเนื่อง (Business Continuity)' แม้ระบบไอทีจะถูกโจมตี",
+    "referenceLink": "https://www.examprepper.co/exam/161/16",
+    "studyTechnique": "จำไว้ว่า Cyber Resilience (ยืดหยุ่น/ล้มแล้วลุกไว) มีเป้าหมายสูงสุดคือ = Business Continuity (ธุรกิจต้องเดินต่อได้)"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is the MOST important reason for an organization to communicate to affected parties that a security incident has occurred?",
+    "questionTh": "ข้อใดคือเหตุผลที่สำคัญที่สุดที่องค์กรต้อง 'สื่อสาร/แจ้งเตือน (Communicate)' ผู้ที่ได้รับผลกระทบว่าเกิดเหตุการณ์ละเมิดความปลอดภัยขึ้น?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To improve awareness of information security",
+        "textTh": "เพื่อปรับปรุงความตระหนักรู้ด้านความปลอดภัยข้อมูล",
+        "analysis": "ผิด - ไม่ใช่เหตุผลหลักในการสื่อสารเหตุการณ์ฉุกเฉินระดับนี้"
+      },
+      {
+        "id": "B",
+        "text": "To disclose the root cause of the incident",
+        "textTh": "เพื่อเปิดเผยสาเหตุที่แท้จริงของเหตุการณ์",
+        "analysis": "ผิด - การแจ้งเตือนมักเกิดขึ้นก่อนที่จะรู้ Root cause แน่ชัด และบางครั้งข้อมูลนี้ก็เป็นความลับ"
+      },
+      {
+        "id": "C",
+        "text": "To comply with regulations regarding notification",
+        "textTh": "เพื่อให้เป็นไปตามกฎระเบียบเกี่ยวกับการแจ้งเตือน (Comply with regulations)",
+        "analysis": "ถูกต้อง - เหตุผลหลักและเหตุผลบังคับที่องค์กรต้องยอมเสียชื่อเสียงในการประกาศให้ผู้ใช้งานทราบว่าข้อมูลถูกแฮ็ก คือเรื่องของ 'การปฏิบัติตามกฎหมายและข้อบังคับ (Regulatory compliance)' เช่น GDPR, PDPA หรือ HIPAA ที่บังคับให้ต้องแจ้งเจ้าของข้อมูลหรือหน่วยงานกำกับดูแลภายใน 72 ชั่วโมง"
+      },
+      {
+        "id": "D",
+        "text": "To increase goodwill toward the organization",
+        "textTh": "เพื่อเพิ่มความปรารถนาดีต่อองค์กร",
+        "analysis": "ผิด - การบอกว่าตัวเองโดนแฮ็กมักจะลดความน่าเชื่อถือมากกว่าเพิ่ม"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'communicate to affected parties' การแจ้งเตือนการรั่วไหล (Data Breach Notification) เป็นสิ่งบังคับทางกฎหมาย (Legal/Regulatory requirements) หากไม่ทำองค์กรจะถูกปรับมหาศาล ดังนั้น Compliance จึงเป็นเหตุผลสำคัญที่สุดในการแจ้งเหตุ",
+    "referenceLink": "https://www.examprepper.co/exam/161/16",
+    "studyTechnique": "จำไว้ว่า การประกาศ Data Breach ให้สาธารณะชนทราบ = เป็นเรื่องของ Regulatory Compliance (กฎหมายบังคับ)"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is the BEST indication that an information security control is no longer relevant?",
+    "questionTh": "ข้อใดเป็นตัวบ่งชี้ที่ดีที่สุดว่าการควบคุมความปลอดภัยข้อมูล 'ไม่มีความเกี่ยวข้องอีกต่อไป (no longer relevant)'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The control is not cost efficient.",
+        "textTh": "การควบคุมนั้นไม่มีความคุ้มทุน",
+        "analysis": "ผิด - อาจจะไม่คุ้มทุนแต่ก็ยัง 'เกี่ยวข้อง' และมีประโยชน์ในการป้องกันความเสี่ยงอยู่"
+      },
+      {
+        "id": "B",
+        "text": "The control does not support a specific business function.",
+        "textTh": "การควบคุมนั้นไม่ได้สนับสนุนฟังก์ชันทางธุรกิจใดๆ (Does not support business function)",
+        "analysis": "ถูกต้อง - กฎข้อแรกของ Security คือ 'มีไว้เพื่อสนับสนุนธุรกิจ (Business Enabler)' หากการควบคุม (Control) ใดก็ตาม ไม่ได้ป้องกันข้อมูลที่ธุรกิจใช้ หรือไม่ได้สนับสนุนเป้าหมายทางธุรกิจใดๆ เลย การควบคุมนั้นก็คือความสูญเปล่าและ 'ไม่เกี่ยวข้อง (No longer relevant)' กับองค์กรอีกต่อไป"
+      },
+      {
+        "id": "C",
+        "text": "IT management does not support the control.",
+        "textTh": "ฝ่ายบริหารไอทีไม่สนับสนุนการควบคุม",
+        "analysis": "ผิด - ไอทีอาจไม่ชอบแต่ถ้าระบบนั้นปกป้องธุรกิจได้ ก็ยังจำเป็นต้องมี"
+      },
+      {
+        "id": "D",
+        "text": "The technology related to the control is obsolete.",
+        "textTh": "เทคโนโลยีที่เกี่ยวข้องกับการควบคุมล้าสมัย",
+        "analysis": "ผิด - เทคโนโลยีอาจจะเก่า แต่ถ้ายังทำงานป้องกันระบบเก่าๆ ของธุรกิจได้ ก็ยังถือว่า relevant"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'no longer relevant' ความปลอดภัยเกิดมาเพื่อธุรกิจ (Business-driven) ถ้าธุรกิจเปลี่ยนไป และ Control นั้นไม่ตอบโจทย์หรือไม่ได้ปกป้องกระบวนการธุรกิจใดๆ แล้ว มันก็คือขยะที่ควรถูกถอดออก",
+    "referenceLink": "https://www.examprepper.co/exam/161/16",
+    "studyTechnique": "จำไว้ว่า Control หมดความหมาย (No longer relevant) = เมื่อมันไม่ได้สนับสนุน Business อีกต่อไป"
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is the PRIMARY advantage of an organization using Disaster Recovery as a Service (DRaaS) to help manage its disaster recovery program?",
+    "questionTh": "ข้อใดคือข้อได้เปรียบหลัก (PRIMARY advantage) ขององค์กรที่ใช้บริการกู้คืนระบบจากภัยพิบัติผ่านคลาวด์ (DRaaS) เพื่อช่วยจัดการโปรแกรม DRP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It offers the organization flexible deployment options using cloud infrastructure.",
+        "textTh": "เสนอทางเลือกการปรับใช้ที่ยืดหยุ่นโดยใช้โครงสร้างพื้นฐานคลาวด์",
+        "analysis": "ผิด - เป็นข้อดีเชิงเทคนิค แต่ยังไม่ใช่ข้อได้เปรียบระดับธุรกิจสูงสุด"
+      },
+      {
+        "id": "B",
+        "text": "It allows the organization to prioritize its core operations.",
+        "textTh": "ช่วยให้องค์กรสามารถมุ่งเน้น (Prioritize) ไปที่การดำเนินงานหลัก (Core operations) ของตนได้",
+        "analysis": "ถูกต้อง - การทำงานในระดับกลยุทธ์ (Governance) เหตุผลหลักที่องค์กรตัดสินใจจ้างคนภายนอก (Outsource) ให้มาทำเรื่อง IT/DRaaS ก็เพื่อให้พนักงานและผู้บริหาร 'ไม่ต้องมาปวดหัวกับเรื่องที่ไม่ใช่ความเชี่ยวชาญของตน' และนำเวลาทรัพยากรไปโฟกัสที่ 'ธุรกิจหลัก (Core business operations)' ที่สร้างรายได้แทน"
+      },
+      {
+        "id": "C",
+        "text": "It is more secure than traditional data backup architecture.",
+        "textTh": "มีความปลอดภัยมากกว่าสถาปัตยกรรมการสำรองข้อมูลแบบดั้งเดิม",
+        "analysis": "ผิด - คลาวด์ไม่ได้แปลว่าปลอดภัยกว่าเสมอไป (ขึ้นอยู่กับการตั้งค่า)"
+      },
+      {
+        "id": "D",
+        "text": "It allows the use of a professional response team at a lower cost.",
+        "textTh": "อนุญาตให้ใช้ทีมตอบสนองมืออาชีพในราคาที่ต่ำกว่า",
+        "analysis": "ผิด - DRaaS อาจจะไม่ได้มีราคาต่ำกว่าเสมอไป (บางที่แพงกว่าแต่คุ้มกว่าในระยะยาว)"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'PRIMARY advantage of using DRaaS (Outsourcing)' ประโยชน์ที่ยิ่งใหญ่ที่สุดของการ Outsource งานไอทีคือ 'การคืนเวลาให้องค์กร' เพื่อให้สามารถเอาเวลาไปทุ่มเทกับธุรกิจหลัก (Core operations) ที่ทำเงินให้บริษัทได้",
+    "referenceLink": "https://www.examprepper.co/exam/161/16",
+    "studyTechnique": "จำไว้ว่า ประโยชน์สูงสุดของการ Outsource (เช่น DRaaS, SaaS) ในมุมผู้บริหาร = ช่วยให้องค์กรเอาเวลาไปโฟกัสธุรกิจหลักได้ (Focus/Prioritize Core Operations)"
+  },
+  {
+    "id": 80,
+    "question": "An organization wants to enable digital forensics for a business-critical application. Which of the following will BEST help to support this objective?",
+    "questionTh": "องค์กรต้องการเปิดใช้งานการสืบสวนนิติวิทยาศาสตร์ดิจิทัล (Digital forensics) สำหรับแอปพลิเคชันที่สำคัญต่อธุรกิจ ข้อใดจะช่วยสนับสนุนวัตถุประสงค์นี้ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Install biometric access control.",
+        "textTh": "ติดตั้งการควบคุมการเข้าถึงด้วยไบโอเมตริกซ์",
+        "analysis": "ผิด - ช่วยเรื่องยืนยันตัวตนคนเข้าห้อง ไม่ได้ช่วยวิเคราะห์สิ่งที่เกิดขึ้นในแอป"
+      },
+      {
+        "id": "B",
+        "text": "Develop an incident response plan.",
+        "textTh": "จัดทำแผนการตอบสนองเหตุการณ์",
+        "analysis": "ผิด - แผนคือขั้นตอนทำงาน แต่ถ้าไม่มีหลักฐานให้สืบ ก็ทำ Forensics ไม่ได้"
+      },
+      {
+        "id": "C",
+        "text": "Define data retention criteria.",
+        "textTh": "กำหนดเกณฑ์การเก็บรักษาข้อมูล",
+        "analysis": "ผิด - การเก็บไว้นานดี แต่ถ้าไม่เปิดเก็บบันทึกตั้งแต่แรกก็ไม่มีประโยชน์"
+      },
+      {
+        "id": "D",
+        "text": "Enable activity logging.",
+        "textTh": "เปิดใช้งานการบันทึกกิจกรรม (Enable activity logging)",
+        "analysis": "ถูกต้อง - หัวใจสำคัญของการทำ 'Digital Forensics (นิติวิทยาศาสตร์ไซเบอร์)' คือการมี 'หลักฐาน (Evidence)' ให้สืบสวน ดังนั้นสิ่งแรกและสำคัญที่สุดที่ต้องทำในแอปพลิเคชันคือ 'การเปิด Log (Activity logging)' เพื่อบันทึกว่าใครทำอะไร เมื่อไหร่ อย่างไร หากไม่มี Log ก็ทำ Forensics ไม่ได้เลย"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'enable digital forensics' นิติวิทยาศาสตร์ดิจิทัลต้องพึ่งพา 'ร่องรอยการกระทำ' และร่องรอยในโลกไซเบอร์ก็คือ 'Logs' ดังนั้นการเปิด Activity Logging จึงเป็นสิ่งที่สนับสนุนเรื่องนี้ได้ดีที่สุด",
+    "referenceLink": "https://www.examprepper.co/exam/161/16",
+    "studyTechnique": "จำไว้ว่า จะทำ Forensics (สืบสวน/จับผิด) ได้ -> ระบบต้องมี Logs (Activity Logging) เสมอ"
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is the MOST important outcome of a post-incident review?",
+    "questionTh": "ข้อใดคือผลลัพธ์ที่สำคัญที่สุด (MOST important outcome) ของการทบทวนหลังเกิดเหตุการณ์ (Post-incident review)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The system affected by the incident is restored to its prior state.",
+        "textTh": "ระบบที่ได้รับผลกระทบได้รับการกู้คืนสู่สถานะก่อนหน้า",
+        "analysis": "ผิด - การกู้คืนระบบต้องทำเสร็จก่อนที่จะมานั่งทำ Post-incident review"
+      },
+      {
+        "id": "B",
+        "text": "The root cause of the incident is determined.",
+        "textTh": "การระบุสาเหตุที่แท้จริง (Root cause) ของเหตุการณ์ได้สำเร็จ",
+        "analysis": "ถูกต้อง - เป้าหมายหลักของการทบทวนหลังเกิดเหตุ (Lessons learned) ไม่ใช่การหาคนผิด แต่เป็นการหาให้เจอว่า 'ทำไมระบบถึงโดนแฮ็ก (Root cause)' เพื่อที่จะได้หาทางอุดช่องโหว่นั้นและป้องกันไม่ให้เกิดซ้ำอีกในอนาคต"
+      },
+      {
+        "id": "C",
+        "text": "The person responsible for the incident is identified.",
+        "textTh": "ระบุตัวบุคคลที่รับผิดชอบต่อเหตุการณ์ได้",
+        "analysis": "ผิด - การหาคนผิด (Blame) ไม่ใช่วัตถุประสงค์หลักของการทำทบทวน"
+      },
+      {
+        "id": "D",
+        "text": "The impact of the incident is reported to senior management.",
+        "textTh": "รายงานผลกระทบต่อผู้บริหาร",
+        "analysis": "ผิด - เป็นส่วนหนึ่งของกระบวนการ แต่ไม่ใช่ Outcome ที่มีค่าที่สุดเท่ากับการรู้สาเหตุรากเหง้า"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'outcome of a post-incident review' ท่องไว้เลยว่า Post-incident หรือ Lessons learned มีเป้าหมายสูงสุดคือหา Root Cause เพื่อ 'ป้องกันไม่ให้เกิดซ้ำ (Prevent recurrence)'",
+    "referenceLink": "https://www.examprepper.co/exam/161/17",
+    "studyTechnique": "จำไว้ว่า Post-Incident Review = หา Root Cause = ป้องกันไม่ให้เกิดซ้ำ"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is the BEST indicator of the performance of a security program?",
+    "questionTh": "ข้อใดเป็นตัวบ่งชี้ที่ดีที่สุด (BEST indicator) ถึงประสิทธิภาพและผลการดำเนินงาน (Performance) ของโปรแกรมความปลอดภัย?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Changes in return on investments (ROIs)",
+        "textTh": "การเปลี่ยนแปลงในผลตอบแทนจากการลงทุน (ROI)",
+        "analysis": "ผิด - ROI เป็นตัววัดความคุ้มค่าระดับโครงการ ไม่ใช่ระดับของ Program ทั้งหมด"
+      },
+      {
+        "id": "B",
+        "text": "Changes in the maturity level",
+        "textTh": "การเปลี่ยนแปลงในระดับวุฒิภาวะ (Maturity level)",
+        "analysis": "ถูกต้อง - ระดับวุฒิภาวะ (Maturity Level เช่น การประเมินตาม CMMI) เป็นเครื่องมือที่ดีที่สุดในการวัดว่า โปรแกรมความปลอดภัยขององค์กรมีพัฒนาการ (Performance) ดีขึ้นกว่าปีที่แล้วหรือไม่ หาก Maturity ขยับจาก Level 2 เป็น 3 แปลว่า Performance โดยรวมดีขึ้นอย่างเป็นระบบ"
+      },
+      {
+        "id": "C",
+        "text": "Changes in budget allocation",
+        "textTh": "การเปลี่ยนแปลงการจัดสรรงบประมาณ",
+        "analysis": "ผิด - งบที่เพิ่มไม่ได้การันตีว่าผลงานจะดีขึ้น"
+      },
+      {
+        "id": "D",
+        "text": "Changes in security training attendance",
+        "textTh": "การเปลี่ยนแปลงในการเข้าร่วมฝึกอบรม",
+        "analysis": "ผิด - เป็นแค่ตัวชี้วัดย่อย (Operational metric) ไม่ใช่ภาพรวมของโปรแกรม"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'indicator of the performance' ของ 'security program' การวัดภาพรวมที่ใหญ่ระดับ Program ต้องใช้การวัดเทียบพัฒนาการ ซึ่ง 'Maturity Level' คือเครื่องมือมาตรฐานที่ใช้วัดและรายงานผลการเติบโตนี้ให้ผู้บริหารทราบ",
+    "referenceLink": "https://www.examprepper.co/exam/161/17",
+    "studyTechnique": "จำไว้ว่า วัดประสิทธิภาพ/การเติบโตของ Program ในภาพรวม = ดูจาก Maturity Level"
+  },
+  {
+    "id": 83,
+    "question": "An organization has remediated a security flaw in a system. Which of the following should be done NEXT?",
+    "questionTh": "องค์กรได้แก้ไข (Remediated) ข้อบกพร่องด้านความปลอดภัยในระบบแล้ว ข้อใดควรทำเป็นขั้นตอนต่อไป (NEXT)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Allocate budget for penetration testing.",
+        "textTh": "จัดสรรงบประมาณสำหรับการทดสอบเจาะระบบ",
+        "analysis": "ผิด - ข้ามขั้นตอนเกินไป"
+      },
+      {
+        "id": "B",
+        "text": "Update the system's documentation.",
+        "textTh": "อัปเดตเอกสารของระบบ",
+        "analysis": "ผิด - เป็นเรื่องดีแต่ยังไม่ใช่เรื่องสำคัญที่สุดในแง่ของความเสี่ยง"
+      },
+      {
+        "id": "C",
+        "text": "Assess the residual risk.",
+        "textTh": "ประเมินความเสี่ยงที่เหลืออยู่ (Assess the residual risk)",
+        "analysis": "ถูกต้อง - ทุกครั้งที่มีการลงมือแก้ไขหรือติดตั้งระบบป้องกัน (Remediate/Mitigate) กฎข้อบังคับถัดไปคือคุณต้อง 'ประเมินซ้ำ' ว่าตอนนี้ความเสี่ยงลดลงไปเหลือเท่าไหร่ (Residual Risk) และระดับที่เหลืออยู่นั้นองค์กรยอมรับได้หรือไม่ (Acceptable level) หากยังรับไม่ได้ก็ต้องหาทางแก้เพิ่ม"
+      },
+      {
+        "id": "D",
+        "text": "Share lessons learned with the organization.",
+        "textTh": "แบ่งปันบทเรียนที่ได้รับกับองค์กร",
+        "analysis": "ผิด - เป็นขั้นตอนของการรับมือ Incident แต่อันนี้เป็นเรื่องของการแก้ Flaw ทั่วไป"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'remediated a security flaw' และ 'NEXT' ในวงจรการบริหารความเสี่ยง (Risk Management Lifecycle) เมื่อทำ Risk Treatment (แก้ไข) เสร็จแล้ว ขั้นต่อไปคือดูว่าเหลือความเสี่ยงเท่าไหร่ ซึ่งเรียกว่าการ Assess Residual Risk",
+    "referenceLink": "https://www.examprepper.co/exam/161/17",
+    "studyTechnique": "จำไว้ว่า ซ่อมเสร็จ/ติดตั้ง Control เสร็จ (Remediate) -> ขั้นต่อไป: วัดความเสี่ยงที่เหลืออยู่ (Assess Residual Risk)"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following BEST facilitates the development of a comprehensive information security policy?",
+    "questionTh": "ข้อใดช่วยอำนวยความสะดวกในการพัฒนานโยบายความปลอดภัยข้อมูลที่ 'ครอบคลุม (Comprehensive)' ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alignment with an established information security framework",
+        "textTh": "ความสอดคล้องกับกรอบแนวทางปฏิบัติ (Framework) ด้านความปลอดภัยข้อมูลที่เป็นที่ยอมรับ",
+        "analysis": "ถูกต้อง - การจะเขียนนโยบายให้ 'ครอบคลุมครบทุกด้าน' และไม่ตกหล่น วิธีที่ดีที่สุดคือการนำเอา Framework มาตรฐานสากล (เช่น ISO 27001, NIST) มาเป็นแม่แบบ (Blueprint) ในการอ้างอิง เพราะมาตรฐานเหล่านี้ถูกคิดมาครอบคลุมทุกมิติแล้ว"
+      },
+      {
+        "id": "B",
+        "text": "Security key performance indicators (KPIs)",
+        "textTh": "ตัวชี้วัดความปลอดภัย (KPIs)",
+        "analysis": "ผิด - KPI เอาไว้วัดผล ไม่ได้ช่วยให้เขียนนโยบายได้ครอบคลุม"
+      },
+      {
+        "id": "C",
+        "text": "A review of recent information security incidents",
+        "textTh": "การทบทวนเหตุการณ์ความปลอดภัยล่าสุด",
+        "analysis": "ผิด - อาจจะทำให้นโยบายเน้นไปที่เรื่องใดเรื่องหนึ่งที่เพิ่งเกิดเหตุ ขาดความครอบคลุมในด้านอื่นๆ"
+      },
+      {
+        "id": "D",
+        "text": "An established internal audit program",
+        "textTh": "โปรแกรมการตรวจสอบภายในที่มีอยู่",
+        "analysis": "ผิด - Audit เอาไว้ตรวจตามนโยบาย ไม่ใช่ตัวช่วยเขียนนโยบายแต่แรก"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'comprehensive policy' การจะสร้างอะไรให้ครบถ้วนสมบูรณ์ (Comprehensive) ในวงการนี้ ไม่จำเป็นต้องคิดใหม่ทำใหม่ แต่ควรไปเอา 'Framework' ที่เขาสร้างมาตรฐานไว้แล้วมาเป็นแกนหลัก",
+    "referenceLink": "https://www.examprepper.co/exam/161/17",
+    "studyTechnique": "จำไว้ว่า อยากได้ความครอบคลุม/สมบูรณ์ (Comprehensive) = อ้างอิง Framework มาตรฐาน"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is the MOST effective way to demonstrate improvement in security performance?",
+    "questionTh": "ข้อใดคือวิธีที่มีประสิทธิภาพที่สุดในการ 'แสดงให้เห็นถึงการปรับปรุง (Demonstrate improvement)' ในด้านประสิทธิภาพของความปลอดภัย?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Report the results of a security control self-assessment (CSA).",
+        "textTh": "รายงานผลการประเมินการควบคุมด้วยตนเอง",
+        "analysis": "ผิด - ประเมินตัวเองอาจมีความลำเอียง (Bias) และไม่ได้บอกถึงทิศทางการพัฒนาชัดเจน"
+      },
+      {
+        "id": "B",
+        "text": "Present trends in a validated metrics dashboard.",
+        "textTh": "นำเสนอแนวโน้ม (Trends) ผ่านแดชบอร์ดตัวชี้วัดที่ได้รับการตรวจสอบแล้ว",
+        "analysis": "ถูกต้อง - คำว่า 'Improvement (การปรับปรุง/พัฒนา)' เป็นเรื่องของกาลเวลา (Time-based) ดังนั้นวิธีเดียวที่จะพิสูจน์ได้ว่าเราทำงานได้ดีขึ้น คือการโชว์ให้เห็นถึง 'แนวโน้ม (Trends)' ของตัวชี้วัด เช่น กราฟแสดงจำนวนช่องโหว่ที่ลดลงเรื่อยๆ ในรอบ 6 เดือน"
+      },
+      {
+        "id": "C",
+        "text": "Provide a summary of security project return on investments (ROIs).",
+        "textTh": "ให้ข้อมูลสรุป ROI ของโครงการ",
+        "analysis": "ผิด - ROI บอกความคุ้มค่าทางการเงิน ไม่ได้สะท้อนการปรับปรุงประสิทธิภาพการทำงานโดยตรง"
+      },
+      {
+        "id": "D",
+        "text": "Present vulnerability testing results.",
+        "textTh": "นำเสนอผลการทดสอบช่องโหว่",
+        "analysis": "ผิด - เป็นข้อมูลแบบจุดเวลาเดียว (Point-in-time) ไม่ใช่ Trend ที่จะบอก Improvement ได้"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'demonstrate improvement' (แสดงพัฒนาการ) การจะดูการเติบโตหรือพัฒนาการได้ต้องดูที่ข้อมูลย้อนหลังที่นำมาทำเป็นกราฟ 'Trends (แนวโน้ม)' ของ Metrics",
+    "referenceLink": "https://www.examprepper.co/exam/161/17",
+    "studyTechnique": "จำไว้ว่า Improvement (พัฒนาการ) / Performance changes = ดูที่ Trends / Metrics over time"
+  },
+  {
+    "id": 86,
+    "question": "In order to gain organization-wide support for an information security program, which of the following is MOST important to consider?",
+    "questionTh": "เพื่อให้ได้รับการสนับสนุนจากทั่วทั้งองค์กร (Organization-wide support) สำหรับโปรแกรมความปลอดภัย ข้อใดสำคัญที่สุดที่ต้องพิจารณา?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Corporate risk framework",
+        "textTh": "กรอบความเสี่ยงองค์กร",
+        "analysis": "ผิด - เป็นเอกสารบริหารความเสี่ยง ไม่ได้ทำให้พนักงานทุกคนอยากให้ความร่วมมือ"
+      },
+      {
+        "id": "B",
+        "text": "Corporate culture",
+        "textTh": "วัฒนธรรมองค์กร (Corporate culture)",
+        "analysis": "ถูกต้อง - นโยบายจะถูกต่อต้านหรือไม่ ขึ้นอยู่กับว่ามันขัดกับ 'วัฒนธรรม' ของพนักงานที่นั่นหรือไม่ หากต้องการให้ทุกคนยอมรับและสนับสนุน (Organization-wide support) โปรแกรมนั้นจะต้องถูกออกแบบมาให้เข้ากับวิถีชีวิตและวัฒนธรรมขององค์กร (Corporate culture) ให้มากที่สุด (ลดแรงเสียดทาน)"
+      },
+      {
+        "id": "C",
+        "text": "Clarity of security roles and responsibilities",
+        "textTh": "ความชัดเจนของบทบาทหน้าที่",
+        "analysis": "ผิด - ชัดเจนแต่ถ้าขัดใจคนทำ ก็ไม่ได้รับ Support อยู่ดี"
+      },
+      {
+        "id": "D",
+        "text": "Maturity of the security policy",
+        "textTh": "วุฒิภาวะของนโยบาย",
+        "analysis": "ผิด - นโยบายดีแค่ไหน ถ้าคนไม่ยอมรับก็ไปไม่รอด"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'organization-wide support' การจะได้รับการยอมรับจากคนหมู่มาก (Buy-in) ในระดับ Governance สิ่งที่ต้องแคร์ที่สุดคือ 'Corporate Culture (วัฒนธรรมองค์กร)' เพราะ Culture eats strategy for breakfast",
+    "referenceLink": "https://www.examprepper.co/exam/161/18",
+    "studyTechnique": "จำไว้ว่า การสร้างการยอมรับ (Support/Buy-in) จากพนักงาน/องค์กร = ต้องพิจารณา Corporate Culture"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following is the BEST way to ensure the business continuity plan (BCP) is current?",
+    "questionTh": "ข้อใดเป็นวิธีที่ดีที่สุดในการรับประกันว่า แผนความต่อเนื่องทางธุรกิจ (BCP) 'เป็นปัจจุบัน (Current)' เสมอ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Manage business process changes.",
+        "textTh": "จัดการการเปลี่ยนแปลงกระบวนการทางธุรกิจ (Manage business process changes)",
+        "analysis": "ถูกต้อง - ธุรกิจมีการเปลี่ยนแปลงตลอดเวลา (เช่น แผนกใหม่, ระบบใหม่) วิธีเดียวที่จะทำให้แผน BCP อัปเดตตามความเป็นจริงเสมอ คือการ 'ผูก/บูรณาการ' การแก้ไขแผน BCP เข้ากับ 'กระบวนการจัดการการเปลี่ยนแปลงของธุรกิจ (Change Management)' เมื่อธุรกิจเปลี่ยน แผนก็จะถูกบังคับให้เปลี่ยนตาม"
+      },
+      {
+        "id": "B",
+        "text": "Update business impact analyses (BIAs) on a regular basis.",
+        "textTh": "อัปเดต BIA เป็นประจำ",
+        "analysis": "ผิด - เป็นสิ่งที่ดี แต่เป็นรอบเวลา (เช่น รายปี) ระหว่างปีหากมีการเปลี่ยนแปลง แผนอาจไม่อัปเดตได้ทันทีเท่าการผูกติดกับ Change process"
+      },
+      {
+        "id": "C",
+        "text": "Review and update emergency contact lists.",
+        "textTh": "ทบทวนและอัปเดตรายชื่อติดต่อ",
+        "analysis": "ผิด - เป็นแค่ส่วนประกอบเล็กๆ ของแผน"
+      },
+      {
+        "id": "D",
+        "text": "Conduct periodic testing.",
+        "textTh": "ดำเนินการทดสอบเป็นระยะ",
+        "analysis": "ผิด - การซ้อมแผนทำให้รู้ว่าแผนเก่า แต่ไม่ได้ป้องกันความล้าสมัยในเชิงรุก (Proactive) เท่ากับข้อ A"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'ensure the BCP is current' การทำให้เอกสารหรือแผนอัปเดตอยู่เสมอ (Current/Up-to-date) ต้องผูกมันเข้ากับกระบวนการ 'Change Management' หรือการจัดการการเปลี่ยนแปลง เพื่อให้ทุกครั้งที่มีของใหม่เข้ามา จะต้องมีการอัปเดตแผนควบคู่กันไปเสมอ",
+    "referenceLink": "https://www.examprepper.co/exam/161/18",
+    "studyTechnique": "จำไว้ว่า ทำให้ BCP เป็นปัจจุบันเสมอ (Current) = ผูกเข้ากับ Change Management (Manage business process changes)"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following would be MOST useful when determining the business continuity strategy for a large organization's data center?",
+    "questionTh": "ข้อใดจะมีประโยชน์มากที่สุดเมื่อกำหนด 'กลยุทธ์ความต่อเนื่องทางธุรกิจ (BC strategy)' สำหรับศูนย์ข้อมูลขององค์กรขนาดใหญ่?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Business impact analysis (BIA)",
+        "textTh": "การวิเคราะห์ผลกระทบทางธุรกิจ (BIA)",
+        "analysis": "ถูกต้อง - กฎพื้นฐานของการทำ Business Continuity Management (BCM) คือ เราไม่สามารถเลือก 'กลยุทธ์ (Strategy)' ได้เลย หากเราไม่มีผลลัพธ์จาก BIA (ซึ่งบอกความสำคัญ RTO/RPO และผลกระทบทางการเงิน) ดังนั้น BIA คือ Input ที่มีประโยชน์ที่สุดและขาดไม่ได้ในการเลือก Strategy ว่าจะใช้ Hot Site, Cold Site หรือ Cloud"
+      },
+      {
+        "id": "B",
+        "text": "Incident root cause analysis",
+        "textTh": "การวิเคราะห์สาเหตุของเหตุการณ์",
+        "analysis": "ผิด - เป็นการดูอดีต ไม่ได้ช่วยวางกลยุทธ์สำหรับทุกภัยพิบัติ"
+      },
+      {
+        "id": "C",
+        "text": "Stakeholder feedback analysis",
+        "textTh": "การวิเคราะห์ข้อเสนอแนะจากผู้มีส่วนได้ส่วนเสีย",
+        "analysis": "ผิด - สำคัญแต่ข้อมูลหลักต้องมาจาก BIA"
+      },
+      {
+        "id": "D",
+        "text": "Business continuity risk analysis",
+        "textTh": "การวิเคราะห์ความเสี่ยงด้านความต่อเนื่อง",
+        "analysis": "ผิด - Risk analysis ระบุภัยคุกคาม แต่ BIA เป็นตัวชี้ขาดระยะเวลาและมูลค่าความเสียหาย ซึ่งจำเป็นต่อการเลือก Strategy มากที่สุด"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'determining the BC strategy' ลำดับของการทำแผนกู้คืนคือ 1. ทำ BIA -> 2. เอาผลที่ได้มากำหนด Strategy -> 3. เอา Strategy ไปเขียนเป็น Plan ดังนั้น BIA คือสิ่งที่มีประโยชน์และจำเป็นที่สุดสำหรับขั้นตอนนี้",
+    "referenceLink": "https://www.examprepper.co/exam/161/18",
+    "studyTechnique": "จำไว้ว่า ลำดับ BCM: BIA (หา RTO/RPO) -> BC Strategy (เลือก Hot/Cold site) -> BCP/DRP Plan (เขียนแผน)"
+  },
+  {
+    "id": 89,
+    "question": "The results of a risk assessment for a potential network reconfiguration reveal a high likelihood of sensitive data being compromised. What is the information security manager's BEST course of action?",
+    "questionTh": "ผลการประเมินความเสี่ยงสำหรับการปรับโครงสร้างเครือข่ายใหม่ พบว่ามี 'โอกาสสูงมาก (High likelihood)' ที่ข้อมูลสำคัญจะรั่วไหล แนวทางปฏิบัติที่ดีที่สุดของผู้จัดการความปลอดภัยคืออะไร?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Seek an independent opinion to confirm the findings.",
+        "textTh": "ขอความเห็นอิสระเพื่อยืนยันข้อค้นพบ",
+        "analysis": "ผิด - ถ้าประเมินมาแล้วก็ควรเชื่อมั่นในกระบวนการ ไม่จำเป็นต้องรอคนนอก"
+      },
+      {
+        "id": "B",
+        "text": "Determine alignment with existing regulations.",
+        "textTh": "พิจารณาความสอดคล้องกับกฎระเบียบ",
+        "analysis": "ผิด - กฎระเบียบเป็นแค่ส่วนหนึ่ง แต่ปัญหานี้เป็นเรื่องความเสี่ยงระดับธุรกิจ"
+      },
+      {
+        "id": "C",
+        "text": "Report findings to key stakeholders.",
+        "textTh": "รายงานข้อค้นพบต่อผู้มีส่วนได้ส่วนเสียที่สำคัญ (Report findings to key stakeholders)",
+        "analysis": "ถูกต้อง - ผู้จัดการความปลอดภัยมีหน้าที่ประเมินหาความเสี่ยง แต่ 'ไม่มีอำนาจตัดสินใจรับความเสี่ยงแทนธุรกิจ' ดังนั้นเมื่อเจอความเสี่ยงสูง (High risk) สิ่งแรกที่ต้องทำคือ 'รายงาน (Report/Escalate)' ไปยังเจ้าของธุรกิจหรือผู้บริหาร (Key stakeholders/Risk owners) เพื่อให้พวกเขารับทราบและตัดสินใจว่าจะแก้หรือจะยอมรับความเสี่ยงนั้น"
+      },
+      {
+        "id": "D",
+        "text": "Recommend additional network segmentation.",
+        "textTh": "แนะนำการแบ่งส่วนเครือข่ายเพิ่มเติม",
+        "analysis": "ผิด - การแนะนำวิธีแก้ (Mitigation) เป็นสิ่งที่ดี แต่ต้องแจ้งให้ Stakeholder ทราบถึงความเสี่ยงก่อน เพื่อขออนุมัติการแก้ไข"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'high likelihood of data being compromised' และ 'BEST course of action' เจอความเสี่ยงสูง -> ต้องรายงานเจ้าของความเสี่ยง (Risk Owner / Stakeholders) เสมอ เพื่อประกอบการตัดสินใจ",
+    "referenceLink": "https://www.examprepper.co/exam/161/18",
+    "studyTechnique": "จำไว้ว่า ตรวจเจอความเสี่ยงสูง (High Risk) -> ห้ามแอบเก็บไว้หรือตัดสินใจรับความเสี่ยงเอง -> ต้องแจ้ง Risk Owner/Stakeholder ให้รับทราบและตัดสินใจ"
+  },
+  {
+    "id": 90,
+    "question": "Who should be included in INITIAL discussions regarding a failed security control?",
+    "questionTh": "ใครควรมีส่วนร่วมในการอภิปราย 'เบื้องต้น (INITIAL)' เกี่ยวกับการควบคุมความปลอดภัยที่ล้มเหลว (Failed security control)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penetration testers",
+        "textTh": "ผู้ทดสอบเจาะระบบ",
+        "analysis": "ผิด - เป็นเพียงคนตรวจหา ไม่ใช่คนรับผิดชอบ"
+      },
+      {
+        "id": "B",
+        "text": "The service provider",
+        "textTh": "ผู้ให้บริการ",
+        "analysis": "ผิด - จะเรียกคุยก็ต่อเมื่อควบคุมนั้นเป็นของ Vendor แต่ก็ไม่ใช่คนแรกสุด"
+      },
+      {
+        "id": "C",
+        "text": "Senior management",
+        "textTh": "ผู้บริหารระดับสูง",
+        "analysis": "ผิด - ผู้บริหารไม่ต้องลงมาดูทุก Control ที่พัง ให้รายงานต่อเมื่อกระทบภาพรวม"
+      },
+      {
+        "id": "D",
+        "text": "The process owner",
+        "textTh": "เจ้าของกระบวนการ (The process owner)",
+        "analysis": "ถูกต้อง - เจ้าของกระบวนการธุรกิจ (Process Owner หรือ Business Owner) คือ 'เจ้าของความเสี่ยง (Risk Owner)' ที่แท้จริง เมื่อระบบควบคุมที่ปกป้องงานของเขาพัง คนแรกที่ต้องรับรู้และมาร่วมหารือหาทางออก (ว่าจะชดเชยด้วยวิธีอื่น หรือยอมรับความเสี่ยงชั่วคราว) ก็คือเจ้าของงานนั่นเอง"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'INITIAL discussions' สำหรับ 'failed control' Control พังแปลว่าความเสี่ยงเพิ่ม คนที่รับผิดชอบความเสี่ยงคือ Risk Owner ซึ่งก็คือ Business/Process Owner ดังนั้นต้องคุยกับเขาเป็นคนแรก",
+    "referenceLink": "https://www.examprepper.co/exam/161/18",
+    "studyTechnique": "จำไว้ว่า Control พัง / มีช่องโหว่ / กระทบธุรกิจ -> คนแรกที่ต้องคุยด้วยคือ Risk Owner (Process/Business Owner)"
+  },
+  {
+    "id": 91,
+    "question": "An employee clicked on a link in a phishing email, triggering a ransomware attack. Which of the following should be the information security manager's FIRST step?",
+    "questionTh": "พนักงานคลิกลิงก์ในอีเมลฟิชชิ่ง ซึ่งส่งผลให้เกิดการโจมตีจากแรนซัมแวร์ ข้อใดควรเป็น 'ขั้นตอนแรก (FIRST)' ของผู้จัดการความปลอดภัยข้อมูล?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Notify internal legal counsel.",
+        "textTh": "แจ้งที่ปรึกษาทางกฎหมายภายใน",
+        "analysis": "ผิด - เป็นขั้นตอนการสื่อสารหลังจากคุมสถานการณ์ได้แล้ว"
+      },
+      {
+        "id": "B",
+        "text": "Isolate the impacted endpoints.",
+        "textTh": "แยก (Isolate) อุปกรณ์ปลายทางที่ได้รับผลกระทบ",
+        "analysis": "ถูกต้อง - พฤติกรรมของ Ransomware คือการแพร่กระจายตัวข้ามเครื่องในเครือข่ายอย่างรวดเร็ว (Lateral movement) ดังนั้นกฎเหล็กข้อแรกสุดในการรับมือไวรัสประเภทนี้คือการ 'กักกัน (Containment)' ทันทีโดยการตัดการเชื่อมต่อ (Isolate/Disconnect from network) เพื่อจำกัดวงความเสียหาย"
+      },
+      {
+        "id": "C",
+        "text": "Wipe the affected system.",
+        "textTh": "ลบข้อมูล (Wipe) ระบบที่ได้รับผลกระทบ",
+        "analysis": "ผิด - เป็นกระบวนการ Eradication หรือ Recovery ซึ่งทำหลังจาก Isolate และเก็บหลักฐานแล้ว"
+      },
+      {
+        "id": "D",
+        "text": "Notify senior management.",
+        "textTh": "แจ้งผู้บริหารระดับสูง",
+        "analysis": "ผิด - ต้องหยุดความเสียหายไม่ให้ลามก่อน แล้วค่อยรายงานผู้บริหารตามลำดับ"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'ransomware attack' และ 'FIRST step' ตามแผน Incident Response สิ่งแรกที่ต้องทำเมื่อเจอภัยคุกคามที่มีการลุกลาม (Active spread) คือ Containment ซึ่งก็คือการ Isolate เครื่องออกจากระบบเครือข่าย",
+    "referenceLink": "https://www.examprepper.co/exam/161/19",
+    "studyTechnique": "จำไว้ว่า เจอ Ransomware/Worm -> ปลดสายแลน/ตัดเน็ตทันที (Isolate / Containment)"
+  },
+  {
+    "id": 92,
+    "question": "An organization has implemented a new customer relationship management (CRM) system. Who should be responsible for enforcing authorized and controlled access to the CRM data?",
+    "questionTh": "องค์กรได้นำระบบ CRM ใหม่มาใช้ 'ใครควรรับผิดชอบในการบังคับใช้ (enforcing)' การเข้าถึงข้อมูล CRM อย่างมีสิทธิ์และมีการควบคุม?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data custodian",
+        "textTh": "ผู้ดูแลข้อมูล (The data custodian)",
+        "analysis": "ถูกต้อง - โปรดสังเกตคำว่า 'บังคับใช้ (Enforcing)' Data Owner มีหน้าที่ 'กำหนด (Determine)' ว่าใครมีสิทธิ์เข้าถึง แต่ Data Custodian (เช่น ฝ่าย IT, System Admin) มีหน้าที่ 'นำคำสั่งนั้นไปปฏิบัติและบังคับใช้ (Implement and Enforce)' ในระบบเทคนิค"
+      },
+      {
+        "id": "B",
+        "text": "The data owner",
+        "textTh": "เจ้าของข้อมูล",
+        "analysis": "ผิด - เจ้าของข้อมูลตัดสินใจและอนุมัติสิทธิ์ (Determine/Authorize) แต่ไม่ได้เป็นคนลงมือตั้งค่ารหัสผ่านหรือบังคับใช้สิทธิ์ในระบบ"
+      },
+      {
+        "id": "C",
+        "text": "Internal IT audit",
+        "textTh": "ผู้ตรวจสอบไอทีภายใน",
+        "analysis": "ผิด - มีหน้าที่ตรวจสอบความถูกต้อง (Review) เท่านั้น"
+      },
+      {
+        "id": "D",
+        "text": "The information security manager",
+        "textTh": "ผู้จัดการความปลอดภัย",
+        "analysis": "ผิด - เป็นผู้ออกแบบนโยบาย แต่ไม่ใช่คนลงมือบังคับใช้สิทธิ์แบบรายวัน"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'enforcing access' (ลงมือบังคับใช้ทางเทคนิค) ใน CISM: \n- Data Owner = อนุมัติสิทธิ์ / จัดประเภทข้อมูล \n- Data Custodian = บังคับใช้ (Enforce) / ตั้งค่าระบบ / แบ็กอัปข้อมูล",
+    "referenceLink": "https://www.examprepper.co/exam/161/19",
+    "studyTechnique": "จำไว้ว่า Owner = Determine/Approve (สั่งการ) | Custodian = Implement/Enforce (ลงมือทำตามสั่ง)"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following should an information security manager do FIRST upon learning of a new ransomware targeting a particular line of business?",
+    "questionTh": "ผู้จัดการควรทำสิ่งใดเป็นอันดับแรก (FIRST) เมื่อทราบว่ามีแรนซัมแวร์สายพันธุ์ใหม่ 'พุ่งเป้าไปที่สายธุรกิจเฉพาะ'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ensure backups are stored offsite.",
+        "textTh": "ตรวจสอบให้แน่ใจว่าเก็บข้อมูลสำรองไว้นอกสถานที่",
+        "analysis": "ผิด - เป็นการตอบสนองที่ดี แต่ควรประเมินก่อนว่าองค์กรเรามีความเสี่ยงระดับไหนกับไวรัสตัวนี้"
+      },
+      {
+        "id": "B",
+        "text": "Conduct a disaster recovery test and address any gaps.",
+        "textTh": "ทดสอบ DR และแก้ไขช่องโหว่",
+        "analysis": "ผิด - ใช้เวลาและงบประมาณมากเกินไปสำหรับการตอบสนองเบื้องต้น"
+      },
+      {
+        "id": "C",
+        "text": "Assess the potential impact to the organization.",
+        "textTh": "ประเมินผลกระทบที่อาจเกิดขึ้นกับองค์กร (Assess potential impact)",
+        "analysis": "ถูกต้อง - เมื่อได้ข่าว 'ภัยคุกคามใหม่ (New Threat)' กฎเหล็กคือห้ามตื่นตระหนกและลงมือทำอะไรก่อนที่จะ 'ประเมิน (Assess)' ว่าองค์กรเรามีช่องโหว่ที่ตรงกับไวรัสตัวนี้ไหม และผลกระทบต่อเราคืออะไร เพื่อที่จะได้นำไปวางแผนรับมือได้อย่างถูกต้องและคุ้มค่า"
+      },
+      {
+        "id": "D",
+        "text": "Conduct a vulnerability scan and remediate the findings.",
+        "textTh": "สแกนช่องโหว่และแก้ไขตามที่พบ",
+        "analysis": "ผิด - เป็นขั้นตอนถัดไป หลังจากที่เราประเมิน (Assess) ภาพรวมผลกระทบแล้ว"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'FIRST' และ 'learning of a new threat' เมื่อมี Threat ข่าวกรองใหม่เข้ามา (Threat Intel) ขั้นตอนแรกสุดในกระบวนการคือการ 'ทำ Risk/Impact Assessment' เสมอ เพื่อแปลงภัยคุกคามโลกให้เป็นบริบทขององค์กรเรา",
+    "referenceLink": "https://www.examprepper.co/exam/161/19",
+    "studyTechnique": "จำไว้ว่า เจอข่าวภัยคุกคามใหม่ (New threat alert) -> ขั้นแรกคือประเมินผลกระทบ/ความเสี่ยง (Assess Impact/Risk) ก่อนตัดสินใจลงทุนแก้"
+  },
+  {
+    "id": 94,
+    "question": "Which of the following should be the PRIMARY objective when establishing a new information security program?",
+    "questionTh": "ข้อใดควรเป็น 'วัตถุประสงค์หลัก (PRIMARY objective)' เมื่อสร้างโปรแกรมความปลอดภัยข้อมูลใหม่ (New information security program)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facilitating operational security",
+        "textTh": "อำนวยความสะดวกในการรักษาความปลอดภัยเชิงปฏิบัติการ",
+        "analysis": "ผิด - เป็นผลลัพธ์ย่อยระดับล่าง"
+      },
+      {
+        "id": "B",
+        "text": "Optimizing resources",
+        "textTh": "เพิ่มประสิทธิภาพการใช้ทรัพยากร",
+        "analysis": "ผิด - เป็นเป้าหมายรองของการบริหารจัดการ"
+      },
+      {
+        "id": "C",
+        "text": "Minimizing organizational risk",
+        "textTh": "ลดความเสี่ยงขององค์กรให้น้อยที่สุด",
+        "analysis": "ผิด - เป้าหมายไม่ใช่การลดให้น้อยที่สุด (Minimize) แต่คือให้อยู่ในระดับที่ยอมรับได้ (Acceptable level)"
+      },
+      {
+        "id": "D",
+        "text": "Executing the security strategy",
+        "textTh": "ดำเนินงานตามกลยุทธ์ความปลอดภัย (Executing the security strategy)",
+        "analysis": "ถูกต้อง - ในโครงสร้าง CISM โปรแกรม (Program) ถูกสร้างขึ้นมาเพื่อวัตถุประสงค์เดียวคือ 'การนำกลยุทธ์ (Strategy) มาทำให้เกิดขึ้นจริง (Execute)' โปรแกรมเปรียบเสมือนแขนขา ส่วนกลยุทธ์เปรียบเสมือนสมอง วัตถุประสงค์หลักของโปรแกรมจึงคือการทำตามกลยุทธ์ให้สำเร็จ"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'objective of establishing a security program' ลำดับโครงสร้างคือ Governance -> Strategy -> Program ดังนั้นหน้าที่หรือเป้าหมายหลักของ Program ก็คือการ 'Execute (ลงมือทำ)' สิ่งที่เขียนไว้ใน Strategy นั่นเอง",
+    "referenceLink": "https://www.examprepper.co/exam/161/19",
+    "studyTechnique": "จำไว้ว่า เป้าหมายหลักของ Information Security Program = การลงมือทำตามกลยุทธ์ (Executing the strategy)"
+  },
+  {
+    "id": 95,
+    "question": "An organization implemented a number of technical and administrative controls to mitigate risk associated with ransomware. Which of the following is MOST important to present to senior management when reporting on the performance of this initiative?",
+    "questionTh": "องค์กรได้ติดตั้งระบบควบคุมต่างๆ เพื่อลดความเสี่ยงแรนซัมแวร์ ข้อใดสำคัญที่สุดในการนำเสนอต่อผู้บริหารระดับสูงเมื่อรายงาน 'ผลการดำเนินงาน' ของโครงการนี้?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The number and severity of ransomware incidents",
+        "textTh": "จำนวนและความรุนแรงของเหตุการณ์แรนซัมแวร์",
+        "analysis": "ผิด - เป็นข้อมูลสถิติที่ไม่ได้บอกว่าสิ่งที่เราลงทุนไปนั้นคุ้มค่าหรือไม่"
+      },
+      {
+        "id": "B",
+        "text": "The total cost of the investment",
+        "textTh": "ต้นทุนรวมของการลงทุน",
+        "analysis": "ผิด - บอกแค่ว่าเสียเงินไปเท่าไหร่ แต่ไม่ได้บอกว่าได้อะไรกลับมา"
+      },
+      {
+        "id": "C",
+        "text": "Benchmarks of industry peers impacted by ransomware",
+        "textTh": "ข้อมูลเปรียบเทียบจากคู่แข่งที่โดนโจมตี",
+        "analysis": "ผิด - เป็นแค่บริบทแวดล้อม"
+      },
+      {
+        "id": "D",
+        "text": "The cost and associated risk reduction",
+        "textTh": "ต้นทุน และ การลดความเสี่ยงที่เกี่ยวข้อง (Cost and risk reduction)",
+        "analysis": "ถูกต้อง - ผู้บริหารระดับสูงสื่อสารด้วย 'ภาษาธุรกิจ (Business Value)' การจะรายงานผลว่าโครงการที่ขอเงินไปประสบความสำเร็จหรือไม่ ต้องโชว์ให้เห็น 'ความคุ้มค่า' นั่นคือการเปรียบเทียบให้เห็นว่า ต้นทุนที่จ่ายไป (Cost) แลกมากับการลดความเสี่ยง/ลดความเสียหายได้เท่าไหร่ (Risk reduction / Value delivery)"
+      }
+    ],
+    "correctOptionId": "D",
+    "explanation": "Key Word คือ 'present to senior management' และ 'reporting on performance' บอร์ดบริหารสนใจเรื่องความคุ้มค่า (Cost-benefit) และมูลค่าที่ได้รับ (Value delivery) ข้อมูลที่ดีที่สุดจึงเป็นเรื่องเงินลงทุนเทียบกับความเสี่ยงที่ลดลง",
+    "referenceLink": "https://www.examprepper.co/exam/161/19",
+    "studyTechnique": "จำไว้ว่า รายงานผู้บริหาร (Senior Management Report) = เน้นความคุ้มค่า (Cost vs Benefit / Risk Reduction)"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is the BEST defense against distributed denial of service (DDoS) attacks?",
+    "questionTh": "ข้อใดเป็นการป้องกันการโจมตีแบบ DDoS (Distributed Denial of Service) ได้ดีที่สุด?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regular patching",
+        "textTh": "การแพตช์ระบบอย่างสม่ำเสมอ",
+        "analysis": "ผิด - แพตช์อุดช่องโหว่ แต่ DDoS เป็นการยิงทราฟฟิกขยะปริมาณมหาศาลเพื่อทำให้ระบบล่ม แพตช์ไม่ช่วยลดทราฟฟิก"
+      },
+      {
+        "id": "B",
+        "text": "Multiple and redundant paths",
+        "textTh": "เส้นทางเชื่อมต่อที่หลากหลายและซ้ำซ้อนกัน (Multiple and redundant paths)",
+        "analysis": "ถูกต้อง - หลักการของ DDoS คือการอุดตันแบนด์วิดท์ (ท่อส่งข้อมูล) วิธีต้านทานทางสถาปัตยกรรมที่ดีที่สุดคือ 'การมีท่อหลายสาย (Redundancy)' และระบบประมวลผลที่กระจายตัว (เช่น CDN, Cloud scrubbing) หากท่อหนึ่งถูกยิงจนเต็ม ก็ยังมีเส้นทางอื่น (Redundant paths) ในการให้บริการต่อไปได้ ทำให้แฮ็กเกอร์ต้องใช้ทรัพยากรมหาศาลกว่าจะทำให้ระบบล่มทั้งหมด"
+      },
+      {
+        "id": "C",
+        "text": "Intruder-detection lockout",
+        "textTh": "การล็อกเอ้าต์เมื่อตรวจพบผู้บุกรุก",
+        "analysis": "ผิด - ใช้กัน Brute force ไม่ใช่ DDoS"
+      },
+      {
+        "id": "D",
+        "text": "Well-configured routers and firewalls",
+        "textTh": "เราเตอร์และไฟร์วอลล์ที่ตั้งค่ามาอย่างดี",
+        "analysis": "ผิด - ไฟร์วอลล์เองก็สามารถถูก DDoS จนล่ม (State exhaustion) ได้เช่นกันหากแบนด์วิดท์เต็ม"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'BEST defense' ต่อ 'DDoS' วิธีรับมือ DDoS ที่ได้ผลที่สุดในเชิงโครงสร้างคือการมีความยืดหยุ่นและการสำรองทรัพยากร (Redundancy / CDN / Scrubbing centers) เพื่อรับแรงกระแทกจากทราฟฟิกมหาศาล",
+    "referenceLink": "https://www.examprepper.co/exam/161/20",
+    "studyTechnique": "จำไว้ว่า ป้องกัน DDoS (Traffic เยอะ) = ต้องมีท่อใหญ่ๆ หรือมีท่อหลายสายเพื่อรับแรงกระแทก (Multiple and Redundant paths)"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following scenarios would MOST likely require a change to corporate security policies?",
+    "questionTh": "สถานการณ์ในข้อใดมีแนวโน้ม 'มากที่สุด' ที่จะทำให้ต้องมีการเปลี่ยนแปลง 'นโยบาย' ความปลอดภัยองค์กร (Corporate security policies)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "New security standards have been implemented.",
+        "textTh": "มีการบังคับใช้มาตรฐานความปลอดภัยใหม่",
+        "analysis": "ผิด - มาตรฐาน (Standards) ต้องเปลี่ยนตาม Policy ไม่ใช่ Policy เปลี่ยนตาม Standards"
+      },
+      {
+        "id": "B",
+        "text": "Employees do not understand or adhere to the policies.",
+        "textTh": "พนักงานไม่เข้าใจหรือไม่ปฏิบัติตามนโยบาย",
+        "analysis": "ผิด - ถ้าคนไม่ทำตาม ก็ต้องไปแก้ที่การอบรม (Awareness training) ไม่ใช่แก้ Policy ให้หย่อนยาน"
+      },
+      {
+        "id": "C",
+        "text": "The organization has undergone a merger.",
+        "textTh": "องค์กรผ่านการควบรวมกิจการ (Merger)",
+        "analysis": "ถูกต้อง - นโยบาย (Policy) คือเอกสารระดับสูงสุดที่สะท้อน 'เป้าหมายและวิสัยทัศน์ทางธุรกิจ' การควบรวมกิจการ (Merger & Acquisition) เป็นการเปลี่ยนแปลงสภาพแวดล้อมและเป้าหมายทางธุรกิจครั้งใหญ่ที่สุด (Major business change) ซึ่งจะส่งผลให้โปรไฟล์ความเสี่ยงเปลี่ยน วัฒนธรรมเปลี่ยน ดังนั้น Policy จึง 'จำเป็น' ต้องถูกรื้อและเขียนใหม่ให้สอดคล้องกับองค์กรที่เกิดใหม่"
+      },
+      {
+        "id": "D",
+        "text": "The organization incurs an increased number of security incidents.",
+        "textTh": "องค์กรประสบเหตุการณ์ความปลอดภัยเพิ่มขึ้น",
+        "analysis": "ผิด - เหตุการณ์เพิ่มขึ้นอาจจะต้องแก้ที่ Controls หรือ Standards ไม่ใช่เปลี่ยน Policy"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'change to corporate security policies' Policy จะเปลี่ยนก็ต่อเมื่อ 'เป้าหมายทางธุรกิจ (Business objectives) หรือ กฎหมาย (Regulations) เปลี่ยนแปลง' ซึ่งการควบรวมกิจการถือเป็นการเปลี่ยนโฉมธุรกิจครั้งใหญ่",
+    "referenceLink": "https://www.examprepper.co/exam/161/20",
+    "studyTechnique": "จำไว้ว่า นโยบาย (Policy) จะเปลี่ยนก็ต่อเมื่อ = ธุรกิจเปลี่ยน (เช่น ควบรวมกิจการ) หรือ กฎหมายเปลี่ยน"
+  },
+  {
+    "id": 98,
+    "question": "While conducting a test of a business continuity plan (BCP), which of the following is the MOST important consideration?",
+    "questionTh": "ในขณะดำเนินการ 'ทดสอบ' แผนความต่อเนื่องทางธุรกิจ (BCP test) ข้อใดคือข้อพิจารณาที่ 'สำคัญที่สุด'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The test involves IT members in the test process.",
+        "textTh": "การทดสอบมีสมาชิกไอทีร่วมกระบวนการ",
+        "analysis": "ผิด - BCP เป็นเรื่องของธุรกิจ ควรมี Business users ร่วมด้วย ไม่ใช่แค่ IT"
+      },
+      {
+        "id": "B",
+        "text": "The test simulates actual prime-time processing conditions.",
+        "textTh": "การทดสอบจำลองสภาพการประมวลผลจริงในช่วงเวลาเร่งด่วน (Prime-time)",
+        "analysis": "ผิด - การจำลองช่วงเวลาทำงานหนัก (Prime-time) อาจทำให้ระบบล่มจริงได้ และมีความเสี่ยงสูงมาก"
+      },
+      {
+        "id": "C",
+        "text": "The test is scheduled to reduce operational impact.",
+        "textTh": "การทดสอบถูกกำหนดเวลาเพื่อลดผลกระทบต่อการดำเนินงาน (Reduce operational impact)",
+        "analysis": "ถูกต้อง - กฎทองคำ (Golden Rule) ของการทดสอบ BCP/DRP คือ 'การทดสอบจะต้องไม่ก่อให้เกิดภัยพิบัติเสียเอง' (Test should not cause a disaster) ดังนั้นข้อพิจารณาที่สำคัญและต้องระวังมากที่สุดคือ การจัดการทดสอบในช่วงเวลาที่เกิดผลกระทบต่อธุรกิจน้อยที่สุด (เช่น เสาร์อาทิตย์ หรือหลังเลิกงาน) เพื่อป้องกันไม่ให้กระทบผู้ใช้งานจริง"
+      },
+      {
+        "id": "D",
+        "text": "The test addresses the critical components.",
+        "textTh": "การทดสอบครอบคลุมองค์ประกอบที่สำคัญ",
+        "analysis": "ผิด - เป็นสิ่งสำคัญ แต่ข้อที่ห้ามละเมิดเด็ดขาดคือความปลอดภัยของระบบ Production (ข้อ C สำคัญในแง่ความเสี่ยงขณะทดสอบ)"
+      }
+    ],
+    "correctOptionId": "C",
+    "explanation": "Key Word คือ 'consideration' ขณะ 'conducting a test' CISM เน้นย้ำเสมอว่า การทดสอบ (Testing) ไม่ว่าจะแบบใดก็ตาม ต้องมั่นใจเป็นอันดับแรกว่ามันจะไม่ไปขัดขวางหรือทำให้ระบบ Production ของธุรกิจพัง (Minimize/Reduce operational impact)",
+    "referenceLink": "https://www.examprepper.co/exam/161/20",
+    "studyTechnique": "จำไว้ว่า กฎทองของการ Test (ซ้อมแผน) = ห้ามทำให้ระบบจริงล่มเด็ดขาด (Reduce operational impact / Do not cause disaster)"
+  },
+  {
+    "id": 99,
+    "question": "When testing an incident response plan for recovery from a ransomware attack, which of the following is MOST important to verify?",
+    "questionTh": "เมื่อทำการทดสอบแผนการตอบสนองเพื่อกู้คืนจาก 'การโจมตีด้วยแรนซัมแวร์' สิ่งใดสำคัญที่สุดที่ต้องตรวจสอบ (Verify)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "An alternative network link is immediately available.",
+        "textTh": "ลิงก์เครือข่ายสำรองพร้อมใช้งานทันที",
+        "analysis": "ผิด - Ransomware ไม่ได้โจมตีเครือข่าย แต่โจมตีข้อมูล"
+      },
+      {
+        "id": "B",
+        "text": "Data backups are recoverable from an offsite location.",
+        "textTh": "สามารถกู้คืนข้อมูลสำรองจากสถานที่ภายนอก (Offsite location) ได้",
+        "analysis": "ถูกต้อง - พฤติกรรมของ Ransomware สมัยใหม่คือมันจะตามไปเข้ารหัส (Encrypt) และทำลายไฟล์ Backup ที่เชื่อมต่ออยู่ในระบบเดียวกันด้วย (Online backups) ดังนั้นสิ่งเดียวที่จะช่วยชีวิตองค์กรได้คือ การมี 'Backup ที่แยกออกไปต่างหาก (Offsite / Offline backup)' และต้องมั่นใจว่ามันสามารถดึงกลับมากู้คืนได้จริง"
+      },
+      {
+        "id": "C",
+        "text": "Network access requires two-factor authentication.",
+        "textTh": "การเข้าถึงเครือข่ายต้องมีการยืนยันตัวตนแบบ 2FA",
+        "analysis": "ผิด - เป็นวิธีป้องกัน (Prevent) แต่คำถามถามถึงตอนกู้คืน (Recovery)"
+      },
+      {
+        "id": "D",
+        "text": "Digital currency is immediately available.",
+        "textTh": "มีสกุลเงินดิจิทัล (Crypto) พร้อมจ่ายทันที",
+        "analysis": "ผิด - ไม่สนับสนุนให้จ่ายค่าไถ่ เพราะไม่รับประกันว่าจะได้ข้อมูลคืน"
+      }
+    ],
+    "correctOptionId": "B",
+    "explanation": "Key Word คือ 'recovery from a ransomware attack' ไพ่ตายใบสุดท้ายในการสู้กับ Ransomware คือ 'ระบบสำรองข้อมูลแบบออฟไลน์/ออฟไซต์ (Offline/Offsite Backups)' ที่ไม่เชื่อมต่อกับเครือข่ายหลัก การซ้อมแผนต้องพิสูจน์ให้ได้ว่าดึงข้อมูลก้อนนี้มาใช้ได้จริง",
+    "referenceLink": "https://www.examprepper.co/exam/161/20",
+    "studyTechnique": "จำไว้ว่า อาวุธปราบ Ransomware / กู้คืนข้อมูล (Recovery) = Offline / Offsite Backups"
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is the GREATEST benefit of incorporating information security governance into the corporate governance framework?",
+    "questionTh": "ข้อใดคือประโยชน์สูงสุด (GREATEST benefit) ของการควบรวม 'ธรรมาภิบาลด้านความปลอดภัย' เข้าไปเป็นส่วนหนึ่งของ 'กรอบธรรมาภิบาลระดับองค์กร'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Management accountability for information security",
+        "textTh": "ความรับผิดชอบของฝ่ายบริหาร (Management accountability) ต่อความปลอดภัยข้อมูล",
+        "analysis": "ถูกต้อง - เมื่อ Security Governance ถูกดึงไปเป็นส่วนหนึ่งของ Corporate Governance (ซึ่งควบคุมโดยบอร์ดบริหารระดับสูงสุด) สิ่งที่เกิดขึ้นคือ 'ผู้บริหารระดับสูงจะต้องรับผิดชอบ (Accountable)' ต่อเรื่องความปลอดภัยไซเบอร์เหมือนกับที่เป็นหน้าที่หลักของธุรกิจ เมื่อบอร์ดต้องรับผิดชอบโดยตรง ย่อมส่งผลให้เกิดการสนับสนุน (Tone at the top), งบประมาณ และทรัพยากรที่เพียงพอตามมา"
+      },
+      {
+        "id": "B",
+        "text": "Improved process resiliency in the event of attacks",
+        "textTh": "ความยืดหยุ่นของกระบวนการดีขึ้นเมื่อถูกโจมตี",
+        "analysis": "ผิด - เป็นผลลัพธ์ระดับปฏิบัติการ (Operational) ไม่ใช่ประโยชน์หลักระดับธรรมาภิบาล"
+      },
+      {
+        "id": "C",
+        "text": "Promotion of security-by-design principles to the business",
+        "textTh": "ส่งเสริมหลักการความปลอดภัยตั้งแต่การออกแบบ (Security-by-design)",
+        "analysis": "ผิด - เป็นเป้าหมายของ SDLC/Program"
+      },
+      {
+        "id": "D",
+        "text": "Heightened awareness of information security strategies",
+        "textTh": "ยกระดับความตระหนักรู้เกี่ยวกับกลยุทธ์",
+        "analysis": "ผิด - การทำให้ตระหนักรู้ไม่สู้การทำให้บอร์ด 'ต้องรับผิดชอบ (Accountability)' เพราะกฎหมายและ Governance จะบีบบังคับให้บอร์ดลงมือทำ"
+      }
+    ],
+    "correctOptionId": "A",
+    "explanation": "Key Word คือ 'incorporating security into corporate governance' ประโยชน์สูงสุดของการเอา Security ไปผูกกับ Corporate Governance คือการยกฐานะงาน Security ให้เป็นความรับผิดชอบ (Accountability) ระดับสูงสุดของบริษัท",
+    "referenceLink": "https://www.examprepper.co/exam/161/20",
+    "studyTechnique": "จำไว้ว่า Security Governance เข้าไปอยู่ใน Corporate Governance = สร้าง Management Accountability (บอร์ดบริหารต้องรับผิดชอบเรื่องไซเบอร์)"
+  }
+]
