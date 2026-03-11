@@ -92,28 +92,6 @@
         </div>
       </div>
 
-      <div class="mt-6 pt-6 border-t border-slate-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <button
-          @click="showAnswer = !showAnswer"
-          class="flex items-center gap-2 px-5 py-2.5 rounded-xl font-medium transition-all"
-          :class="showAnswer ? 'bg-slate-100 text-slate-700 hover:bg-slate-200' : 'bg-indigo-600 text-white hover:bg-indigo-700 shadow-sm hover:shadow'"
-        >
-          <ChevronUp v-if="showAnswer" class="w-4 h-4" />
-          <ChevronDown v-else class="w-4 h-4" />
-          {{ showAnswer ? 'ซ่อนเฉลย' : 'ดูเฉลยและคำอธิบาย' }}
-        </button>
-
-        <Transition name="fade-slide">
-          <div
-            v-if="showAnswer"
-            class="flex items-center gap-2 text-emerald-600 bg-emerald-50 px-4 py-2 rounded-xl"
-          >
-            <BookOpen class="w-4 h-4" />
-            <span class="text-sm font-medium">คำตอบที่ถูกต้อง: {{ question.correctOptionId }}</span>
-          </div>
-        </Transition>
-      </div>
-
       <Transition name="expand">
         <div v-if="showAnswer" class="mt-6">
           <div class="bg-indigo-50 border border-indigo-100 rounded-xl p-5">
@@ -136,6 +114,28 @@
           </div>
         </div>
       </Transition>
+
+      <div class="mt-6 pt-6 border-t border-slate-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+        <button
+          @click="showAnswer = !showAnswer"
+          class="flex items-center gap-2 px-5 py-2.5 rounded-xl font-medium transition-all"
+          :class="showAnswer ? 'bg-slate-100 text-slate-700 hover:bg-slate-200' : 'bg-indigo-600 text-white hover:bg-indigo-700 shadow-sm hover:shadow'"
+        >
+          <ChevronUp v-if="showAnswer" class="w-4 h-4" />
+          <ChevronDown v-else class="w-4 h-4" />
+          {{ showAnswer ? 'ซ่อนเฉลย' : 'ดูเฉลยและคำอธิบาย' }}
+        </button>
+
+        <Transition name="fade-slide">
+          <div
+            v-if="showAnswer"
+            class="flex items-center gap-2 text-emerald-600 bg-emerald-50 px-4 py-2 rounded-xl"
+          >
+            <BookOpen class="w-4 h-4" />
+            <span class="text-sm font-medium">คำตอบที่ถูกต้อง: {{ question.correctOptionId }}</span>
+          </div>
+        </Transition>
+      </div>
     </div>
   </div>
 </template>
