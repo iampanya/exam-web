@@ -28,11 +28,8 @@ export const useQuestions = () => {
     }
   })
   
-  // Re-assign IDs just in case there are duplicates across multiple files
-  allQuestions = allQuestions.map((q, index) => ({
-    ...q,
-    id: index + 1
-  }))
+  // Sort questions by their original ID from the JSON files
+  allQuestions.sort((a, b) => a.id - b.id)
 
   const getPaginatedQuestions = (page: number, itemsPerPage: number = 5) => {
     const start = (page - 1) * itemsPerPage
